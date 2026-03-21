@@ -1,0 +1,13420 @@
+{
+  "total": 3353,
+  "words_freq1": 1603,
+  "words_freq2": 700,
+  "words_freq3plus": 1050,
+  "words": [
+    {
+      "word": "people",
+      "freq": 61
+    },
+    {
+      "word": "glass",
+      "freq": 52
+    },
+    {
+      "word": "travel",
+      "freq": 46
+    },
+    {
+      "word": "two",
+      "freq": 46
+    },
+    {
+      "word": "children",
+      "freq": 42
+    },
+    {
+      "word": "work",
+      "freq": 41
+    },
+    {
+      "word": "tortoises",
+      "freq": 38
+    },
+    {
+      "word": "any",
+      "freq": 37
+    },
+    {
+      "word": "tourism",
+      "freq": 35
+    },
+    {
+      "word": "good",
+      "freq": 32
+    },
+    {
+      "word": "century",
+      "freq": 32
+    },
+    {
+      "word": "theories",
+      "freq": 31
+    },
+    {
+      "word": "vocabulary",
+      "freq": 28
+    },
+    {
+      "word": "during",
+      "freq": 28
+    },
+    {
+      "word": "things",
+      "freq": 27
+    },
+    {
+      "word": "around",
+      "freq": 25
+    },
+    {
+      "word": "years",
+      "freq": 25
+    },
+    {
+      "word": "interviewer",
+      "freq": 25
+    },
+    {
+      "word": "place",
+      "freq": 24
+    },
+    {
+      "word": "world",
+      "freq": 24
+    },
+    {
+      "word": "sheet",
+      "freq": 24
+    },
+    {
+      "word": "agent",
+      "freq": 23
+    },
+    {
+      "word": "different",
+      "freq": 23
+    },
+    {
+      "word": "industry",
+      "freq": 23
+    },
+    {
+      "word": "director",
+      "freq": 23
+    },
+    {
+      "word": "twins",
+      "freq": 23
+    },
+    {
+      "word": "water",
+      "freq": 22
+    },
+    {
+      "word": "boxes",
+      "freq": 22
+    },
+    {
+      "word": "revolution",
+      "freq": 22
+    },
+    {
+      "word": "park",
+      "freq": 21
+    },
+    {
+      "word": "check",
+      "freq": 21
+    },
+    {
+      "word": "officer",
+      "freq": 21
+    },
+    {
+      "word": "intelligence",
+      "freq": 21
+    },
+    {
+      "word": "implicit",
+      "freq": 21
+    },
+    {
+      "word": "read",
+      "freq": 20
+    },
+    {
+      "word": "name",
+      "freq": 20
+    },
+    {
+      "word": "list",
+      "freq": 20
+    },
+    {
+      "word": "few",
+      "freq": 20
+    },
+    {
+      "word": "steps",
+      "freq": 20
+    },
+    {
+      "word": "official",
+      "freq": 20
+    },
+    {
+      "word": "woman",
+      "freq": 20
+    },
+    {
+      "word": "help",
+      "freq": 19
+    },
+    {
+      "word": "step",
+      "freq": 19
+    },
+    {
+      "word": "members",
+      "freq": 19
+    },
+    {
+      "word": "great",
+      "freq": 18
+    },
+    {
+      "word": "year",
+      "freq": 18
+    },
+    {
+      "word": "actually",
+      "freq": 18
+    },
+    {
+      "word": "area",
+      "freq": 18
+    },
+    {
+      "word": "type",
+      "freq": 17
+    },
+    {
+      "word": "possible",
+      "freq": 17
+    },
+    {
+      "word": "course",
+      "freq": 17
+    },
+    {
+      "word": "today",
+      "freq": 17
+    },
+    {
+      "word": "taken",
+      "freq": 17
+    },
+    {
+      "word": "idea",
+      "freq": 16
+    },
+    {
+      "word": "think",
+      "freq": 16
+    },
+    {
+      "word": "industrial",
+      "freq": 16
+    },
+    {
+      "word": "local",
+      "freq": 16
+    },
+    {
+      "word": "islands",
+      "freq": 16
+    },
+    {
+      "word": "meaning",
+      "freq": 15
+    },
+    {
+      "word": "days",
+      "freq": 15
+    },
+    {
+      "word": "morning",
+      "freq": 15
+    },
+    {
+      "word": "room",
+      "freq": 15
+    },
+    {
+      "word": "details",
+      "freq": 15
+    },
+    {
+      "word": "main",
+      "freq": 15
+    },
+    {
+      "word": "pool",
+      "freq": 15
+    },
+    {
+      "word": "start",
+      "freq": 15
+    },
+    {
+      "word": "stepwells",
+      "freq": 15
+    },
+    {
+      "word": "letter",
+      "freq": 15
+    },
+    {
+      "word": "centre",
+      "freq": 15
+    },
+    {
+      "word": "port",
+      "freq": 15
+    },
+    {
+      "word": "trip",
+      "freq": 14
+    },
+    {
+      "word": "carefully",
+      "freq": 14
+    },
+    {
+      "word": "really",
+      "freq": 14
+    },
+    {
+      "word": "several",
+      "freq": 14
+    },
+    {
+      "word": "week",
+      "freq": 14
+    },
+    {
+      "word": "city",
+      "freq": 14
+    },
+    {
+      "word": "event",
+      "freq": 14
+    },
+    {
+      "word": "food",
+      "freq": 14
+    },
+    {
+      "word": "five",
+      "freq": 14
+    },
+    {
+      "word": "tortoise",
+      "freq": 14
+    },
+    {
+      "word": "drive",
+      "freq": 13
+    },
+    {
+      "word": "visit",
+      "freq": 13
+    },
+    {
+      "word": "please",
+      "freq": 13
+    },
+    {
+      "word": "membership",
+      "freq": 13
+    },
+    {
+      "word": "times",
+      "freq": 13
+    },
+    {
+      "word": "able",
+      "freq": 13
+    },
+    {
+      "word": "view",
+      "freq": 13
+    },
+    {
+      "word": "called",
+      "freq": 13
+    },
+    {
+      "word": "island",
+      "freq": 13
+    },
+    {
+      "word": "spend",
+      "freq": 12
+    },
+    {
+      "word": "family",
+      "freq": 12
+    },
+    {
+      "word": "equipment",
+      "freq": 12
+    },
+    {
+      "word": "task",
+      "freq": 12
+    },
+    {
+      "word": "anything",
+      "freq": 12
+    },
+    {
+      "word": "remember",
+      "freq": 12
+    },
+    {
+      "word": "lead",
+      "freq": 12
+    },
+    {
+      "word": "became",
+      "freq": 12
+    },
+    {
+      "word": "off",
+      "freq": 12
+    },
+    {
+      "word": "history",
+      "freq": 12
+    },
+    {
+      "word": "door",
+      "freq": 12
+    },
+    {
+      "word": "large",
+      "freq": 12
+    },
+    {
+      "word": "young",
+      "freq": 12
+    },
+    {
+      "word": "helicopter",
+      "freq": 12
+    },
+    {
+      "word": "interested",
+      "freq": 11
+    },
+    {
+      "word": "understand",
+      "freq": 11
+    },
+    {
+      "word": "identify",
+      "freq": 11
+    },
+    {
+      "word": "change",
+      "freq": 11
+    },
+    {
+      "word": "fine",
+      "freq": 11
+    },
+    {
+      "word": "ask",
+      "freq": 11
+    },
+    {
+      "word": "south",
+      "freq": 11
+    },
+    {
+      "word": "working",
+      "freq": 11
+    },
+    {
+      "word": "provide",
+      "freq": 11
+    },
+    {
+      "word": "features",
+      "freq": 11
+    },
+    {
+      "word": "provided",
+      "freq": 11
+    },
+    {
+      "word": "others",
+      "freq": 11
+    },
+    {
+      "word": "throughout",
+      "freq": 11
+    },
+    {
+      "word": "small",
+      "freq": 11
+    },
+    {
+      "word": "become",
+      "freq": 11
+    },
+    {
+      "word": "transport",
+      "freq": 11
+    },
+    {
+      "word": "development",
+      "freq": 11
+    },
+    {
+      "word": "least",
+      "freq": 11
+    },
+    {
+      "word": "tea",
+      "freq": 11
+    },
+    {
+      "word": "group",
+      "freq": 11
+    },
+    {
+      "word": "car",
+      "freq": 10
+    },
+    {
+      "word": "books",
+      "freq": 10
+    },
+    {
+      "word": "phone",
+      "freq": 10
+    },
+    {
+      "word": "home",
+      "freq": 10
+    },
+    {
+      "word": "cost",
+      "freq": 10
+    },
+    {
+      "word": "point",
+      "freq": 10
+    },
+    {
+      "word": "welcome",
+      "freq": 10
+    },
+    {
+      "word": "day",
+      "freq": 10
+    },
+    {
+      "word": "end",
+      "freq": 10
+    },
+    {
+      "word": "major",
+      "freq": 10
+    },
+    {
+      "word": "short",
+      "freq": 10
+    },
+    {
+      "word": "ancient",
+      "freq": 10
+    },
+    {
+      "word": "however",
+      "freq": 10
+    },
+    {
+      "word": "problem",
+      "freq": 10
+    },
+    {
+      "word": "says",
+      "freq": 10
+    },
+    {
+      "word": "ships",
+      "freq": 10
+    },
+    {
+      "word": "round",
+      "freq": 10
+    },
+    {
+      "word": "library",
+      "freq": 10
+    },
+    {
+      "word": "free",
+      "freq": 10
+    },
+    {
+      "word": "suggest",
+      "freq": 9
+    },
+    {
+      "word": "contact",
+      "freq": 9
+    },
+    {
+      "word": "life",
+      "freq": 9
+    },
+    {
+      "word": "required",
+      "freq": 9
+    },
+    {
+      "word": "tours",
+      "freq": 9
+    },
+    {
+      "word": "road",
+      "freq": 9
+    },
+    {
+      "word": "thank",
+      "freq": 9
+    },
+    {
+      "word": "thanks",
+      "freq": 9
+    },
+    {
+      "word": "swimming",
+      "freq": 9
+    },
+    {
+      "word": "weight",
+      "freq": 9
+    },
+    {
+      "word": "personal",
+      "freq": 9
+    },
+    {
+      "word": "job",
+      "freq": 9
+    },
+    {
+      "word": "six",
+      "freq": 9
+    },
+    {
+      "word": "available",
+      "freq": 9
+    },
+    {
+      "word": "metres",
+      "freq": 9
+    },
+    {
+      "word": "important",
+      "freq": 9
+    },
+    {
+      "word": "found",
+      "freq": 9
+    },
+    {
+      "word": "developed",
+      "freq": 9
+    },
+    {
+      "word": "high",
+      "freq": 9
+    },
+    {
+      "word": "various",
+      "freq": 9
+    },
+    {
+      "word": "four",
+      "freq": 9
+    },
+    {
+      "word": "cycling",
+      "freq": 9
+    },
+    {
+      "word": "minutes",
+      "freq": 9
+    },
+    {
+      "word": "birth",
+      "freq": 9
+    },
+    {
+      "word": "economic",
+      "freq": 9
+    },
+    {
+      "word": "largest",
+      "freq": 9
+    },
+    {
+      "word": "national",
+      "freq": 9
+    },
+    {
+      "word": "problems",
+      "freq": 9
+    },
+    {
+      "word": "nature",
+      "freq": 9
+    },
+    {
+      "word": "dolphins",
+      "freq": 9
+    },
+    {
+      "word": "environment",
+      "freq": 9
+    },
+    {
+      "word": "yacht",
+      "freq": 9
+    },
+    {
+      "word": "air",
+      "freq": 8
+    },
+    {
+      "word": "flow",
+      "freq": 8
+    },
+    {
+      "word": "company",
+      "freq": 8
+    },
+    {
+      "word": "something",
+      "freq": 8
+    },
+    {
+      "word": "almost",
+      "freq": 8
+    },
+    {
+      "word": "facilities",
+      "freq": 8
+    },
+    {
+      "word": "differences",
+      "freq": 8
+    },
+    {
+      "word": "reason",
+      "freq": 8
+    },
+    {
+      "word": "club",
+      "freq": 8
+    },
+    {
+      "word": "bring",
+      "freq": 8
+    },
+    {
+      "word": "experience",
+      "freq": 8
+    },
+    {
+      "word": "although",
+      "freq": 8
+    },
+    {
+      "word": "contradicts",
+      "freq": 8
+    },
+    {
+      "word": "tips",
+      "freq": 8
+    },
+    {
+      "word": "ghi",
+      "freq": 8
+    },
+    {
+      "word": "animals",
+      "freq": 8
+    },
+    {
+      "word": "areas",
+      "freq": 8
+    },
+    {
+      "word": "baori",
+      "freq": 8
+    },
+    {
+      "word": "public",
+      "freq": 8
+    },
+    {
+      "word": "rather",
+      "freq": 8
+    },
+    {
+      "word": "town",
+      "freq": 8
+    },
+    {
+      "word": "took",
+      "freq": 8
+    },
+    {
+      "word": "date",
+      "freq": 8
+    },
+    {
+      "word": "opportunity",
+      "freq": 8
+    },
+    {
+      "word": "why",
+      "freq": 8
+    },
+    {
+      "word": "khi",
+      "freq": 8
+    },
+    {
+      "word": "species",
+      "freq": 8
+    },
+    {
+      "word": "america",
+      "freq": 8
+    },
+    {
+      "word": "original",
+      "freq": 8
+    },
+    {
+      "word": "populations",
+      "freq": 8
+    },
+    {
+      "word": "kitchen",
+      "freq": 8
+    },
+    {
+      "word": "population",
+      "freq": 8
+    },
+    {
+      "word": "oil",
+      "freq": 8
+    },
+    {
+      "word": "useful",
+      "freq": 8
+    },
+    {
+      "word": "evening",
+      "freq": 8
+    },
+    {
+      "word": "eventually",
+      "freq": 8
+    },
+    {
+      "word": "epigenetic",
+      "freq": 8
+    },
+    {
+      "word": "processes",
+      "freq": 8
+    },
+    {
+      "word": "breeding",
+      "freq": 8
+    },
+    {
+      "word": "theft",
+      "freq": 8
+    },
+    {
+      "word": "explicit",
+      "freq": 8
+    },
+    {
+      "word": "phonetic",
+      "freq": 7
+    },
+    {
+      "word": "format",
+      "freq": 7
+    },
+    {
+      "word": "allowed",
+      "freq": 7
+    },
+    {
+      "word": "order",
+      "freq": 7
+    },
+    {
+      "word": "address",
+      "freq": 7
+    },
+    {
+      "word": "person",
+      "freq": 7
+    },
+    {
+      "word": "places",
+      "freq": 7
+    },
+    {
+      "word": "tour",
+      "freq": 7
+    },
+    {
+      "word": "machine",
+      "freq": 7
+    },
+    {
+      "word": "premier",
+      "freq": 7
+    },
+    {
+      "word": "skills",
+      "freq": 7
+    },
+    {
+      "word": "content",
+      "freq": 7
+    },
+    {
+      "word": "similar",
+      "freq": 7
+    },
+    {
+      "word": "pay",
+      "freq": 7
+    },
+    {
+      "word": "month",
+      "freq": 7
+    },
+    {
+      "word": "means",
+      "freq": 7
+    },
+    {
+      "word": "full",
+      "freq": 7
+    },
+    {
+      "word": "certain",
+      "freq": 7
+    },
+    {
+      "word": "looking",
+      "freq": 7
+    },
+    {
+      "word": "agrees",
+      "freq": 7
+    },
+    {
+      "word": "region",
+      "freq": 7
+    },
+    {
+      "word": "level",
+      "freq": 7
+    },
+    {
+      "word": "stone",
+      "freq": 7
+    },
+    {
+      "word": "visitors",
+      "freq": 7
+    },
+    {
+      "word": "activities",
+      "freq": 7
+    },
+    {
+      "word": "survey",
+      "freq": 7
+    },
+    {
+      "word": "along",
+      "freq": 7
+    },
+    {
+      "word": "country",
+      "freq": 7
+    },
+    {
+      "word": "research",
+      "freq": 7
+    },
+    {
+      "word": "system",
+      "freq": 7
+    },
+    {
+      "word": "suppose",
+      "freq": 7
+    },
+    {
+      "word": "better",
+      "freq": 7
+    },
+    {
+      "word": "thought",
+      "freq": 7
+    },
+    {
+      "word": "case",
+      "freq": 7
+    },
+    {
+      "word": "talk",
+      "freq": 7
+    },
+    {
+      "word": "mass",
+      "freq": 7
+    },
+    {
+      "word": "little",
+      "freq": 7
+    },
+    {
+      "word": "factors",
+      "freq": 7
+    },
+    {
+      "word": "japan",
+      "freq": 7
+    },
+    {
+      "word": "beer",
+      "freq": 7
+    },
+    {
+      "word": "viii",
+      "freq": 7
+    },
+    {
+      "word": "born",
+      "freq": 7
+    },
+    {
+      "word": "term",
+      "freq": 7
+    },
+    {
+      "word": "dolphin",
+      "freq": 7
+    },
+    {
+      "word": "conservation",
+      "freq": 7
+    },
+    {
+      "word": "trust",
+      "freq": 7
+    },
+    {
+      "word": "damage",
+      "freq": 7
+    },
+    {
+      "word": "mine",
+      "freq": 7
+    },
+    {
+      "word": "boat",
+      "freq": 7
+    },
+    {
+      "word": "burnham",
+      "freq": 7
+    },
+    {
+      "word": "influence",
+      "freq": 7
+    },
+    {
+      "word": "genes",
+      "freq": 7
+    },
+    {
+      "word": "identical",
+      "freq": 7
+    },
+    {
+      "word": "genetic",
+      "freq": 7
+    },
+    {
+      "word": "studies",
+      "freq": 7
+    },
+    {
+      "word": "months",
+      "freq": 7
+    },
+    {
+      "word": "postcode",
+      "freq": 6
+    },
+    {
+      "word": "bao",
+      "freq": 6
+    },
+    {
+      "word": "accommodation",
+      "freq": 6
+    },
+    {
+      "word": "offer",
+      "freq": 6
+    },
+    {
+      "word": "gap",
+      "freq": 6
+    },
+    {
+      "word": "tasks",
+      "freq": 6
+    },
+    {
+      "word": "missing",
+      "freq": 6
+    },
+    {
+      "word": "self",
+      "freq": 6
+    },
+    {
+      "word": "couple",
+      "freq": 6
+    },
+    {
+      "word": "fitness",
+      "freq": 6
+    },
+    {
+      "word": "manager",
+      "freq": 6
+    },
+    {
+      "word": "training",
+      "freq": 6
+    },
+    {
+      "word": "run",
+      "freq": 6
+    },
+    {
+      "word": "gain",
+      "freq": 6
+    },
+    {
+      "word": "avoid",
+      "freq": 6
+    },
+    {
+      "word": "addition",
+      "freq": 6
+    },
+    {
+      "word": "individual",
+      "freq": 6
+    },
+    {
+      "word": "thay",
+      "freq": 6
+    },
+    {
+      "word": "suitable",
+      "freq": 6
+    },
+    {
+      "word": "wrong",
+      "freq": 6
+    },
+    {
+      "word": "understanding",
+      "freq": 6
+    },
+    {
+      "word": "quickly",
+      "freq": 6
+    },
+    {
+      "word": "locate",
+      "freq": 6
+    },
+    {
+      "word": "exact",
+      "freq": 6
+    },
+    {
+      "word": "limit",
+      "freq": 6
+    },
+    {
+      "word": "types",
+      "freq": 6
+    },
+    {
+      "word": "clubs",
+      "freq": 6
+    },
+    {
+      "word": "space",
+      "freq": 6
+    },
+    {
+      "word": "ten",
+      "freq": 6
+    },
+    {
+      "word": "wide",
+      "freq": 6
+    },
+    {
+      "word": "difficult",
+      "freq": 6
+    },
+    {
+      "word": "requires",
+      "freq": 6
+    },
+    {
+      "word": "sometimes",
+      "freq": 6
+    },
+    {
+      "word": "stepwell",
+      "freq": 6
+    },
+    {
+      "word": "unique",
+      "freq": 6
+    },
+    {
+      "word": "trung",
+      "freq": 6
+    },
+    {
+      "word": "far",
+      "freq": 6
+    },
+    {
+      "word": "size",
+      "freq": 6
+    },
+    {
+      "word": "shape",
+      "freq": 6
+    },
+    {
+      "word": "levels",
+      "freq": 6
+    },
+    {
+      "word": "wells",
+      "freq": 6
+    },
+    {
+      "word": "hundreds",
+      "freq": 6
+    },
+    {
+      "word": "condition",
+      "freq": 6
+    },
+    {
+      "word": "helped",
+      "freq": 6
+    },
+    {
+      "word": "began",
+      "freq": 6
+    },
+    {
+      "word": "human",
+      "freq": 6
+    },
+    {
+      "word": "council",
+      "freq": 6
+    },
+    {
+      "word": "pretty",
+      "freq": 6
+    },
+    {
+      "word": "hai",
+      "freq": 6
+    },
+    {
+      "word": "project",
+      "freq": 6
+    },
+    {
+      "word": "regional",
+      "freq": 6
+    },
+    {
+      "word": "mainland",
+      "freq": 6
+    },
+    {
+      "word": "developments",
+      "freq": 6
+    },
+    {
+      "word": "close",
+      "freq": 6
+    },
+    {
+      "word": "design",
+      "freq": 6
+    },
+    {
+      "word": "moving",
+      "freq": 6
+    },
+    {
+      "word": "international",
+      "freq": 6
+    },
+    {
+      "word": "fuel",
+      "freq": 6
+    },
+    {
+      "word": "happen",
+      "freq": 6
+    },
+    {
+      "word": "everything",
+      "freq": 6
+    },
+    {
+      "word": "support",
+      "freq": 6
+    },
+    {
+      "word": "together",
+      "freq": 6
+    },
+    {
+      "word": "disease",
+      "freq": 6
+    },
+    {
+      "word": "particularly",
+      "freq": 6
+    },
+    {
+      "word": "rise",
+      "freq": 6
+    },
+    {
+      "word": "countries",
+      "freq": 6
+    },
+    {
+      "word": "learn",
+      "freq": 6
+    },
+    {
+      "word": "develop",
+      "freq": 6
+    },
+    {
+      "word": "impact",
+      "freq": 6
+    },
+    {
+      "word": "daughter",
+      "freq": 6
+    },
+    {
+      "word": "clock",
+      "freq": 6
+    },
+    {
+      "word": "school",
+      "freq": 6
+    },
+    {
+      "word": "capable",
+      "freq": 6
+    },
+    {
+      "word": "copper",
+      "freq": 6
+    },
+    {
+      "word": "melt",
+      "freq": 6
+    },
+    {
+      "word": "clear",
+      "freq": 6
+    },
+    {
+      "word": "river",
+      "freq": 6
+    },
+    {
+      "word": "worked",
+      "freq": 6
+    },
+    {
+      "word": "building",
+      "freq": 6
+    },
+    {
+      "word": "board",
+      "freq": 6
+    },
+    {
+      "word": "hello",
+      "freq": 6
+    },
+    {
+      "word": "everyone",
+      "freq": 6
+    },
+    {
+      "word": "gallery",
+      "freq": 6
+    },
+    {
+      "word": "paxton",
+      "freq": 6
+    },
+    {
+      "word": "materials",
+      "freq": 6
+    },
+    {
+      "word": "study",
+      "freq": 6
+    },
+    {
+      "word": "nurture",
+      "freq": 6
+    },
+    {
+      "word": "twin",
+      "freq": 6
+    },
+    {
+      "word": "due",
+      "freq": 6
+    },
+    {
+      "word": "bouchard",
+      "freq": 6
+    },
+    {
+      "word": "carried",
+      "freq": 6
+    },
+    {
+      "word": "epigenetics",
+      "freq": 6
+    },
+    {
+      "word": "predators",
+      "freq": 6
+    },
+    {
+      "word": "kilograms",
+      "freq": 6
+    },
+    {
+      "word": "habitat",
+      "freq": 6
+    },
+    {
+      "word": "pilot",
+      "freq": 6
+    },
+    {
+      "word": "phrase",
+      "freq": 5
+    },
+    {
+      "word": "trang",
+      "freq": 5
+    },
+    {
+      "word": "protect",
+      "freq": 5
+    },
+    {
+      "word": "journey",
+      "freq": 5
+    },
+    {
+      "word": "recording",
+      "freq": 5
+    },
+    {
+      "word": "underline",
+      "freq": 5
+    },
+    {
+      "word": "etc",
+      "freq": 5
+    },
+    {
+      "word": "whether",
+      "freq": 5
+    },
+    {
+      "word": "hear",
+      "freq": 5
+    },
+    {
+      "word": "grammatically",
+      "freq": 5
+    },
+    {
+      "word": "heard",
+      "freq": 5
+    },
+    {
+      "word": "customer",
+      "freq": 5
+    },
+    {
+      "word": "san",
+      "freq": 5
+    },
+    {
+      "word": "total",
+      "freq": 5
+    },
+    {
+      "word": "price",
+      "freq": 5
+    },
+    {
+      "word": "friend",
+      "freq": 5
+    },
+    {
+      "word": "visiting",
+      "freq": 5
+    },
+    {
+      "word": "enough",
+      "freq": 5
+    },
+    {
+      "word": "kilometres",
+      "freq": 5
+    },
+    {
+      "word": "hundred",
+      "freq": 5
+    },
+    {
+      "word": "pleased",
+      "freq": 5
+    },
+    {
+      "word": "improvement",
+      "freq": 5
+    },
+    {
+      "word": "serve",
+      "freq": 5
+    },
+    {
+      "word": "cao",
+      "freq": 5
+    },
+    {
+      "word": "apart",
+      "freq": 5
+    },
+    {
+      "word": "rate",
+      "freq": 5
+    },
+    {
+      "word": "set",
+      "freq": 5
+    },
+    {
+      "word": "common",
+      "freq": 5
+    },
+    {
+      "word": "asked",
+      "freq": 5
+    },
+    {
+      "word": "fact",
+      "freq": 5
+    },
+    {
+      "word": "usually",
+      "freq": 5
+    },
+    {
+      "word": "appear",
+      "freq": 5
+    },
+    {
+      "word": "fits",
+      "freq": 5
+    },
+    {
+      "word": "themselves",
+      "freq": 5
+    },
+    {
+      "word": "sounds",
+      "freq": 5
+    },
+    {
+      "word": "leisure",
+      "freq": 5
+    },
+    {
+      "word": "recently",
+      "freq": 5
+    },
+    {
+      "word": "including",
+      "freq": 5
+    },
+    {
+      "word": "recent",
+      "freq": 5
+    },
+    {
+      "word": "enjoy",
+      "freq": 5
+    },
+    {
+      "word": "advice",
+      "freq": 5
+    },
+    {
+      "word": "care",
+      "freq": 5
+    },
+    {
+      "word": "within",
+      "freq": 5
+    },
+    {
+      "word": "cities",
+      "freq": 5
+    },
+    {
+      "word": "special",
+      "freq": 5
+    },
+    {
+      "word": "decide",
+      "freq": 5
+    },
+    {
+      "word": "directly",
+      "freq": 5
+    },
+    {
+      "word": "parts",
+      "freq": 5
+    },
+    {
+      "word": "related",
+      "freq": 5
+    },
+    {
+      "word": "tables",
+      "freq": 5
+    },
+    {
+      "word": "title",
+      "freq": 5
+    },
+    {
+      "word": "onto",
+      "freq": 5
+    },
+    {
+      "word": "monument",
+      "freq": 5
+    },
+    {
+      "word": "qua",
+      "freq": 5
+    },
+    {
+      "word": "commission",
+      "freq": 5
+    },
+    {
+      "word": "travelled",
+      "freq": 5
+    },
+    {
+      "word": "north",
+      "freq": 5
+    },
+    {
+      "word": "modern",
+      "freq": 5
+    },
+    {
+      "word": "rajasthan",
+      "freq": 5
+    },
+    {
+      "word": "application",
+      "freq": 5
+    },
+    {
+      "word": "known",
+      "freq": 5
+    },
+    {
+      "word": "leading",
+      "freq": 5
+    },
+    {
+      "word": "built",
+      "freq": 5
+    },
+    {
+      "word": "perhaps",
+      "freq": 5
+    },
+    {
+      "word": "late",
+      "freq": 5
+    },
+    {
+      "word": "deep",
+      "freq": 5
+    },
+    {
+      "word": "carved",
+      "freq": 5
+    },
+    {
+      "word": "seen",
+      "freq": 5
+    },
+    {
+      "word": "covered",
+      "freq": 5
+    },
+    {
+      "word": "agree",
+      "freq": 5
+    },
+    {
+      "word": "buy",
+      "freq": 5
+    },
+    {
+      "word": "produce",
+      "freq": 5
+    },
+    {
+      "word": "period",
+      "freq": 5
+    },
+    {
+      "word": "chi",
+      "freq": 5
+    },
+    {
+      "word": "parking",
+      "freq": 5
+    },
+    {
+      "word": "busy",
+      "freq": 5
+    },
+    {
+      "word": "coming",
+      "freq": 5
+    },
+    {
+      "word": "getting",
+      "freq": 5
+    },
+    {
+      "word": "doing",
+      "freq": 5
+    },
+    {
+      "word": "cycle",
+      "freq": 5
+    },
+    {
+      "word": "nhanh",
+      "freq": 5
+    },
+    {
+      "word": "tri",
+      "freq": 5
+    },
+    {
+      "word": "growth",
+      "freq": 5
+    },
+    {
+      "word": "ocean",
+      "freq": 5
+    },
+    {
+      "word": "entrance",
+      "freq": 5
+    },
+    {
+      "word": "playground",
+      "freq": 5
+    },
+    {
+      "word": "europe",
+      "freq": 5
+    },
+    {
+      "word": "music",
+      "freq": 5
+    },
+    {
+      "word": "film",
+      "freq": 5
+    },
+    {
+      "word": "money",
+      "freq": 5
+    },
+    {
+      "word": "west",
+      "freq": 5
+    },
+    {
+      "word": "whole",
+      "freq": 5
+    },
+    {
+      "word": "labour",
+      "freq": 5
+    },
+    {
+      "word": "produced",
+      "freq": 5
+    },
+    {
+      "word": "market",
+      "freq": 5
+    },
+    {
+      "word": "chuy",
+      "freq": 5
+    },
+    {
+      "word": "science",
+      "freq": 5
+    },
+    {
+      "word": "historians",
+      "freq": 5
+    },
+    {
+      "word": "big",
+      "freq": 5
+    },
+    {
+      "word": "move",
+      "freq": 5
+    },
+    {
+      "word": "across",
+      "freq": 5
+    },
+    {
+      "word": "agriculture",
+      "freq": 5
+    },
+    {
+      "word": "living",
+      "freq": 5
+    },
+    {
+      "word": "especially",
+      "freq": 5
+    },
+    {
+      "word": "caused",
+      "freq": 5
+    },
+    {
+      "word": "early",
+      "freq": 5
+    },
+    {
+      "word": "though",
+      "freq": 5
+    },
+    {
+      "word": "put",
+      "freq": 5
+    },
+    {
+      "word": "changes",
+      "freq": 5
+    },
+    {
+      "word": "vii",
+      "freq": 5
+    },
+    {
+      "word": "spending",
+      "freq": 5
+    },
+    {
+      "word": "opportunities",
+      "freq": 5
+    },
+    {
+      "word": "cent",
+      "freq": 5
+    },
+    {
+      "word": "makes",
+      "freq": 5
+    },
+    {
+      "word": "significant",
+      "freq": 5
+    },
+    {
+      "word": "friday",
+      "freq": 5
+    },
+    {
+      "word": "sort",
+      "freq": 5
+    },
+    {
+      "word": "double",
+      "freq": 5
+    },
+    {
+      "word": "saw",
+      "freq": 5
+    },
+    {
+      "word": "soon",
+      "freq": 5
+    },
+    {
+      "word": "locations",
+      "freq": 5
+    },
+    {
+      "word": "moondancer",
+      "freq": 5
+    },
+    {
+      "word": "yeah",
+      "freq": 5
+    },
+    {
+      "word": "originally",
+      "freq": 5
+    },
+    {
+      "word": "processed",
+      "freq": 5
+    },
+    {
+      "word": "lack",
+      "freq": 5
+    },
+    {
+      "word": "programme",
+      "freq": 5
+    },
+    {
+      "word": "hall",
+      "freq": 5
+    },
+    {
+      "word": "outside",
+      "freq": 5
+    },
+    {
+      "word": "determine",
+      "freq": 5
+    },
+    {
+      "word": "researchers",
+      "freq": 5
+    },
+    {
+      "word": "dna",
+      "freq": 5
+    },
+    {
+      "word": "lives",
+      "freq": 5
+    },
+    {
+      "word": "arrival",
+      "freq": 5
+    },
+    {
+      "word": "endangered",
+      "freq": 5
+    },
+    {
+      "word": "cacti",
+      "freq": 5
+    },
+    {
+      "word": "interior",
+      "freq": 5
+    },
+    {
+      "word": "vegetation",
+      "freq": 5
+    },
+    {
+      "word": "subspecies",
+      "freq": 5
+    },
+    {
+      "word": "archipelago",
+      "freq": 5
+    },
+    {
+      "word": "whaling",
+      "freq": 5
+    },
+    {
+      "word": "exploitation",
+      "freq": 5
+    },
+    {
+      "word": "crew",
+      "freq": 5
+    },
+    {
+      "word": "fully",
+      "freq": 5
+    },
+    {
+      "word": "material",
+      "freq": 5
+    },
+    {
+      "word": "bottles",
+      "freq": 5
+    },
+    {
+      "word": "owens",
+      "freq": 5
+    },
+    {
+      "word": "apprenticeship",
+      "freq": 5
+    },
+    {
+      "word": "policy",
+      "freq": 5
+    },
+    {
+      "word": "code",
+      "freq": 4
+    },
+    {
+      "word": "post",
+      "freq": 4
+    },
+    {
+      "word": "hire",
+      "freq": 4
+    },
+    {
+      "word": "stay",
+      "freq": 4
+    },
+    {
+      "word": "khu",
+      "freq": 4
+    },
+    {
+      "word": "ground",
+      "freq": 4
+    },
+    {
+      "word": "desert",
+      "freq": 4
+    },
+    {
+      "word": "cover",
+      "freq": 4
+    },
+    {
+      "word": "focus",
+      "freq": 4
+    },
+    {
+      "word": "predict",
+      "freq": 4
+    },
+    {
+      "word": "needed",
+      "freq": 4
+    },
+    {
+      "word": "structure",
+      "freq": 4
+    },
+    {
+      "word": "follow",
+      "freq": 4
+    },
+    {
+      "word": "listen",
+      "freq": 4
+    },
+    {
+      "word": "guide",
+      "freq": 4
+    },
+    {
+      "word": "wants",
+      "freq": 4
+    },
+    {
+      "word": "santa",
+      "freq": 4
+    },
+    {
+      "word": "shopping",
+      "freq": 4
+    },
+    {
+      "word": "spell",
+      "freq": 4
+    },
+    {
+      "word": "holiday",
+      "freq": 4
+    },
+    {
+      "word": "begins",
+      "freq": 4
+    },
+    {
+      "word": "starts",
+      "freq": 4
+    },
+    {
+      "word": "goodbye",
+      "freq": 4
+    },
+    {
+      "word": "declare",
+      "freq": 4
+    },
+    {
+      "word": "partly",
+      "freq": 4
+    },
+    {
+      "word": "assessment",
+      "freq": 4
+    },
+    {
+      "word": "safety",
+      "freq": 4
+    },
+    {
+      "word": "explain",
+      "freq": 4
+    },
+    {
+      "word": "fee",
+      "freq": 4
+    },
+    {
+      "word": "evaluate",
+      "freq": 4
+    },
+    {
+      "word": "allow",
+      "freq": 4
+    },
+    {
+      "word": "elite",
+      "freq": 4
+    },
+    {
+      "word": "peak",
+      "freq": 4
+    },
+    {
+      "word": "hour",
+      "freq": 4
+    },
+    {
+      "word": "changing",
+      "freq": 4
+    },
+    {
+      "word": "select",
+      "freq": 4
+    },
+    {
+      "word": "range",
+      "freq": 4
+    },
+    {
+      "word": "ideas",
+      "freq": 4
+    },
+    {
+      "word": "nouns",
+      "freq": 4
+    },
+    {
+      "word": "kind",
+      "freq": 4
+    },
+    {
+      "word": "letters",
+      "freq": 4
+    },
+    {
+      "word": "probably",
+      "freq": 4
+    },
+    {
+      "word": "latest",
+      "freq": 4
+    },
+    {
+      "word": "trainer",
+      "freq": 4
+    },
+    {
+      "word": "giving",
+      "freq": 4
+    },
+    {
+      "word": "weeks",
+      "freq": 4
+    },
+    {
+      "word": "easier",
+      "freq": 4
+    },
+    {
+      "word": "key",
+      "freq": 4
+    },
+    {
+      "word": "carry",
+      "freq": 4
+    },
+    {
+      "word": "central",
+      "freq": 4
+    },
+    {
+      "word": "clue",
+      "freq": 4
+    },
+    {
+      "word": "previous",
+      "freq": 4
+    },
+    {
+      "word": "instead",
+      "freq": 4
+    },
+    {
+      "word": "relevant",
+      "freq": 4
+    },
+    {
+      "word": "best",
+      "freq": 4
+    },
+    {
+      "word": "option",
+      "freq": 4
+    },
+    {
+      "word": "restoration",
+      "freq": 4
+    },
+    {
+      "word": "complex",
+      "freq": 4
+    },
+    {
+      "word": "heat",
+      "freq": 4
+    },
+    {
+      "word": "gian",
+      "freq": 4
+    },
+    {
+      "word": "distinct",
+      "freq": 4
+    },
+    {
+      "word": "renowned",
+      "freq": 4
+    },
+    {
+      "word": "intricately",
+      "freq": 4
+    },
+    {
+      "word": "medieval",
+      "freq": 4
+    },
+    {
+      "word": "gujarat",
+      "freq": 4
+    },
+    {
+      "word": "method",
+      "freq": 4
+    },
+    {
+      "word": "drinking",
+      "freq": 4
+    },
+    {
+      "word": "invention",
+      "freq": 4
+    },
+    {
+      "word": "vav",
+      "freq": 4
+    },
+    {
+      "word": "located",
+      "freq": 4
+    },
+    {
+      "word": "low",
+      "freq": 4
+    },
+    {
+      "word": "storeys",
+      "freq": 4
+    },
+    {
+      "word": "thousands",
+      "freq": 4
+    },
+    {
+      "word": "state",
+      "freq": 4
+    },
+    {
+      "word": "government",
+      "freq": 4
+    },
+    {
+      "word": "june",
+      "freq": 4
+    },
+    {
+      "word": "plans",
+      "freq": 4
+    },
+    {
+      "word": "queen",
+      "freq": 4
+    },
+    {
+      "word": "importance",
+      "freq": 4
+    },
+    {
+      "word": "wonder",
+      "freq": 4
+    },
+    {
+      "word": "workers",
+      "freq": 4
+    },
+    {
+      "word": "employer",
+      "freq": 4
+    },
+    {
+      "word": "encourage",
+      "freq": 4
+    },
+    {
+      "word": "later",
+      "freq": 4
+    },
+    {
+      "word": "xem",
+      "freq": 4
+    },
+    {
+      "word": "native",
+      "freq": 4
+    },
+    {
+      "word": "service",
+      "freq": 4
+    },
+    {
+      "word": "opening",
+      "freq": 4
+    },
+    {
+      "word": "realised",
+      "freq": 4
+    },
+    {
+      "word": "recycling",
+      "freq": 4
+    },
+    {
+      "word": "bit",
+      "freq": 4
+    },
+    {
+      "word": "hoping",
+      "freq": 4
+    },
+    {
+      "word": "hope",
+      "freq": 4
+    },
+    {
+      "word": "award",
+      "freq": 4
+    },
+    {
+      "word": "competition",
+      "freq": 4
+    },
+    {
+      "word": "global",
+      "freq": 4
+    },
+    {
+      "word": "village",
+      "freq": 4
+    },
+    {
+      "word": "contribution",
+      "freq": 4
+    },
+    {
+      "word": "professor",
+      "freq": 4
+    },
+    {
+      "word": "middle",
+      "freq": 4
+    },
+    {
+      "word": "class",
+      "freq": 4
+    },
+    {
+      "word": "sufficient",
+      "freq": 4
+    },
+    {
+      "word": "thuy",
+      "freq": 4
+    },
+    {
+      "word": "borne",
+      "freq": 4
+    },
+    {
+      "word": "dysentery",
+      "freq": 4
+    },
+    {
+      "word": "sinh",
+      "freq": 4
+    },
+    {
+      "word": "mortality",
+      "freq": 4
+    },
+    {
+      "word": "spent",
+      "freq": 4
+    },
+    {
+      "word": "lock",
+      "freq": 4
+    },
+    {
+      "word": "needs",
+      "freq": 4
+    },
+    {
+      "word": "technology",
+      "freq": 4
+    },
+    {
+      "word": "easy",
+      "freq": 4
+    },
+    {
+      "word": "england",
+      "freq": 4
+    },
+    {
+      "word": "china",
+      "freq": 4
+    },
+    {
+      "word": "sudden",
+      "freq": 4
+    },
+    {
+      "word": "decline",
+      "freq": 4
+    },
+    {
+      "word": "historical",
+      "freq": 4
+    },
+    {
+      "word": "whatever",
+      "freq": 4
+    },
+    {
+      "word": "looked",
+      "freq": 4
+    },
+    {
+      "word": "dates",
+      "freq": 4
+    },
+    {
+      "word": "started",
+      "freq": 4
+    },
+    {
+      "word": "increase",
+      "freq": 4
+    },
+    {
+      "word": "keys",
+      "freq": 4
+    },
+    {
+      "word": "role",
+      "freq": 4
+    },
+    {
+      "word": "expansion",
+      "freq": 4
+    },
+    {
+      "word": "concern",
+      "freq": 4
+    },
+    {
+      "word": "likely",
+      "freq": 4
+    },
+    {
+      "word": "man",
+      "freq": 4
+    },
+    {
+      "word": "summer",
+      "freq": 4
+    },
+    {
+      "word": "ages",
+      "freq": 4
+    },
+    {
+      "word": "phenomenon",
+      "freq": 4
+    },
+    {
+      "word": "second",
+      "freq": 4
+    },
+    {
+      "word": "employment",
+      "freq": 4
+    },
+    {
+      "word": "services",
+      "freq": 4
+    },
+    {
+      "word": "measure",
+      "freq": 4
+    },
+    {
+      "word": "thus",
+      "freq": 4
+    },
+    {
+      "word": "society",
+      "freq": 4
+    },
+    {
+      "word": "third",
+      "freq": 4
+    },
+    {
+      "word": "greece",
+      "freq": 4
+    },
+    {
+      "word": "data",
+      "freq": 4
+    },
+    {
+      "word": "american",
+      "freq": 4
+    },
+    {
+      "word": "extent",
+      "freq": 4
+    },
+    {
+      "word": "mother",
+      "freq": 4
+    },
+    {
+      "word": "popular",
+      "freq": 4
+    },
+    {
+      "word": "parents",
+      "freq": 4
+    },
+    {
+      "word": "green",
+      "freq": 4
+    },
+    {
+      "word": "dinner",
+      "freq": 4
+    },
+    {
+      "word": "volunteers",
+      "freq": 4
+    },
+    {
+      "word": "charity",
+      "freq": 4
+    },
+    {
+      "word": "education",
+      "freq": 4
+    },
+    {
+      "word": "basis",
+      "freq": 4
+    },
+    {
+      "word": "kiwi",
+      "freq": 4
+    },
+    {
+      "word": "samson",
+      "freq": 4
+    },
+    {
+      "word": "flats",
+      "freq": 4
+    },
+    {
+      "word": "tomorrow",
+      "freq": 4
+    },
+    {
+      "word": "paint",
+      "freq": 4
+    },
+    {
+      "word": "painting",
+      "freq": 4
+    },
+    {
+      "word": "deal",
+      "freq": 4
+    },
+    {
+      "word": "cargo",
+      "freq": 4
+    },
+    {
+      "word": "rocks",
+      "freq": 4
+    },
+    {
+      "word": "away",
+      "freq": 4
+    },
+    {
+      "word": "george",
+      "freq": 4
+    },
+    {
+      "word": "proved",
+      "freq": 4
+    },
+    {
+      "word": "process",
+      "freq": 4
+    },
+    {
+      "word": "lots",
+      "freq": 4
+    },
+    {
+      "word": "chairs",
+      "freq": 4
+    },
+    {
+      "word": "caretaker",
+      "freq": 4
+    },
+    {
+      "word": "black",
+      "freq": 4
+    },
+    {
+      "word": "september",
+      "freq": 4
+    },
+    {
+      "word": "cards",
+      "freq": 4
+    },
+    {
+      "word": "ran",
+      "freq": 4
+    },
+    {
+      "word": "discuss",
+      "freq": 4
+    },
+    {
+      "word": "share",
+      "freq": 4
+    },
+    {
+      "word": "less",
+      "freq": 4
+    },
+    {
+      "word": "separate",
+      "freq": 4
+    },
+    {
+      "word": "eggs",
+      "freq": 4
+    },
+    {
+      "word": "reed",
+      "freq": 4
+    },
+    {
+      "word": "non",
+      "freq": 4
+    },
+    {
+      "word": "knowledge",
+      "freq": 4
+    },
+    {
+      "word": "internal",
+      "freq": 4
+    },
+    {
+      "word": "reintroduction",
+      "freq": 4
+    },
+    {
+      "word": "isabela",
+      "freq": 4
+    },
+    {
+      "word": "thick",
+      "freq": 4
+    },
+    {
+      "word": "cloud",
+      "freq": 4
+    },
+    {
+      "word": "sierra",
+      "freq": 4
+    },
+    {
+      "word": "negra",
+      "freq": 4
+    },
+    {
+      "word": "giant",
+      "freq": 4
+    },
+    {
+      "word": "ancestral",
+      "freq": 4
+    },
+    {
+      "word": "onwards",
+      "freq": 4
+    },
+    {
+      "word": "hunted",
+      "freq": 4
+    },
+    {
+      "word": "introduced",
+      "freq": 4
+    },
+    {
+      "word": "puerto",
+      "freq": 4
+    },
+    {
+      "word": "captive",
+      "freq": 4
+    },
+    {
+      "word": "motor",
+      "freq": 4
+    },
+    {
+      "word": "captain",
+      "freq": 4
+    },
+    {
+      "word": "fed",
+      "freq": 4
+    },
+    {
+      "word": "eat",
+      "freq": 4
+    },
+    {
+      "word": "reference",
+      "freq": 4
+    },
+    {
+      "word": "containers",
+      "freq": 4
+    },
+    {
+      "word": "raw",
+      "freq": 4
+    },
+    {
+      "word": "holidays",
+      "freq": 4
+    },
+    {
+      "word": "interview",
+      "freq": 4
+    },
+    {
+      "word": "crime",
+      "freq": 4
+    },
+    {
+      "word": "stolen",
+      "freq": 4
+    },
+    {
+      "word": "wallet",
+      "freq": 4
+    },
+    {
+      "word": "bag",
+      "freq": 4
+    },
+    {
+      "word": "apartment",
+      "freq": 4
+    },
+    {
+      "word": "expectations",
+      "freq": 4
+    },
+    {
+      "word": "hamiltonian",
+      "freq": 4
+    },
+    {
+      "word": "jeffersonian",
+      "freq": 4
+    },
+    {
+      "word": "somewhere",
+      "freq": 3
+    },
+    {
+      "word": "brochure",
+      "freq": 3
+    },
+    {
+      "word": "employ",
+      "freq": 3
+    },
+    {
+      "word": "arrange",
+      "freq": 3
+    },
+    {
+      "word": "continue",
+      "freq": 3
+    },
+    {
+      "word": "rental",
+      "freq": 3
+    },
+    {
+      "word": "touch",
+      "freq": 3
+    },
+    {
+      "word": "topic",
+      "freq": 3
+    },
+    {
+      "word": "adjective",
+      "freq": 3
+    },
+    {
+      "word": "usa",
+      "freq": 3
+    },
+    {
+      "word": "brown",
+      "freq": 3
+    },
+    {
+      "word": "cambria",
+      "freq": 3
+    },
+    {
+      "word": "send",
+      "freq": 3
+    },
+    {
+      "word": "california",
+      "freq": 3
+    },
+    {
+      "word": "francisco",
+      "freq": 3
+    },
+    {
+      "word": "staying",
+      "freq": 3
+    },
+    {
+      "word": "hot",
+      "freq": 3
+    },
+    {
+      "word": "someone",
+      "freq": 3
+    },
+    {
+      "word": "stop",
+      "freq": 3
+    },
+    {
+      "word": "flying",
+      "freq": 3
+    },
+    {
+      "word": "trips",
+      "freq": 3
+    },
+    {
+      "word": "longest",
+      "freq": 3
+    },
+    {
+      "word": "meals",
+      "freq": 3
+    },
+    {
+      "word": "supervisor",
+      "freq": 3
+    },
+    {
+      "word": "unfortunately",
+      "freq": 3
+    },
+    {
+      "word": "thu",
+      "freq": 3
+    },
+    {
+      "word": "outdoor",
+      "freq": 3
+    },
+    {
+      "word": "suite",
+      "freq": 3
+    },
+    {
+      "word": "gym",
+      "freq": 3
+    },
+    {
+      "word": "duty",
+      "freq": 3
+    },
+    {
+      "word": "advantage",
+      "freq": 3
+    },
+    {
+      "word": "value",
+      "freq": 3
+    },
+    {
+      "word": "prevent",
+      "freq": 3
+    },
+    {
+      "word": "harm",
+      "freq": 3
+    },
+    {
+      "word": "gia",
+      "freq": 3
+    },
+    {
+      "word": "edge",
+      "freq": 3
+    },
+    {
+      "word": "commitments",
+      "freq": 3
+    },
+    {
+      "word": "formats",
+      "freq": 3
+    },
+    {
+      "word": "general",
+      "freq": 3
+    },
+    {
+      "word": "location",
+      "freq": 3
+    },
+    {
+      "word": "expect",
+      "freq": 3
+    },
+    {
+      "word": "paraphrases",
+      "freq": 3
+    },
+    {
+      "word": "clearly",
+      "freq": 3
+    },
+    {
+      "word": "logic",
+      "freq": 3
+    },
+    {
+      "word": "context",
+      "freq": 3
+    },
+    {
+      "word": "degree",
+      "freq": 3
+    },
+    {
+      "word": "ensure",
+      "freq": 3
+    },
+    {
+      "word": "verbs",
+      "freq": 3
+    },
+    {
+      "word": "adjectives",
+      "freq": 3
+    },
+    {
+      "word": "wait",
+      "freq": 3
+    },
+    {
+      "word": "extra",
+      "freq": 3
+    },
+    {
+      "word": "exceeding",
+      "freq": 3
+    },
+    {
+      "word": "accuracy",
+      "freq": 3
+    },
+    {
+      "word": "gold",
+      "freq": 3
+    },
+    {
+      "word": "hours",
+      "freq": 3
+    },
+    {
+      "word": "basic",
+      "freq": 3
+    },
+    {
+      "word": "improvements",
+      "freq": 3
+    },
+    {
+      "word": "exercise",
+      "freq": 3
+    },
+    {
+      "word": "machines",
+      "freq": 3
+    },
+    {
+      "word": "older",
+      "freq": 3
+    },
+    {
+      "word": "trainers",
+      "freq": 3
+    },
+    {
+      "word": "draw",
+      "freq": 3
+    },
+    {
+      "word": "gives",
+      "freq": 3
+    },
+    {
+      "word": "sent",
+      "freq": 3
+    },
+    {
+      "word": "skim",
+      "freq": 3
+    },
+    {
+      "word": "proper",
+      "freq": 3
+    },
+    {
+      "word": "clues",
+      "freq": 3
+    },
+    {
+      "word": "appears",
+      "freq": 3
+    },
+    {
+      "word": "either",
+      "freq": 3
+    },
+    {
+      "word": "former",
+      "freq": 3
+    },
+    {
+      "word": "position",
+      "freq": 3
+    },
+    {
+      "word": "descend",
+      "freq": 3
+    },
+    {
+      "word": "che",
+      "freq": 3
+    },
+    {
+      "word": "decorative",
+      "freq": 3
+    },
+    {
+      "word": "silt",
+      "freq": 3
+    },
+    {
+      "word": "house",
+      "freq": 3
+    },
+    {
+      "word": "dramatic",
+      "freq": 3
+    },
+    {
+      "word": "archaeological",
+      "freq": 3
+    },
+    {
+      "word": "minh",
+      "freq": 3
+    },
+    {
+      "word": "western",
+      "freq": 3
+    },
+    {
+      "word": "era",
+      "freq": 3
+    },
+    {
+      "word": "states",
+      "freq": 3
+    },
+    {
+      "word": "access",
+      "freq": 3
+    },
+    {
+      "word": "dry",
+      "freq": 3
+    },
+    {
+      "word": "significance",
+      "freq": 3
+    },
+    {
+      "word": "survive",
+      "freq": 3
+    },
+    {
+      "word": "roads",
+      "freq": 3
+    },
+    {
+      "word": "source",
+      "freq": 3
+    },
+    {
+      "word": "passages",
+      "freq": 3
+    },
+    {
+      "word": "sculptures",
+      "freq": 3
+    },
+    {
+      "word": "showing",
+      "freq": 3
+    },
+    {
+      "word": "hair",
+      "freq": 3
+    },
+    {
+      "word": "sites",
+      "freq": 3
+    },
+    {
+      "word": "restore",
+      "freq": 3
+    },
+    {
+      "word": "rani",
+      "freq": 3
+    },
+    {
+      "word": "surya",
+      "freq": 3
+    },
+    {
+      "word": "kund",
+      "freq": 3
+    },
+    {
+      "word": "sun",
+      "freq": 3
+    },
+    {
+      "word": "king",
+      "freq": 3
+    },
+    {
+      "word": "architecture",
+      "freq": 3
+    },
+    {
+      "word": "jaipur",
+      "freq": 3
+    },
+    {
+      "word": "nathavatji",
+      "freq": 3
+    },
+    {
+      "word": "east",
+      "freq": 3
+    },
+    {
+      "word": "pattern",
+      "freq": 3
+    },
+    {
+      "word": "build",
+      "freq": 3
+    },
+    {
+      "word": "serious",
+      "freq": 3
+    },
+    {
+      "word": "restored",
+      "freq": 3
+    },
+    {
+      "word": "excellent",
+      "freq": 3
+    },
+    {
+      "word": "ipa",
+      "freq": 3
+    },
+    {
+      "word": "representing",
+      "freq": 3
+    },
+    {
+      "word": "tuy",
+      "freq": 3
+    },
+    {
+      "word": "assume",
+      "freq": 3
+    },
+    {
+      "word": "bus",
+      "freq": 3
+    },
+    {
+      "word": "white",
+      "freq": 3
+    },
+    {
+      "word": "suggestions",
+      "freq": 3
+    },
+    {
+      "word": "lovely",
+      "freq": 3
+    },
+    {
+      "word": "asking",
+      "freq": 3
+    },
+    {
+      "word": "finished",
+      "freq": 3
+    },
+    {
+      "word": "finally",
+      "freq": 3
+    },
+    {
+      "word": "bye",
+      "freq": 3
+    },
+    {
+      "word": "sai",
+      "freq": 3
+    },
+    {
+      "word": "tho",
+      "freq": 3
+    },
+    {
+      "word": "possibility",
+      "freq": 3
+    },
+    {
+      "word": "ranging",
+      "freq": 3
+    },
+    {
+      "word": "famous",
+      "freq": 3
+    },
+    {
+      "word": "designer",
+      "freq": 3
+    },
+    {
+      "word": "minute",
+      "freq": 3
+    },
+    {
+      "word": "newspapers",
+      "freq": 3
+    },
+    {
+      "word": "volume",
+      "freq": 3
+    },
+    {
+      "word": "budget",
+      "freq": 3
+    },
+    {
+      "word": "climbing",
+      "freq": 3
+    },
+    {
+      "word": "rock",
+      "freq": 3
+    },
+    {
+      "word": "slide",
+      "freq": 3
+    },
+    {
+      "word": "ice",
+      "freq": 3
+    },
+    {
+      "word": "art",
+      "freq": 3
+    },
+    {
+      "word": "continent",
+      "freq": 3
+    },
+    {
+      "word": "unusual",
+      "freq": 3
+    },
+    {
+      "word": "brackenside",
+      "freq": 3
+    },
+    {
+      "word": "yet",
+      "freq": 3
+    },
+    {
+      "word": "represented",
+      "freq": 3
+    },
+    {
+      "word": "africa",
+      "freq": 3
+    },
+    {
+      "word": "volcanoes",
+      "freq": 3
+    },
+    {
+      "word": "sea",
+      "freq": 3
+    },
+    {
+      "word": "drinks",
+      "freq": 3
+    },
+    {
+      "word": "news",
+      "freq": 3
+    },
+    {
+      "word": "concept",
+      "freq": 3
+    },
+    {
+      "word": "forests",
+      "freq": 3
+    },
+    {
+      "word": "search",
+      "freq": 3
+    },
+    {
+      "word": "traditional",
+      "freq": 3
+    },
+    {
+      "word": "trails",
+      "freq": 3
+    },
+    {
+      "word": "heart",
+      "freq": 3
+    },
+    {
+      "word": "report",
+      "freq": 3
+    },
+    {
+      "word": "antiseptic",
+      "freq": 3
+    },
+    {
+      "word": "theory",
+      "freq": 3
+    },
+    {
+      "word": "burst",
+      "freq": 3
+    },
+    {
+      "word": "infant",
+      "freq": 3
+    },
+    {
+      "word": "sanitation",
+      "freq": 3
+    },
+    {
+      "word": "widespread",
+      "freq": 3
+    },
+    {
+      "word": "malt",
+      "freq": 3
+    },
+    {
+      "word": "saving",
+      "freq": 3
+    },
+    {
+      "word": "present",
+      "freq": 3
+    },
+    {
+      "word": "nations",
+      "freq": 3
+    },
+    {
+      "word": "france",
+      "freq": 3
+    },
+    {
+      "word": "necessary",
+      "freq": 3
+    },
+    {
+      "word": "except",
+      "freq": 3
+    },
+    {
+      "word": "nation",
+      "freq": 3
+    },
+    {
+      "word": "interesting",
+      "freq": 3
+    },
+    {
+      "word": "factor",
+      "freq": 3
+    },
+    {
+      "word": "happened",
+      "freq": 3
+    },
+    {
+      "word": "suggested",
+      "freq": 3
+    },
+    {
+      "word": "causes",
+      "freq": 3
+    },
+    {
+      "word": "environmental",
+      "freq": 3
+    },
+    {
+      "word": "efforts",
+      "freq": 3
+    },
+    {
+      "word": "child",
+      "freq": 3
+    },
+    {
+      "word": "british",
+      "freq": 3
+    },
+    {
+      "word": "english",
+      "freq": 3
+    },
+    {
+      "word": "added",
+      "freq": 3
+    },
+    {
+      "word": "tax",
+      "freq": 3
+    },
+    {
+      "word": "poor",
+      "freq": 3
+    },
+    {
+      "word": "turned",
+      "freq": 3
+    },
+    {
+      "word": "dropped",
+      "freq": 3
+    },
+    {
+      "word": "relatively",
+      "freq": 3
+    },
+    {
+      "word": "trade",
+      "freq": 3
+    },
+    {
+      "word": "ever",
+      "freq": 3
+    },
+    {
+      "word": "ahead",
+      "freq": 3
+    },
+    {
+      "word": "techniques",
+      "freq": 3
+    },
+    {
+      "word": "seven",
+      "freq": 3
+    },
+    {
+      "word": "reasons",
+      "freq": 3
+    },
+    {
+      "word": "cases",
+      "freq": 3
+    },
+    {
+      "word": "khai",
+      "freq": 3
+    },
+    {
+      "word": "investment",
+      "freq": 3
+    },
+    {
+      "word": "gross",
+      "freq": 3
+    },
+    {
+      "word": "reliable",
+      "freq": 3
+    },
+    {
+      "word": "precise",
+      "freq": 3
+    },
+    {
+      "word": "domestic",
+      "freq": 3
+    },
+    {
+      "word": "personalities",
+      "freq": 3
+    },
+    {
+      "word": "war",
+      "freq": 3
+    },
+    {
+      "word": "equally",
+      "freq": 3
+    },
+    {
+      "word": "wealthy",
+      "freq": 3
+    },
+    {
+      "word": "grow",
+      "freq": 3
+    },
+    {
+      "word": "played",
+      "freq": 3
+    },
+    {
+      "word": "economies",
+      "freq": 3
+    },
+    {
+      "word": "twentieth",
+      "freq": 3
+    },
+    {
+      "word": "grown",
+      "freq": 3
+    },
+    {
+      "word": "social",
+      "freq": 3
+    },
+    {
+      "word": "estimated",
+      "freq": 3
+    },
+    {
+      "word": "million",
+      "freq": 3
+    },
+    {
+      "word": "producing",
+      "freq": 3
+    },
+    {
+      "word": "effect",
+      "freq": 3
+    },
+    {
+      "word": "italy",
+      "freq": 3
+    },
+    {
+      "word": "united",
+      "freq": 3
+    },
+    {
+      "word": "tourist",
+      "freq": 3
+    },
+    {
+      "word": "decided",
+      "freq": 3
+    },
+    {
+      "word": "monday",
+      "freq": 3
+    },
+    {
+      "word": "sorry",
+      "freq": 3
+    },
+    {
+      "word": "seems",
+      "freq": 3
+    },
+    {
+      "word": "lunch",
+      "freq": 3
+    },
+    {
+      "word": "wear",
+      "freq": 3
+    },
+    {
+      "word": "wearing",
+      "freq": 3
+    },
+    {
+      "word": "hold",
+      "freq": 3
+    },
+    {
+      "word": "payment",
+      "freq": 3
+    },
+    {
+      "word": "obviously",
+      "freq": 3
+    },
+    {
+      "word": "huge",
+      "freq": 3
+    },
+    {
+      "word": "amount",
+      "freq": 3
+    },
+    {
+      "word": "scheme",
+      "freq": 3
+    },
+    {
+      "word": "picture",
+      "freq": 3
+    },
+    {
+      "word": "echo",
+      "freq": 3
+    },
+    {
+      "word": "straightaway",
+      "freq": 3
+    },
+    {
+      "word": "sound",
+      "freq": 3
+    },
+    {
+      "word": "recommend",
+      "freq": 3
+    },
+    {
+      "word": "presume",
+      "freq": 3
+    },
+    {
+      "word": "replace",
+      "freq": 3
+    },
+    {
+      "word": "remove",
+      "freq": 3
+    },
+    {
+      "word": "plaster",
+      "freq": 3
+    },
+    {
+      "word": "flat",
+      "freq": 3
+    },
+    {
+      "word": "jobs",
+      "freq": 3
+    },
+    {
+      "word": "garden",
+      "freq": 3
+    },
+    {
+      "word": "seeing",
+      "freq": 3
+    },
+    {
+      "word": "metal",
+      "freq": 3
+    },
+    {
+      "word": "bend",
+      "freq": 3
+    },
+    {
+      "word": "manufacturing",
+      "freq": 3
+    },
+    {
+      "word": "mineral",
+      "freq": 3
+    },
+    {
+      "word": "exhibition",
+      "freq": 3
+    },
+    {
+      "word": "demand",
+      "freq": 3
+    },
+    {
+      "word": "adapted",
+      "freq": 3
+    },
+    {
+      "word": "mountain",
+      "freq": 3
+    },
+    {
+      "word": "recommended",
+      "freq": 3
+    },
+    {
+      "word": "ship",
+      "freq": 3
+    },
+    {
+      "word": "grew",
+      "freq": 3
+    },
+    {
+      "word": "factory",
+      "freq": 3
+    },
+    {
+      "word": "ambitious",
+      "freq": 3
+    },
+    {
+      "word": "believe",
+      "freq": 3
+    },
+    {
+      "word": "dogs",
+      "freq": 3
+    },
+    {
+      "word": "shop",
+      "freq": 3
+    },
+    {
+      "word": "friends",
+      "freq": 3
+    },
+    {
+      "word": "hiring",
+      "freq": 3
+    },
+    {
+      "word": "seats",
+      "freq": 3
+    },
+    {
+      "word": "organising",
+      "freq": 3
+    },
+    {
+      "word": "planning",
+      "freq": 3
+    },
+    {
+      "word": "talking",
+      "freq": 3
+    },
+    {
+      "word": "anyway",
+      "freq": 3
+    },
+    {
+      "word": "farm",
+      "freq": 3
+    },
+    {
+      "word": "latin",
+      "freq": 3
+    },
+    {
+      "word": "museum",
+      "freq": 3
+    },
+    {
+      "word": "race",
+      "freq": 3
+    },
+    {
+      "word": "bridge",
+      "freq": 3
+    },
+    {
+      "word": "fraternal",
+      "freq": 3
+    },
+    {
+      "word": "behavior",
+      "freq": 3
+    },
+    {
+      "word": "scientists",
+      "freq": 3
+    },
+    {
+      "word": "helping",
+      "freq": 3
+    },
+    {
+      "word": "bodies",
+      "freq": 3
+    },
+    {
+      "word": "rat",
+      "freq": 3
+    },
+    {
+      "word": "pencil",
+      "freq": 3
+    },
+    {
+      "word": "spiny",
+      "freq": 3
+    },
+    {
+      "word": "uneven",
+      "freq": 3
+    },
+    {
+      "word": "barren",
+      "freq": 3
+    },
+    {
+      "word": "terrain",
+      "freq": 3
+    },
+    {
+      "word": "inhospitable",
+      "freq": 3
+    },
+    {
+      "word": "absence",
+      "freq": 3
+    },
+    {
+      "word": "length",
+      "freq": 3
+    },
+    {
+      "word": "pirates",
+      "freq": 3
+    },
+    {
+      "word": "exponentially",
+      "freq": 3
+    },
+    {
+      "word": "immobile",
+      "freq": 3
+    },
+    {
+      "word": "act",
+      "freq": 3
+    },
+    {
+      "word": "settlers",
+      "freq": 3
+    },
+    {
+      "word": "land",
+      "freq": 3
+    },
+    {
+      "word": "alien",
+      "freq": 3
+    },
+    {
+      "word": "cattle",
+      "freq": 3
+    },
+    {
+      "word": "plants",
+      "freq": 3
+    },
+    {
+      "word": "prey",
+      "freq": 3
+    },
+    {
+      "word": "highly",
+      "freq": 3
+    },
+    {
+      "word": "reintroduced",
+      "freq": 3
+    },
+    {
+      "word": "wild",
+      "freq": 3
+    },
+    {
+      "word": "treacherous",
+      "freq": 3
+    },
+    {
+      "word": "unprecedented",
+      "freq": 3
+    },
+    {
+      "word": "experienced",
+      "freq": 3
+    },
+    {
+      "word": "rear",
+      "freq": 3
+    },
+    {
+      "word": "suited",
+      "freq": 3
+    },
+    {
+      "word": "prepare",
+      "freq": 3
+    },
+    {
+      "word": "lava",
+      "freq": 3
+    },
+    {
+      "word": "juvenile",
+      "freq": 3
+    },
+    {
+      "word": "timing",
+      "freq": 3
+    },
+    {
+      "word": "populate",
+      "freq": 3
+    },
+    {
+      "word": "carrying",
+      "freq": 3
+    },
+    {
+      "word": "operation",
+      "freq": 3
+    },
+    {
+      "word": "increased",
+      "freq": 3
+    },
+    {
+      "word": "destruction",
+      "freq": 3
+    },
+    {
+      "word": "establishment",
+      "freq": 3
+    },
+    {
+      "word": "internet",
+      "freq": 3
+    },
+    {
+      "word": "occurred",
+      "freq": 3
+    },
+    {
+      "word": "ravenscroft",
+      "freq": 3
+    },
+    {
+      "word": "production",
+      "freq": 3
+    },
+    {
+      "word": "bottle",
+      "freq": 3
+    },
+    {
+      "word": "scientific",
+      "freq": 3
+    },
+    {
+      "word": "business",
+      "freq": 3
+    },
+    {
+      "word": "apartments",
+      "freq": 3
+    },
+    {
+      "word": "yesterday",
+      "freq": 3
+    },
+    {
+      "word": "backpack",
+      "freq": 3
+    },
+    {
+      "word": "apprentices",
+      "freq": 3
+    },
+    {
+      "word": "jacksonian",
+      "freq": 3
+    },
+    {
+      "word": "intelligent",
+      "freq": 3
+    },
+    {
+      "word": "equal",
+      "freq": 3
+    },
+    {
+      "word": "rewarded",
+      "freq": 3
+    },
+    {
+      "word": "claims",
+      "freq": 3
+    },
+    {
+      "word": "advert",
+      "freq": 2
+    },
+    {
+      "word": "theme",
+      "freq": 2
+    },
+    {
+      "word": "lodge",
+      "freq": 2
+    },
+    {
+      "word": "ngh",
+      "freq": 2
+    },
+    {
+      "word": "campsite",
+      "freq": 2
+    },
+    {
+      "word": "tent",
+      "freq": 2
+    },
+    {
+      "word": "shelter",
+      "freq": 2
+    },
+    {
+      "word": "organize",
+      "freq": 2
+    },
+    {
+      "word": "castle",
+      "freq": 2
+    },
+    {
+      "word": "fortress",
+      "freq": 2
+    },
+    {
+      "word": "palace",
+      "freq": 2
+    },
+    {
+      "word": "involve",
+      "freq": 2
+    },
+    {
+      "word": "bay",
+      "freq": 2
+    },
+    {
+      "word": "propose",
+      "freq": 2
+    },
+    {
+      "word": "issues",
+      "freq": 2
+    },
+    {
+      "word": "mobile",
+      "freq": 2
+    },
+    {
+      "word": "los",
+      "freq": 2
+    },
+    {
+      "word": "angeles",
+      "freq": 2
+    },
+    {
+      "word": "yosemite",
+      "freq": 2
+    },
+    {
+      "word": "monica",
+      "freq": 2
+    },
+    {
+      "word": "diego",
+      "freq": 2
+    },
+    {
+      "word": "interest",
+      "freq": 2
+    },
+    {
+      "word": "plenty",
+      "freq": 2
+    },
+    {
+      "word": "slightly",
+      "freq": 2
+    },
+    {
+      "word": "told",
+      "freq": 2
+    },
+    {
+      "word": "nice",
+      "freq": 2
+    },
+    {
+      "word": "lasts",
+      "freq": 2
+    },
+    {
+      "word": "twelve",
+      "freq": 2
+    },
+    {
+      "word": "covers",
+      "freq": 2
+    },
+    {
+      "word": "nine",
+      "freq": 2
+    },
+    {
+      "word": "altogether",
+      "freq": 2
+    },
+    {
+      "word": "cheaper",
+      "freq": 2
+    },
+    {
+      "word": "included",
+      "freq": 2
+    },
+    {
+      "word": "hotels",
+      "freq": 2
+    },
+    {
+      "word": "chance",
+      "freq": 2
+    },
+    {
+      "word": "health",
+      "freq": 2
+    },
+    {
+      "word": "progress",
+      "freq": 2
+    },
+    {
+      "word": "lane",
+      "freq": 2
+    },
+    {
+      "word": "path",
+      "freq": 2
+    },
+    {
+      "word": "track",
+      "freq": 2
+    },
+    {
+      "word": "sadly",
+      "freq": 2
+    },
+    {
+      "word": "improve",
+      "freq": 2
+    },
+    {
+      "word": "operate",
+      "freq": 2
+    },
+    {
+      "word": "function",
+      "freq": 2
+    },
+    {
+      "word": "cater",
+      "freq": 2
+    },
+    {
+      "word": "benefit",
+      "freq": 2
+    },
+    {
+      "word": "tuition",
+      "freq": 2
+    },
+    {
+      "word": "trampolining",
+      "freq": 2
+    },
+    {
+      "word": "appreciate",
+      "freq": 2
+    },
+    {
+      "word": "respect",
+      "freq": 2
+    },
+    {
+      "word": "quy",
+      "freq": 2
+    },
+    {
+      "word": "sth",
+      "freq": 2
+    },
+    {
+      "word": "joining",
+      "freq": 2
+    },
+    {
+      "word": "reciprocal",
+      "freq": 2
+    },
+    {
+      "word": "shared",
+      "freq": 2
+    },
+    {
+      "word": "single",
+      "freq": 2
+    },
+    {
+      "word": "notice",
+      "freq": 2
+    },
+    {
+      "word": "rarely",
+      "freq": 2
+    },
+    {
+      "word": "compare",
+      "freq": 2
+    },
+    {
+      "word": "intention",
+      "freq": 2
+    },
+    {
+      "word": "immediately",
+      "freq": 2
+    },
+    {
+      "word": "speaker",
+      "freq": 2
+    },
+    {
+      "word": "spelling",
+      "freq": 2
+    },
+    {
+      "word": "fit",
+      "freq": 2
+    },
+    {
+      "word": "completed",
+      "freq": 2
+    },
+    {
+      "word": "natural",
+      "freq": 2
+    },
+    {
+      "word": "improved",
+      "freq": 2
+    },
+    {
+      "word": "sports",
+      "freq": 2
+    },
+    {
+      "word": "explained",
+      "freq": 2
+    },
+    {
+      "word": "greatest",
+      "freq": 2
+    },
+    {
+      "word": "expanded",
+      "freq": 2
+    },
+    {
+      "word": "member",
+      "freq": 2
+    },
+    {
+      "word": "weekends",
+      "freq": 2
+    },
+    {
+      "word": "questionnaire",
+      "freq": 2
+    },
+    {
+      "word": "yourself",
+      "freq": 2
+    },
+    {
+      "word": "achieve",
+      "freq": 2
+    },
+    {
+      "word": "rates",
+      "freq": 2
+    },
+    {
+      "word": "monthly",
+      "freq": 2
+    },
+    {
+      "word": "costs",
+      "freq": 2
+    },
+    {
+      "word": "whose",
+      "freq": 2
+    },
+    {
+      "word": "booking",
+      "freq": 2
+    },
+    {
+      "word": "suit",
+      "freq": 2
+    },
+    {
+      "word": "arrangements",
+      "freq": 2
+    },
+    {
+      "word": "clothes",
+      "freq": 2
+    },
+    {
+      "word": "rooms",
+      "freq": 2
+    },
+    {
+      "word": "matches",
+      "freq": 2
+    },
+    {
+      "word": "focusing",
+      "freq": 2
+    },
+    {
+      "word": "straightforward",
+      "freq": 2
+    },
+    {
+      "word": "scan",
+      "freq": 2
+    },
+    {
+      "word": "comes",
+      "freq": 2
+    },
+    {
+      "word": "filling",
+      "freq": 2
+    },
+    {
+      "word": "finding",
+      "freq": 2
+    },
+    {
+      "word": "subheadings",
+      "freq": 2
+    },
+    {
+      "word": "millennium",
+      "freq": 2
+    },
+    {
+      "word": "thang",
+      "freq": 2
+    },
+    {
+      "word": "fundamental",
+      "freq": 2
+    },
+    {
+      "word": "neglected",
+      "freq": 2
+    },
+    {
+      "word": "glory",
+      "freq": 2
+    },
+    {
+      "word": "document",
+      "freq": 2
+    },
+    {
+      "word": "spectacular",
+      "freq": 2
+    },
+    {
+      "word": "architecturally",
+      "freq": 2
+    },
+    {
+      "word": "heyday",
+      "freq": 2
+    },
+    {
+      "word": "worship",
+      "freq": 2
+    },
+    {
+      "word": "giai",
+      "freq": 2
+    },
+    {
+      "word": "dotted",
+      "freq": 2
+    },
+    {
+      "word": "comprise",
+      "freq": 2
+    },
+    {
+      "word": "aquifer",
+      "freq": 2
+    },
+    {
+      "word": "paving",
+      "freq": 2
+    },
+    {
+      "word": "sloping",
+      "freq": 2
+    },
+    {
+      "word": "elaborate",
+      "freq": 2
+    },
+    {
+      "word": "relentless",
+      "freq": 2
+    },
+    {
+      "word": "intricate",
+      "freq": 2
+    },
+    {
+      "word": "tinh",
+      "freq": 2
+    },
+    {
+      "word": "embellish",
+      "freq": 2
+    },
+    {
+      "word": "fall",
+      "freq": 2
+    },
+    {
+      "word": "disuse",
+      "freq": 2
+    },
+    {
+      "word": "derelict",
+      "freq": 2
+    },
+    {
+      "word": "drought",
+      "freq": 2
+    },
+    {
+      "word": "flood",
+      "freq": 2
+    },
+    {
+      "word": "pristine",
+      "freq": 2
+    },
+    {
+      "word": "devastating",
+      "freq": 2
+    },
+    {
+      "word": "earthquake",
+      "freq": 2
+    },
+    {
+      "word": "honour",
+      "freq": 2
+    },
+    {
+      "word": "resemble",
+      "freq": 2
+    },
+    {
+      "word": "tank",
+      "freq": 2
+    },
+    {
+      "word": "reservoir",
+      "freq": 2
+    },
+    {
+      "word": "stunning",
+      "freq": 2
+    },
+    {
+      "word": "geometrical",
+      "freq": 2
+    },
+    {
+      "word": "formation",
+      "freq": 2
+    },
+    {
+      "word": "wealth",
+      "freq": 2
+    },
+    {
+      "word": "ruined",
+      "freq": 2
+    },
+    {
+      "word": "aesthetically",
+      "freq": 2
+    },
+    {
+      "word": "ornate",
+      "freq": 2
+    },
+    {
+      "word": "overlook",
+      "freq": 2
+    },
+    {
+      "word": "colonnaded",
+      "freq": 2
+    },
+    {
+      "word": "flock",
+      "freq": 2
+    },
+    {
+      "word": "flung",
+      "freq": 2
+    },
+    {
+      "word": "gaze",
+      "freq": 2
+    },
+    {
+      "word": "ingenuity",
+      "freq": 2
+    },
+    {
+      "word": "artistry",
+      "freq": 2
+    },
+    {
+      "word": "civilisation",
+      "freq": 2
+    },
+    {
+      "word": "existence",
+      "freq": 2
+    },
+    {
+      "word": "prep",
+      "freq": 2
+    },
+    {
+      "word": "returned",
+      "freq": 2
+    },
+    {
+      "word": "centuries",
+      "freq": 2
+    },
+    {
+      "word": "groundwater",
+      "freq": 2
+    },
+    {
+      "word": "delhi",
+      "freq": 2
+    },
+    {
+      "word": "normally",
+      "freq": 2
+    },
+    {
+      "word": "reach",
+      "freq": 2
+    },
+    {
+      "word": "supported",
+      "freq": 2
+    },
+    {
+      "word": "pillars",
+      "freq": 2
+    },
+    {
+      "word": "impressive",
+      "freq": 2
+    },
+    {
+      "word": "everyday",
+      "freq": 2
+    },
+    {
+      "word": "constructed",
+      "freq": 2
+    },
+    {
+      "word": "northwestern",
+      "freq": 2
+    },
+    {
+      "word": "longer",
+      "freq": 2
+    },
+    {
+      "word": "hasn",
+      "freq": 2
+    },
+    {
+      "word": "southern",
+      "freq": 2
+    },
+    {
+      "word": "capital",
+      "freq": 2
+    },
+    {
+      "word": "current",
+      "freq": 2
+    },
+    {
+      "word": "temple",
+      "freq": 2
+    },
+    {
+      "word": "sides",
+      "freq": 2
+    },
+    {
+      "word": "bottom",
+      "freq": 2
+    },
+    {
+      "word": "shrines",
+      "freq": 2
+    },
+    {
+      "word": "sets",
+      "freq": 2
+    },
+    {
+      "word": "bundi",
+      "freq": 2
+    },
+    {
+      "word": "larger",
+      "freq": 2
+    },
+    {
+      "word": "examples",
+      "freq": 2
+    },
+    {
+      "word": "raniji",
+      "freq": 2
+    },
+    {
+      "word": "baoris",
+      "freq": 2
+    },
+    {
+      "word": "commissioned",
+      "freq": 2
+    },
+    {
+      "word": "chand",
+      "freq": 2
+    },
+    {
+      "word": "deepest",
+      "freq": 2
+    },
+    {
+      "word": "geometric",
+      "freq": 2
+    },
+    {
+      "word": "neemrana",
+      "freq": 2
+    },
+    {
+      "word": "visitor",
+      "freq": 2
+    },
+    {
+      "word": "architectural",
+      "freq": 2
+    },
+    {
+      "word": "online",
+      "freq": 2
+    },
+    {
+      "word": "existing",
+      "freq": 2
+    },
+    {
+      "word": "frequent",
+      "freq": 2
+    },
+    {
+      "word": "nowadays",
+      "freq": 2
+    },
+    {
+      "word": "decorate",
+      "freq": 2
+    },
+    {
+      "word": "looks",
+      "freq": 2
+    },
+    {
+      "word": "behalf",
+      "freq": 2
+    },
+    {
+      "word": "committee",
+      "freq": 2
+    },
+    {
+      "word": "shift",
+      "freq": 2
+    },
+    {
+      "word": "schedule",
+      "freq": 2
+    },
+    {
+      "word": "shame",
+      "freq": 2
+    },
+    {
+      "word": "realise",
+      "freq": 2
+    },
+    {
+      "word": "aware",
+      "freq": 2
+    },
+    {
+      "word": "sweaty",
+      "freq": 2
+    },
+    {
+      "word": "uphill",
+      "freq": 2
+    },
+    {
+      "word": "bradfield",
+      "freq": 2
+    },
+    {
+      "word": "occupation",
+      "freq": 2
+    },
+    {
+      "word": "footpaths",
+      "freq": 2
+    },
+    {
+      "word": "normal",
+      "freq": 2
+    },
+    {
+      "word": "walk",
+      "freq": 2
+    },
+    {
+      "word": "real",
+      "freq": 2
+    },
+    {
+      "word": "leave",
+      "freq": 2
+    },
+    {
+      "word": "starting",
+      "freq": 2
+    },
+    {
+      "word": "cung",
+      "freq": 2
+    },
+    {
+      "word": "paraphrase",
+      "freq": 2
+    },
+    {
+      "word": "item",
+      "freq": 2
+    },
+    {
+      "word": "measures",
+      "freq": 2
+    },
+    {
+      "word": "extensive",
+      "freq": 2
+    },
+    {
+      "word": "broad",
+      "freq": 2
+    },
+    {
+      "word": "consultation",
+      "freq": 2
+    },
+    {
+      "word": "tham",
+      "freq": 2
+    },
+    {
+      "word": "discussion",
+      "freq": 2
+    },
+    {
+      "word": "meeting",
+      "freq": 2
+    },
+    {
+      "word": "conduct",
+      "freq": 2
+    },
+    {
+      "word": "ban",
+      "freq": 2
+    },
+    {
+      "word": "audience",
+      "freq": 2
+    },
+    {
+      "word": "secure",
+      "freq": 2
+    },
+    {
+      "word": "ability",
+      "freq": 2
+    },
+    {
+      "word": "skill",
+      "freq": 2
+    },
+    {
+      "word": "internationally",
+      "freq": 2
+    },
+    {
+      "word": "architect",
+      "freq": 2
+    },
+    {
+      "word": "seawater",
+      "freq": 2
+    },
+    {
+      "word": "debate",
+      "freq": 2
+    },
+    {
+      "word": "deceptive",
+      "freq": 2
+    },
+    {
+      "word": "misleading",
+      "freq": 2
+    },
+    {
+      "word": "rigorous",
+      "freq": 2
+    },
+    {
+      "word": "announce",
+      "freq": 2
+    },
+    {
+      "word": "sculpture",
+      "freq": 2
+    },
+    {
+      "word": "statue",
+      "freq": 2
+    },
+    {
+      "word": "entry",
+      "freq": 2
+    },
+    {
+      "word": "figure",
+      "freq": 2
+    },
+    {
+      "word": "character",
+      "freq": 2
+    },
+    {
+      "word": "represent",
+      "freq": 2
+    },
+    {
+      "word": "indigenous",
+      "freq": 2
+    },
+    {
+      "word": "wall",
+      "freq": 2
+    },
+    {
+      "word": "play",
+      "freq": 2
+    },
+    {
+      "word": "mosaics",
+      "freq": 2
+    },
+    {
+      "word": "tranh",
+      "freq": 2
+    },
+    {
+      "word": "hoa",
+      "freq": 2
+    },
+    {
+      "word": "amenity",
+      "freq": 2
+    },
+    {
+      "word": "swrdc",
+      "freq": 2
+    },
+    {
+      "word": "style",
+      "freq": 2
+    },
+    {
+      "word": "treatment",
+      "freq": 2
+    },
+    {
+      "word": "decision",
+      "freq": 2
+    },
+    {
+      "word": "box",
+      "freq": 2
+    },
+    {
+      "word": "asia",
+      "freq": 2
+    },
+    {
+      "word": "wonderful",
+      "freq": 2
+    },
+    {
+      "word": "front",
+      "freq": 2
+    },
+    {
+      "word": "happy",
+      "freq": 2
+    },
+    {
+      "word": "buildings",
+      "freq": 2
+    },
+    {
+      "word": "snacks",
+      "freq": 2
+    },
+    {
+      "word": "divided",
+      "freq": 2
+    },
+    {
+      "word": "afraid",
+      "freq": 2
+    },
+    {
+      "word": "opted",
+      "freq": 2
+    },
+    {
+      "word": "slides",
+      "freq": 2
+    },
+    {
+      "word": "designers",
+      "freq": 2
+    },
+    {
+      "word": "games",
+      "freq": 2
+    },
+    {
+      "word": "mines",
+      "freq": 2
+    },
+    {
+      "word": "considered",
+      "freq": 2
+    },
+    {
+      "word": "fascinating",
+      "freq": 2
+    },
+    {
+      "word": "love",
+      "freq": 2
+    },
+    {
+      "word": "anthropological",
+      "freq": 2
+    },
+    {
+      "word": "enigma",
+      "freq": 2
+    },
+    {
+      "word": "strike",
+      "freq": 2
+    },
+    {
+      "word": "lao",
+      "freq": 2
+    },
+    {
+      "word": "affluent",
+      "freq": 2
+    },
+    {
+      "word": "driven",
+      "freq": 2
+    },
+    {
+      "word": "criteria",
+      "freq": 2
+    },
+    {
+      "word": "tannin",
+      "freq": 2
+    },
+    {
+      "word": "flourish",
+      "freq": 2
+    },
+    {
+      "word": "eccentric",
+      "freq": 2
+    },
+    {
+      "word": "detective",
+      "freq": 2
+    },
+    {
+      "word": "deduction",
+      "freq": 2
+    },
+    {
+      "word": "suy",
+      "freq": 2
+    },
+    {
+      "word": "scepticism",
+      "freq": 2
+    },
+    {
+      "word": "admiration",
+      "freq": 2
+    },
+    {
+      "word": "static",
+      "freq": 2
+    },
+    {
+      "word": "bacteria",
+      "freq": 2
+    },
+    {
+      "word": "waste",
+      "freq": 2
+    },
+    {
+      "word": "incidence",
+      "freq": 2
+    },
+    {
+      "word": "prevalence",
+      "freq": 2
+    },
+    {
+      "word": "extraordinary",
+      "freq": 2
+    },
+    {
+      "word": "clipper",
+      "freq": 2
+    },
+    {
+      "word": "breast",
+      "freq": 2
+    },
+    {
+      "word": "milk",
+      "freq": 2
+    },
+    {
+      "word": "literacy",
+      "freq": 2
+    },
+    {
+      "word": "essence",
+      "freq": 2
+    },
+    {
+      "word": "skimming",
+      "freq": 2
+    },
+    {
+      "word": "sang",
+      "freq": 2
+    },
+    {
+      "word": "quanh",
+      "freq": 2
+    },
+    {
+      "word": "habits",
+      "freq": 2
+    },
+    {
+      "word": "decades",
+      "freq": 2
+    },
+    {
+      "word": "particular",
+      "freq": 2
+    },
+    {
+      "word": "combination",
+      "freq": 2
+    },
+    {
+      "word": "power",
+      "freq": 2
+    },
+    {
+      "word": "urban",
+      "freq": 2
+    },
+    {
+      "word": "goods",
+      "freq": 2
+    },
+    {
+      "word": "willing",
+      "freq": 2
+    },
+    {
+      "word": "economy",
+      "freq": 2
+    },
+    {
+      "word": "met",
+      "freq": 2
+    },
+    {
+      "word": "cause",
+      "freq": 2
+    },
+    {
+      "word": "holland",
+      "freq": 2
+    },
+    {
+      "word": "coal",
+      "freq": 2
+    },
+    {
+      "word": "cupboard",
+      "freq": 2
+    },
+    {
+      "word": "properties",
+      "freq": 2
+    },
+    {
+      "word": "ingredient",
+      "freq": 2
+    },
+    {
+      "word": "hops",
+      "freq": 2
+    },
+    {
+      "word": "boiled",
+      "freq": 2
+    },
+    {
+      "word": "communities",
+      "freq": 2
+    },
+    {
+      "word": "quarters",
+      "freq": 2
+    },
+    {
+      "word": "diseases",
+      "freq": 2
+    },
+    {
+      "word": "macfarlanes",
+      "freq": 2
+    },
+    {
+      "word": "strengthened",
+      "freq": 2
+    },
+    {
+      "word": "roy",
+      "freq": 2
+    },
+    {
+      "word": "porter",
+      "freq": 2
+    },
+    {
+      "word": "medical",
+      "freq": 2
+    },
+    {
+      "word": "wrote",
+      "freq": 2
+    },
+    {
+      "word": "mid",
+      "freq": 2
+    },
+    {
+      "word": "lister",
+      "freq": 2
+    },
+    {
+      "word": "conditions",
+      "freq": 2
+    },
+    {
+      "word": "reduction",
+      "freq": 2
+    },
+    {
+      "word": "seemed",
+      "freq": 2
+    },
+    {
+      "word": "towards",
+      "freq": 2
+    },
+    {
+      "word": "developing",
+      "freq": 2
+    },
+    {
+      "word": "expensive",
+      "freq": 2
+    },
+    {
+      "word": "direct",
+      "freq": 2
+    },
+    {
+      "word": "drink",
+      "freq": 2
+    },
+    {
+      "word": "meant",
+      "freq": 2
+    },
+    {
+      "word": "wheel",
+      "freq": 2
+    },
+    {
+      "word": "joseph",
+      "freq": 2
+    },
+    {
+      "word": "doctor",
+      "freq": 2
+    },
+    {
+      "word": "industrialisation",
+      "freq": 2
+    },
+    {
+      "word": "primitive",
+      "freq": 2
+    },
+    {
+      "word": "religious",
+      "freq": 2
+    },
+    {
+      "word": "conviction",
+      "freq": 2
+    },
+    {
+      "word": "migration",
+      "freq": 2
+    },
+    {
+      "word": "compelling",
+      "freq": 2
+    },
+    {
+      "word": "seaside",
+      "freq": 2
+    },
+    {
+      "word": "vital",
+      "freq": 2
+    },
+    {
+      "word": "advent",
+      "freq": 2
+    },
+    {
+      "word": "subsequent",
+      "freq": 2
+    },
+    {
+      "word": "jet",
+      "freq": 2
+    },
+    {
+      "word": "aircraft",
+      "freq": 2
+    },
+    {
+      "word": "industrialised",
+      "freq": 2
+    },
+    {
+      "word": "segment",
+      "freq": 2
+    },
+    {
+      "word": "entity",
+      "freq": 2
+    },
+    {
+      "word": "output",
+      "freq": 2
+    },
+    {
+      "word": "estimate",
+      "freq": 2
+    },
+    {
+      "word": "excess",
+      "freq": 2
+    },
+    {
+      "word": "profound",
+      "freq": 2
+    },
+    {
+      "word": "hidden",
+      "freq": 2
+    },
+    {
+      "word": "obscured",
+      "freq": 2
+    },
+    {
+      "word": "fragmentation",
+      "freq": 2
+    },
+    {
+      "word": "amorphous",
+      "freq": 2
+    },
+    {
+      "word": "institutionalised",
+      "freq": 2
+    },
+    {
+      "word": "certainty",
+      "freq": 2
+    },
+    {
+      "word": "statistically",
+      "freq": 2
+    },
+    {
+      "word": "recreation",
+      "freq": 2
+    },
+    {
+      "word": "ascertain",
+      "freq": 2
+    },
+    {
+      "word": "resident",
+      "freq": 2
+    },
+    {
+      "word": "scope",
+      "freq": 2
+    },
+    {
+      "word": "existed",
+      "freq": 2
+    },
+    {
+      "word": "beginning",
+      "freq": 2
+    },
+    {
+      "word": "clothing",
+      "freq": 2
+    },
+    {
+      "word": "officials",
+      "freq": 2
+    },
+    {
+      "word": "dark",
+      "freq": 2
+    },
+    {
+      "word": "transportation",
+      "freq": 2
+    },
+    {
+      "word": "creation",
+      "freq": 2
+    },
+    {
+      "word": "earning",
+      "freq": 2
+    },
+    {
+      "word": "foreign",
+      "freq": 2
+    },
+    {
+      "word": "exchange",
+      "freq": 2
+    },
+    {
+      "word": "past",
+      "freq": 2
+    },
+    {
+      "word": "fastest",
+      "freq": 2
+    },
+    {
+      "word": "virtually",
+      "freq": 2
+    },
+    {
+      "word": "contributions",
+      "freq": 2
+    },
+    {
+      "word": "consumer",
+      "freq": 2
+    },
+    {
+      "word": "product",
+      "freq": 2
+    },
+    {
+      "word": "taxes",
+      "freq": 2
+    },
+    {
+      "word": "effects",
+      "freq": 2
+    },
+    {
+      "word": "itself",
+      "freq": 2
+    },
+    {
+      "word": "diversity",
+      "freq": 2
+    },
+    {
+      "word": "attractions",
+      "freq": 2
+    },
+    {
+      "word": "residents",
+      "freq": 2
+    },
+    {
+      "word": "spe",
+      "freq": 2
+    },
+    {
+      "word": "points",
+      "freq": 2
+    },
+    {
+      "word": "ideal",
+      "freq": 2
+    },
+    {
+      "word": "spain",
+      "freq": 2
+    },
+    {
+      "word": "jamaica",
+      "freq": 2
+    },
+    {
+      "word": "definition",
+      "freq": 2
+    },
+    {
+      "word": "affect",
+      "freq": 2
+    },
+    {
+      "word": "statistical",
+      "freq": 2
+    },
+    {
+      "word": "measurement",
+      "freq": 2
+    },
+    {
+      "word": "greater",
+      "freq": 2
+    },
+    {
+      "word": "measuring",
+      "freq": 2
+    },
+    {
+      "word": "smith",
+      "freq": 2
+    },
+    {
+      "word": "groups",
+      "freq": 2
+    },
+    {
+      "word": "wednesday",
+      "freq": 2
+    },
+    {
+      "word": "mmm",
+      "freq": 2
+    },
+    {
+      "word": "thursday",
+      "freq": 2
+    },
+    {
+      "word": "olds",
+      "freq": 2
+    },
+    {
+      "word": "age",
+      "freq": 2
+    },
+    {
+      "word": "breakfast",
+      "freq": 2
+    },
+    {
+      "word": "chosen",
+      "freq": 2
+    },
+    {
+      "word": "organisation",
+      "freq": 2
+    },
+    {
+      "word": "campaigns",
+      "freq": 2
+    },
+    {
+      "word": "brought",
+      "freq": 2
+    },
+    {
+      "word": "exploration",
+      "freq": 2
+    },
+    {
+      "word": "noise",
+      "freq": 2
+    },
+    {
+      "word": "raise",
+      "freq": 2
+    },
+    {
+      "word": "pollution",
+      "freq": 2
+    },
+    {
+      "word": "growing",
+      "freq": 2
+    },
+    {
+      "word": "animal",
+      "freq": 2
+    },
+    {
+      "word": "visited",
+      "freq": 2
+    },
+    {
+      "word": "understood",
+      "freq": 2
+    },
+    {
+      "word": "companies",
+      "freq": 2
+    },
+    {
+      "word": "against",
+      "freq": 2
+    },
+    {
+      "word": "rest",
+      "freq": 2
+    },
+    {
+      "word": "pick",
+      "freq": 2
+    },
+    {
+      "word": "phrasal",
+      "freq": 2
+    },
+    {
+      "word": "bre",
+      "freq": 2
+    },
+    {
+      "word": "advise",
+      "freq": 2
+    },
+    {
+      "word": "postbox",
+      "freq": 2
+    },
+    {
+      "word": "separately",
+      "freq": 2
+    },
+    {
+      "word": "greasy",
+      "freq": 2
+    },
+    {
+      "word": "strip",
+      "freq": 2
+    },
+    {
+      "word": "appropriate",
+      "freq": 2
+    },
+    {
+      "word": "quote",
+      "freq": 2
+    },
+    {
+      "word": "approximately",
+      "freq": 2
+    },
+    {
+      "word": "advance",
+      "freq": 2
+    },
+    {
+      "word": "fixing",
+      "freq": 2
+    },
+    {
+      "word": "firstly",
+      "freq": 2
+    },
+    {
+      "word": "live",
+      "freq": 2
+    },
+    {
+      "word": "van",
+      "freq": 2
+    },
+    {
+      "word": "mean",
+      "freq": 2
+    },
+    {
+      "word": "forward",
+      "freq": 2
+    },
+    {
+      "word": "site",
+      "freq": 2
+    },
+    {
+      "word": "costume",
+      "freq": 2
+    },
+    {
+      "word": "stage",
+      "freq": 2
+    },
+    {
+      "word": "navigable",
+      "freq": 2
+    },
+    {
+      "word": "convenient",
+      "freq": 2
+    },
+    {
+      "word": "load",
+      "freq": 2
+    },
+    {
+      "word": "unload",
+      "freq": 2
+    },
+    {
+      "word": "ore",
+      "freq": 2
+    },
+    {
+      "word": "led",
+      "freq": 2
+    },
+    {
+      "word": "manganese",
+      "freq": 2
+    },
+    {
+      "word": "arsenic",
+      "freq": 2
+    },
+    {
+      "word": "chemical",
+      "freq": 2
+    },
+    {
+      "word": "smelt",
+      "freq": 2
+    },
+    {
+      "word": "kim",
+      "freq": 2
+    },
+    {
+      "word": "rebuild",
+      "freq": 2
+    },
+    {
+      "word": "layer",
+      "freq": 2
+    },
+    {
+      "word": "coincide",
+      "freq": 2
+    },
+    {
+      "word": "deck",
+      "freq": 2
+    },
+    {
+      "word": "safe",
+      "freq": 2
+    },
+    {
+      "word": "metals",
+      "freq": 2
+    },
+    {
+      "word": "among",
+      "freq": 2
+    },
+    {
+      "word": "declined",
+      "freq": 2
+    },
+    {
+      "word": "lost",
+      "freq": 2
+    },
+    {
+      "word": "specially",
+      "freq": 2
+    },
+    {
+      "word": "miners",
+      "freq": 2
+    },
+    {
+      "word": "classrooms",
+      "freq": 2
+    },
+    {
+      "word": "sailing",
+      "freq": 2
+    },
+    {
+      "word": "nineteenth",
+      "freq": 2
+    },
+    {
+      "word": "hand",
+      "freq": 2
+    },
+    {
+      "word": "lived",
+      "freq": 2
+    },
+    {
+      "word": "beautiful",
+      "freq": 2
+    },
+    {
+      "word": "avon",
+      "freq": 2
+    },
+    {
+      "word": "higher",
+      "freq": 2
+    },
+    {
+      "word": "discovered",
+      "freq": 2
+    },
+    {
+      "word": "minerals",
+      "freq": 2
+    },
+    {
+      "word": "leaving",
+      "freq": 2
+    },
+    {
+      "word": "containing",
+      "freq": 2
+    },
+    {
+      "word": "formed",
+      "freq": 2
+    },
+    {
+      "word": "resources",
+      "freq": 2
+    },
+    {
+      "word": "installations",
+      "freq": 2
+    },
+    {
+      "word": "paid",
+      "freq": 2
+    },
+    {
+      "word": "return",
+      "freq": 2
+    },
+    {
+      "word": "converted",
+      "freq": 2
+    },
+    {
+      "word": "watch",
+      "freq": 2
+    },
+    {
+      "word": "wish",
+      "freq": 2
+    },
+    {
+      "word": "saturday",
+      "freq": 2
+    },
+    {
+      "word": "deposit",
+      "freq": 2
+    },
+    {
+      "word": "additional",
+      "freq": 2
+    },
+    {
+      "word": "charge",
+      "freq": 2
+    },
+    {
+      "word": "evans",
+      "freq": 2
+    },
+    {
+      "word": "smoking",
+      "freq": 2
+    },
+    {
+      "word": "microphones",
+      "freq": 2
+    },
+    {
+      "word": "cleaning",
+      "freq": 2
+    },
+    {
+      "word": "rubbish",
+      "freq": 2
+    },
+    {
+      "word": "placed",
+      "freq": 2
+    },
+    {
+      "word": "bags",
+      "freq": 2
+    },
+    {
+      "word": "wanted",
+      "freq": 2
+    },
+    {
+      "word": "seating",
+      "freq": 2
+    },
+    {
+      "word": "weekend",
+      "freq": 2
+    },
+    {
+      "word": "cash",
+      "freq": 2
+    },
+    {
+      "word": "credit",
+      "freq": 2
+    },
+    {
+      "word": "quality",
+      "freq": 2
+    },
+    {
+      "word": "inside",
+      "freq": 2
+    },
+    {
+      "word": "forget",
+      "freq": 2
+    },
+    {
+      "word": "afterwards",
+      "freq": 2
+    },
+    {
+      "word": "fiddy",
+      "freq": 2
+    },
+    {
+      "word": "shown",
+      "freq": 2
+    },
+    {
+      "word": "concerts",
+      "freq": 2
+    },
+    {
+      "word": "lunchtime",
+      "freq": 2
+    },
+    {
+      "word": "concert",
+      "freq": 2
+    },
+    {
+      "word": "theatre",
+      "freq": 2
+    },
+    {
+      "word": "charlesworth",
+      "freq": 2
+    },
+    {
+      "word": "offord",
+      "freq": 2
+    },
+    {
+      "word": "marina",
+      "freq": 2
+    },
+    {
+      "word": "earlier",
+      "freq": 2
+    },
+    {
+      "word": "reserve",
+      "freq": 2
+    },
+    {
+      "word": "husband",
+      "freq": 2
+    },
+    {
+      "word": "possibly",
+      "freq": 2
+    },
+    {
+      "word": "events",
+      "freq": 2
+    },
+    {
+      "word": "taking",
+      "freq": 2
+    },
+    {
+      "word": "team",
+      "freq": 2
+    },
+    {
+      "word": "lake",
+      "freq": 2
+    },
+    {
+      "word": "swim",
+      "freq": 2
+    },
+    {
+      "word": "whenever",
+      "freq": 2
+    },
+    {
+      "word": "tests",
+      "freq": 2
+    },
+    {
+      "word": "identified",
+      "freq": 2
+    },
+    {
+      "word": "apply",
+      "freq": 2
+    },
+    {
+      "word": "technique",
+      "freq": 2
+    },
+    {
+      "word": "precious",
+      "freq": 2
+    },
+    {
+      "word": "younger",
+      "freq": 2
+    },
+    {
+      "word": "skin",
+      "freq": 2
+    },
+    {
+      "word": "comparing",
+      "freq": 2
+    },
+    {
+      "word": "experiences",
+      "freq": 2
+    },
+    {
+      "word": "half",
+      "freq": 2
+    },
+    {
+      "word": "vulnerability",
+      "freq": 2
+    },
+    {
+      "word": "heredity",
+      "freq": 2
+    },
+    {
+      "word": "francis",
+      "freq": 2
+    },
+    {
+      "word": "galton",
+      "freq": 2
+    },
+    {
+      "word": "approach",
+      "freq": 2
+    },
+    {
+      "word": "separated",
+      "freq": 2
+    },
+    {
+      "word": "adults",
+      "freq": 2
+    },
+    {
+      "word": "numerous",
+      "freq": 2
+    },
+    {
+      "word": "colleagues",
+      "freq": 2
+    },
+    {
+      "word": "affected",
+      "freq": 2
+    },
+    {
+      "word": "heritability",
+      "freq": 2
+    },
+    {
+      "word": "terms",
+      "freq": 2
+    },
+    {
+      "word": "trait",
+      "freq": 2
+    },
+    {
+      "word": "genetics",
+      "freq": 2
+    },
+    {
+      "word": "reactions",
+      "freq": 2
+    },
+    {
+      "word": "expressed",
+      "freq": 2
+    },
+    {
+      "word": "stress",
+      "freq": 2
+    },
+    {
+      "word": "cells",
+      "freq": 2
+    },
+    {
+      "word": "taught",
+      "freq": 2
+    },
+    {
+      "word": "origin",
+      "freq": 2
+    },
+    {
+      "word": "pen",
+      "freq": 2
+    },
+    {
+      "word": "risk",
+      "freq": 2
+    },
+    {
+      "word": "researcher",
+      "freq": 2
+    },
+    {
+      "word": "creating",
+      "freq": 2
+    },
+    {
+      "word": "airborne",
+      "freq": 2
+    },
+    {
+      "word": "conservationists",
+      "freq": 2
+    },
+    {
+      "word": "lave",
+      "freq": 2
+    },
+    {
+      "word": "plains",
+      "freq": 2
+    },
+    {
+      "word": "pacific",
+      "freq": 2
+    },
+    {
+      "word": "resembles",
+      "freq": 2
+    },
+    {
+      "word": "lunar",
+      "freq": 2
+    },
+    {
+      "word": "landscape",
+      "freq": 2
+    },
+    {
+      "word": "offers",
+      "freq": 2
+    },
+    {
+      "word": "respite",
+      "freq": 2
+    },
+    {
+      "word": "settled",
+      "freq": 2
+    },
+    {
+      "word": "environments",
+      "freq": 2
+    },
+    {
+      "word": "planet",
+      "freq": 2
+    },
+    {
+      "word": "weighing",
+      "freq": 2
+    },
+    {
+      "word": "occasionally",
+      "freq": 2
+    },
+    {
+      "word": "numbered",
+      "freq": 2
+    },
+    {
+      "word": "surviving",
+      "freq": 2
+    },
+    {
+      "word": "supplies",
+      "freq": 2
+    },
+    {
+      "word": "grade",
+      "freq": 2
+    },
+    {
+      "word": "exacerbated",
+      "freq": 2
+    },
+    {
+      "word": "destroyed",
+      "freq": 2
+    },
+    {
+      "word": "pigs",
+      "freq": 2
+    },
+    {
+      "word": "goats",
+      "freq": 2
+    },
+    {
+      "word": "rats",
+      "freq": 2
+    },
+    {
+      "word": "ants",
+      "freq": 2
+    },
+    {
+      "word": "destroy",
+      "freq": 2
+    },
+    {
+      "word": "villamil",
+      "freq": 2
+    },
+    {
+      "word": "dedicated",
+      "freq": 2
+    },
+    {
+      "word": "protecting",
+      "freq": 2
+    },
+    {
+      "word": "extremely",
+      "freq": 2
+    },
+    {
+      "word": "successful",
+      "freq": 2
+    },
+    {
+      "word": "overpopulation",
+      "freq": 2
+    },
+    {
+      "word": "pressing",
+      "freq": 2
+    },
+    {
+      "word": "bred",
+      "freq": 2
+    },
+    {
+      "word": "weigh",
+      "freq": 2
+    },
+    {
+      "word": "hardened",
+      "freq": 2
+    },
+    {
+      "word": "shells",
+      "freq": 2
+    },
+    {
+      "word": "repatriation",
+      "freq": 2
+    },
+    {
+      "word": "backs",
+      "freq": 2
+    },
+    {
+      "word": "men",
+      "freq": 2
+    },
+    {
+      "word": "hikes",
+      "freq": 2
+    },
+    {
+      "word": "narrow",
+      "freq": 2
+    },
+    {
+      "word": "november",
+      "freq": 2
+    },
+    {
+      "word": "environmentalist",
+      "freq": 2
+    },
+    {
+      "word": "liaison",
+      "freq": 2
+    },
+    {
+      "word": "godfrey",
+      "freq": 2
+    },
+    {
+      "word": "merlin",
+      "freq": 2
+    },
+    {
+      "word": "private",
+      "freq": 2
+    },
+    {
+      "word": "gathered",
+      "freq": 2
+    },
+    {
+      "word": "ayora",
+      "freq": 2
+    },
+    {
+      "word": "cruz",
+      "freq": 2
+    },
+    {
+      "word": "aim",
+      "freq": 2
+    },
+    {
+      "word": "effort",
+      "freq": 2
+    },
+    {
+      "word": "owners",
+      "freq": 2
+    },
+    {
+      "word": "metre",
+      "freq": 2
+    },
+    {
+      "word": "logistical",
+      "freq": 2
+    },
+    {
+      "word": "ambulance",
+      "freq": 2
+    },
+    {
+      "word": "custom",
+      "freq": 2
+    },
+    {
+      "word": "crate",
+      "freq": 2
+    },
+    {
+      "word": "designed",
+      "freq": 2
+    },
+    {
+      "word": "approached",
+      "freq": 2
+    },
+    {
+      "word": "maximum",
+      "freq": 2
+    },
+    {
+      "word": "payload",
+      "freq": 2
+    },
+    {
+      "word": "capabilities",
+      "freq": 2
+    },
+    {
+      "word": "meanwhile",
+      "freq": 2
+    },
+    {
+      "word": "wardens",
+      "freq": 2
+    },
+    {
+      "word": "remote",
+      "freq": 2
+    },
+    {
+      "word": "cleared",
+      "freq": 2
+    },
+    {
+      "word": "landing",
+      "freq": 2
+    },
+    {
+      "word": "brush",
+      "freq": 2
+    },
+    {
+      "word": "release",
+      "freq": 2
+    },
+    {
+      "word": "spread",
+      "freq": 2
+    },
+    {
+      "word": "territory",
+      "freq": 2
+    },
+    {
+      "word": "investigating",
+      "freq": 2
+    },
+    {
+      "word": "surroundings",
+      "freq": 2
+    },
+    {
+      "word": "feeding",
+      "freq": 2
+    },
+    {
+      "word": "tiny",
+      "freq": 2
+    },
+    {
+      "word": "lumbering",
+      "freq": 2
+    },
+    {
+      "word": "stood",
+      "freq": 2
+    },
+    {
+      "word": "powerful",
+      "freq": 2
+    },
+    {
+      "word": "symbol",
+      "freq": 2
+    },
+    {
+      "word": "regeneration",
+      "freq": 2
+    },
+    {
+      "word": "meets",
+      "freq": 2
+    },
+    {
+      "word": "disadvantage",
+      "freq": 2
+    },
+    {
+      "word": "bigger",
+      "freq": 2
+    },
+    {
+      "word": "prepared",
+      "freq": 2
+    },
+    {
+      "word": "kept",
+      "freq": 2
+    },
+    {
+      "word": "baby",
+      "freq": 2
+    },
+    {
+      "word": "plain",
+      "freq": 2
+    },
+    {
+      "word": "rapidly",
+      "freq": 2
+    },
+    {
+      "word": "nguy",
+      "freq": 2
+    },
+    {
+      "word": "shell",
+      "freq": 2
+    },
+    {
+      "word": "join",
+      "freq": 2
+    },
+    {
+      "word": "sit",
+      "freq": 2
+    },
+    {
+      "word": "thinking",
+      "freq": 2
+    },
+    {
+      "word": "quiet",
+      "freq": 2
+    },
+    {
+      "word": "hired",
+      "freq": 2
+    },
+    {
+      "word": "sugar",
+      "freq": 2
+    },
+    {
+      "word": "tuesday",
+      "freq": 2
+    },
+    {
+      "word": "bringing",
+      "freq": 2
+    },
+    {
+      "word": "mouth",
+      "freq": 2
+    },
+    {
+      "word": "sand",
+      "freq": 2
+    },
+    {
+      "word": "coating",
+      "freq": 2
+    },
+    {
+      "word": "blowing",
+      "freq": 2
+    },
+    {
+      "word": "coloured",
+      "freq": 2
+    },
+    {
+      "word": "venetians",
+      "freq": 2
+    },
+    {
+      "word": "crystal",
+      "freq": 2
+    },
+    {
+      "word": "blown",
+      "freq": 2
+    },
+    {
+      "word": "created",
+      "freq": 2
+    },
+    {
+      "word": "optical",
+      "freq": 2
+    },
+    {
+      "word": "encouraged",
+      "freq": 2
+    },
+    {
+      "word": "ashley",
+      "freq": 2
+    },
+    {
+      "word": "automated",
+      "freq": 2
+    },
+    {
+      "word": "manufacturers",
+      "freq": 2
+    },
+    {
+      "word": "saves",
+      "freq": 2
+    },
+    {
+      "word": "recycled",
+      "freq": 2
+    },
+    {
+      "word": "speak",
+      "freq": 2
+    },
+    {
+      "word": "permanent",
+      "freq": 2
+    },
+    {
+      "word": "career",
+      "freq": 2
+    },
+    {
+      "word": "leaders",
+      "freq": 2
+    },
+    {
+      "word": "challenging",
+      "freq": 2
+    },
+    {
+      "word": "papa",
+      "freq": 2
+    },
+    {
+      "word": "taylor",
+      "freq": 2
+    },
+    {
+      "word": "december",
+      "freq": 2
+    },
+    {
+      "word": "boys",
+      "freq": 2
+    },
+    {
+      "word": "shirt",
+      "freq": 2
+    },
+    {
+      "word": "tiger",
+      "freq": 2
+    },
+    {
+      "word": "street",
+      "freq": 2
+    },
+    {
+      "word": "account",
+      "freq": 2
+    },
+    {
+      "word": "generally",
+      "freq": 2
+    },
+    {
+      "word": "aspects",
+      "freq": 2
+    },
+    {
+      "word": "flexible",
+      "freq": 2
+    },
+    {
+      "word": "overtime",
+      "freq": 2
+    },
+    {
+      "word": "worry",
+      "freq": 2
+    },
+    {
+      "word": "permitted",
+      "freq": 2
+    },
+    {
+      "word": "eating",
+      "freq": 2
+    },
+    {
+      "word": "knows",
+      "freq": 2
+    },
+    {
+      "word": "judgments",
+      "freq": 2
+    },
+    {
+      "word": "abilities",
+      "freq": 2
+    },
+    {
+      "word": "language",
+      "freq": 2
+    },
+    {
+      "word": "cognitive",
+      "freq": 2
+    },
+    {
+      "word": "differ",
+      "freq": 2
+    },
+    {
+      "word": "participate",
+      "freq": 2
+    },
+    {
+      "word": "schooling",
+      "freq": 2
+    },
+    {
+      "word": "sternberg",
+      "freq": 2
+    },
+    {
+      "word": "responsibility",
+      "freq": 2
+    },
+    {
+      "word": "necessarily",
+      "freq": 2
+    },
+    {
+      "word": "achievers",
+      "freq": 2
+    },
+    {
+      "word": "scholars",
+      "freq": 2
+    },
+    {
+      "word": "assumptions",
+      "freq": 2
+    },
+    {
+      "word": "zip",
+      "freq": 1
+    },
+    {
+      "word": "advertisement",
+      "freq": 1
+    },
+    {
+      "word": "pron",
+      "freq": 1
+    },
+    {
+      "word": "someplace",
+      "freq": 1
+    },
+    {
+      "word": "leaflet",
+      "freq": 1
+    },
+    {
+      "word": "pamphlet",
+      "freq": 1
+    },
+    {
+      "word": "mail",
+      "freq": 1
+    },
+    {
+      "word": "upload",
+      "freq": 1
+    },
+    {
+      "word": "keen",
+      "freq": 1
+    },
+    {
+      "word": "rent",
+      "freq": 1
+    },
+    {
+      "word": "amusement",
+      "freq": 1
+    },
+    {
+      "word": "inn",
+      "freq": 1
+    },
+    {
+      "word": "camping",
+      "freq": 1
+    },
+    {
+      "word": "camp",
+      "freq": 1
+    },
+    {
+      "word": "wasteland",
+      "freq": 1
+    },
+    {
+      "word": "final",
+      "freq": 1
+    },
+    {
+      "word": "lodging",
+      "freq": 1
+    },
+    {
+      "word": "housing",
+      "freq": 1
+    },
+    {
+      "word": "flight",
+      "freq": 1
+    },
+    {
+      "word": "conversation",
+      "freq": 1
+    },
+    {
+      "word": "exchanging",
+      "freq": 1
+    },
+    {
+      "word": "revolves",
+      "freq": 1
+    },
+    {
+      "word": "daily",
+      "freq": 1
+    },
+    {
+      "word": "paraphrasing",
+      "freq": 1
+    },
+    {
+      "word": "exactly",
+      "freq": 1
+    },
+    {
+      "word": "unless",
+      "freq": 1
+    },
+    {
+      "word": "parks",
+      "freq": 1
+    },
+    {
+      "word": "distance",
+      "freq": 1
+    },
+    {
+      "word": "jamie",
+      "freq": 1
+    },
+    {
+      "word": "alright",
+      "freq": 1
+    },
+    {
+      "word": "brochures",
+      "freq": 1
+    },
+    {
+      "word": "kinds",
+      "freq": 1
+    },
+    {
+      "word": "nights",
+      "freq": 1
+    },
+    {
+      "word": "ends",
+      "freq": 1
+    },
+    {
+      "word": "las",
+      "freq": 1
+    },
+    {
+      "word": "vegas",
+      "freq": 1
+    },
+    {
+      "word": "hearst",
+      "freq": 1
+    },
+    {
+      "word": "continues",
+      "freq": 1
+    },
+    {
+      "word": "relax",
+      "freq": 1
+    },
+    {
+      "word": "zoo",
+      "freq": 1
+    },
+    {
+      "word": "shortest",
+      "freq": 1
+    },
+    {
+      "word": "pounds",
+      "freq": 1
+    },
+    {
+      "word": "flights",
+      "freq": 1
+    },
+    {
+      "word": "wellness",
+      "freq": 1
+    },
+    {
+      "word": "administrator",
+      "freq": 1
+    },
+    {
+      "word": "amenities",
+      "freq": 1
+    },
+    {
+      "word": "enhancement",
+      "freq": 1
+    },
+    {
+      "word": "assert",
+      "freq": 1
+    },
+    {
+      "word": "claim",
+      "freq": 1
+    },
+    {
+      "word": "expand",
+      "freq": 1
+    },
+    {
+      "word": "enlarge",
+      "freq": 1
+    },
+    {
+      "word": "extend",
+      "freq": 1
+    },
+    {
+      "word": "regrettably",
+      "freq": 1
+    },
+    {
+      "word": "partially",
+      "freq": 1
+    },
+    {
+      "word": "somewhat",
+      "freq": 1
+    },
+    {
+      "word": "retractable",
+      "freq": 1
+    },
+    {
+      "word": "foldable",
+      "freq": 1
+    },
+    {
+      "word": "collapsible",
+      "freq": 1
+    },
+    {
+      "word": "external",
+      "freq": 1
+    },
+    {
+      "word": "refurbish",
+      "freq": 1
+    },
+    {
+      "word": "renovate",
+      "freq": 1
+    },
+    {
+      "word": "redecorate",
+      "freq": 1
+    },
+    {
+      "word": "center",
+      "freq": 1
+    },
+    {
+      "word": "gear",
+      "freq": 1
+    },
+    {
+      "word": "apparatus",
+      "freq": 1
+    },
+    {
+      "word": "assigned",
+      "freq": 1
+    },
+    {
+      "word": "teaching",
+      "freq": 1
+    },
+    {
+      "word": "instruction",
+      "freq": 1
+    },
+    {
+      "word": "jumping",
+      "freq": 1
+    },
+    {
+      "word": "bouncing",
+      "freq": 1
+    },
+    {
+      "word": "evaluation",
+      "freq": 1
+    },
+    {
+      "word": "rule",
+      "freq": 1
+    },
+    {
+      "word": "regulation",
+      "freq": 1
+    },
+    {
+      "word": "evade",
+      "freq": 1
+    },
+    {
+      "word": "injury",
+      "freq": 1
+    },
+    {
+      "word": "wound",
+      "freq": 1
+    },
+    {
+      "word": "besides",
+      "freq": 1
+    },
+    {
+      "word": "entitle",
+      "freq": 1
+    },
+    {
+      "word": "authorize",
+      "freq": 1
+    },
+    {
+      "word": "duties",
+      "freq": 1
+    },
+    {
+      "word": "rush",
+      "freq": 1
+    },
+    {
+      "word": "mutual",
+      "freq": 1
+    },
+    {
+      "word": "robe",
+      "freq": 1
+    },
+    {
+      "word": "gown",
+      "freq": 1
+    },
+    {
+      "word": "cloak",
+      "freq": 1
+    },
+    {
+      "word": "hairdryer",
+      "freq": 1
+    },
+    {
+      "word": "blow",
+      "freq": 1
+    },
+    {
+      "word": "dryer",
+      "freq": 1
+    },
+    {
+      "word": "locker",
+      "freq": 1
+    },
+    {
+      "word": "dressing",
+      "freq": 1
+    },
+    {
+      "word": "specific",
+      "freq": 1
+    },
+    {
+      "word": "guideline",
+      "freq": 1
+    },
+    {
+      "word": "repeats",
+      "freq": 1
+    },
+    {
+      "word": "sequence",
+      "freq": 1
+    },
+    {
+      "word": "eliminate",
+      "freq": 1
+    },
+    {
+      "word": "rejected",
+      "freq": 1
+    },
+    {
+      "word": "corrected",
+      "freq": 1
+    },
+    {
+      "word": "accurate",
+      "freq": 1
+    },
+    {
+      "word": "sense",
+      "freq": 1
+    },
+    {
+      "word": "instructed",
+      "freq": 1
+    },
+    {
+      "word": "attention",
+      "freq": 1
+    },
+    {
+      "word": "grammar",
+      "freq": 1
+    },
+    {
+      "word": "logically",
+      "freq": 1
+    },
+    {
+      "word": "alert",
+      "freq": 1
+    },
+    {
+      "word": "distractors",
+      "freq": 1
+    },
+    {
+      "word": "confuse",
+      "freq": 1
+    },
+    {
+      "word": "limits",
+      "freq": 1
+    },
+    {
+      "word": "mark",
+      "freq": 1
+    },
+    {
+      "word": "tracks",
+      "freq": 1
+    },
+    {
+      "word": "indoor",
+      "freq": 1
+    },
+    {
+      "word": "compulsory",
+      "freq": 1
+    },
+    {
+      "word": "priority",
+      "freq": 1
+    },
+    {
+      "word": "sandy",
+      "freq": 1
+    },
+    {
+      "word": "fisher",
+      "freq": 1
+    },
+    {
+      "word": "managers",
+      "freq": 1
+    },
+    {
+      "word": "olympic",
+      "freq": 1
+    },
+    {
+      "word": "sized",
+      "freq": 1
+    },
+    {
+      "word": "wider",
+      "freq": 1
+    },
+    {
+      "word": "roof",
+      "freq": 1
+    },
+    {
+      "word": "warmer",
+      "freq": 1
+    },
+    {
+      "word": "running",
+      "freq": 1
+    },
+    {
+      "word": "adult",
+      "freq": 1
+    },
+    {
+      "word": "atered",
+      "freq": 1
+    },
+    {
+      "word": "yoga",
+      "freq": 1
+    },
+    {
+      "word": "session",
+      "freq": 1
+    },
+    {
+      "word": "simply",
+      "freq": 1
+    },
+    {
+      "word": "lifting",
+      "freq": 1
+    },
+    {
+      "word": "weights",
+      "freq": 1
+    },
+    {
+      "word": "outlining",
+      "freq": 1
+    },
+    {
+      "word": "try",
+      "freq": 1
+    },
+    {
+      "word": "reviewed",
+      "freq": 1
+    },
+    {
+      "word": "fees",
+      "freq": 1
+    },
+    {
+      "word": "entitles",
+      "freq": 1
+    },
+    {
+      "word": "towns",
+      "freq": 1
+    },
+    {
+      "word": "joint",
+      "freq": 1
+    },
+    {
+      "word": "partner",
+      "freq": 1
+    },
+    {
+      "word": "professional",
+      "freq": 1
+    },
+    {
+      "word": "preferences",
+      "freq": 1
+    },
+    {
+      "word": "sessions",
+      "freq": 1
+    },
+    {
+      "word": "individuals",
+      "freq": 1
+    },
+    {
+      "word": "passes",
+      "freq": 1
+    },
+    {
+      "word": "robes",
+      "freq": 1
+    },
+    {
+      "word": "hairdryers",
+      "freq": 1
+    },
+    {
+      "word": "strategies",
+      "freq": 1
+    },
+    {
+      "word": "fasle",
+      "freq": 1
+    },
+    {
+      "word": "stated",
+      "freq": 1
+    },
+    {
+      "word": "highlight",
+      "freq": 1
+    },
+    {
+      "word": "factual",
+      "freq": 1
+    },
+    {
+      "word": "highlighted",
+      "freq": 1
+    },
+    {
+      "word": "questio",
+      "freq": 1
+    },
+    {
+      "word": "candidates",
+      "freq": 1
+    },
+    {
+      "word": "phrases",
+      "freq": 1
+    },
+    {
+      "word": "underlining",
+      "freq": 1
+    },
+    {
+      "word": "forms",
+      "freq": 1
+    },
+    {
+      "word": "selecting",
+      "freq": 1
+    },
+    {
+      "word": "charts",
+      "freq": 1
+    },
+    {
+      "word": "diagrams",
+      "freq": 1
+    },
+    {
+      "word": "column",
+      "freq": 1
+    },
+    {
+      "word": "top",
+      "freq": 1
+    },
+    {
+      "word": "row",
+      "freq": 1
+    },
+    {
+      "word": "follows",
+      "freq": 1
+    },
+    {
+      "word": "require",
+      "freq": 1
+    },
+    {
+      "word": "tense",
+      "freq": 1
+    },
+    {
+      "word": "singular",
+      "freq": 1
+    },
+    {
+      "word": "plural",
+      "freq": 1
+    },
+    {
+      "word": "transferred",
+      "freq": 1
+    },
+    {
+      "word": "wel",
+      "freq": 1
+    },
+    {
+      "word": "kia",
+      "freq": 1
+    },
+    {
+      "word": "huy",
+      "freq": 1
+    },
+    {
+      "word": "ment",
+      "freq": 1
+    },
+    {
+      "word": "pleks",
+      "freq": 1
+    },
+    {
+      "word": "gather",
+      "freq": 1
+    },
+    {
+      "word": "villager",
+      "freq": 1
+    },
+    {
+      "word": "caste",
+      "freq": 1
+    },
+    {
+      "word": "hindu",
+      "freq": 1
+    },
+    {
+      "word": "recede",
+      "freq": 1
+    },
+    {
+      "word": "negotiate",
+      "freq": 1
+    },
+    {
+      "word": "crater",
+      "freq": 1
+    },
+    {
+      "word": "tier",
+      "freq": 1
+    },
+    {
+      "word": "phu",
+      "freq": 1
+    },
+    {
+      "word": "pillar",
+      "freq": 1
+    },
+    {
+      "word": "pavilion",
+      "freq": 1
+    },
+    {
+      "word": "churn",
+      "freq": 1
+    },
+    {
+      "word": "hoang",
+      "freq": 1
+    },
+    {
+      "word": "divert",
+      "freq": 1
+    },
+    {
+      "word": "spel",
+      "freq": 1
+    },
+    {
+      "word": "undergo",
+      "freq": 1
+    },
+    {
+      "word": "carve",
+      "freq": 1
+    },
+    {
+      "word": "niche",
+      "freq": 1
+    },
+    {
+      "word": "depict",
+      "freq": 1
+    },
+    {
+      "word": "incarnation",
+      "freq": 1
+    },
+    {
+      "word": "kwe",
+      "freq": 1
+    },
+    {
+      "word": "vinh",
+      "freq": 1
+    },
+    {
+      "word": "hallmark",
+      "freq": 1
+    },
+    {
+      "word": "terrace",
+      "freq": 1
+    },
+    {
+      "word": "shrine",
+      "freq": 1
+    },
+    {
+      "word": "phong",
+      "freq": 1
+    },
+    {
+      "word": "veranda",
+      "freq": 1
+    },
+    {
+      "word": "lang",
+      "freq": 1
+    },
+    {
+      "word": "marvel",
+      "freq": 1
+    },
+    {
+      "word": "stri",
+      "freq": 1
+    },
+    {
+      "word": "alter",
+      "freq": 1
+    },
+    {
+      "word": "driest",
+      "freq": 1
+    },
+    {
+      "word": "cox",
+      "freq": 1
+    },
+    {
+      "word": "mon",
+      "freq": 1
+    },
+    {
+      "word": "uments",
+      "freq": 1
+    },
+    {
+      "word": "bygone",
+      "freq": 1
+    },
+    {
+      "word": "sixth",
+      "freq": 1
+    },
+    {
+      "word": "seventh",
+      "freq": 1
+    },
+    {
+      "word": "inhabitants",
+      "freq": 1
+    },
+    {
+      "word": "gaining",
+      "freq": 1
+    },
+    {
+      "word": "clean",
+      "freq": 1
+    },
+    {
+      "word": "fresh",
+      "freq": 1
+    },
+    {
+      "word": "season",
+      "freq": 1
+    },
+    {
+      "word": "bathing",
+      "freq": 1
+    },
+    {
+      "word": "watering",
+      "freq": 1
+    },
+    {
+      "word": "irrigation",
+      "freq": 1
+    },
+    {
+      "word": "beyond",
+      "freq": 1
+    },
+    {
+      "word": "utilitarian",
+      "freq": 1
+    },
+    {
+      "word": "vary",
+      "freq": 1
+    },
+    {
+      "word": "widely",
+      "freq": 1
+    },
+    {
+      "word": "gathering",
+      "freq": 1
+    },
+    {
+      "word": "relaxation",
+      "freq": 1
+    },
+    {
+      "word": "villagers",
+      "freq": 1
+    },
+    {
+      "word": "lowest",
+      "freq": 1
+    },
+    {
+      "word": "castes",
+      "freq": 1
+    },
+    {
+      "word": "villages",
+      "freq": 1
+    },
+    {
+      "word": "spaces",
+      "freq": 1
+    },
+    {
+      "word": "community",
+      "freq": 1
+    },
+    {
+      "word": "positioned",
+      "freq": 1
+    },
+    {
+      "word": "beside",
+      "freq": 1
+    },
+    {
+      "word": "resting",
+      "freq": 1
+    },
+    {
+      "word": "travellers",
+      "freq": 1
+    },
+    {
+      "word": "suggests",
+      "freq": 1
+    },
+    {
+      "word": "descending",
+      "freq": 1
+    },
+    {
+      "word": "underground",
+      "freq": 1
+    },
+    {
+      "word": "recedes",
+      "freq": 1
+    },
+    {
+      "word": "rains",
+      "freq": 1
+    },
+    {
+      "word": "user",
+      "freq": 1
+    },
+    {
+      "word": "eps",
+      "freq": 1
+    },
+    {
+      "word": "negotiated",
+      "freq": 1
+    },
+    {
+      "word": "vast",
+      "freq": 1
+    },
+    {
+      "word": "craters",
+      "freq": 1
+    },
+    {
+      "word": "tiers",
+      "freq": 1
+    },
+    {
+      "word": "stepped",
+      "freq": 1
+    },
+    {
+      "word": "via",
+      "freq": 1
+    },
+    {
+      "word": "pavilions",
+      "freq": 1
+    },
+    {
+      "word": "sheltered",
+      "freq": 1
+    },
+    {
+      "word": "fighting",
+      "freq": 1
+    },
+    {
+      "word": "dancing",
+      "freq": 1
+    },
+    {
+      "word": "acts",
+      "freq": 1
+    },
+    {
+      "word": "women",
+      "freq": 1
+    },
+    {
+      "word": "combing",
+      "freq": 1
+    },
+    {
+      "word": "churning",
+      "freq": 1
+    },
+    {
+      "word": "butter",
+      "freq": 1
+    },
+    {
+      "word": "majority",
+      "freq": 1
+    },
+    {
+      "word": "fallen",
+      "freq": 1
+    },
+    {
+      "word": "diverted",
+      "freq": 1
+    },
+    {
+      "word": "tabl",
+      "freq": 1
+    },
+    {
+      "word": "spells",
+      "freq": 1
+    },
+    {
+      "word": "suffered",
+      "freq": 1
+    },
+    {
+      "word": "eight",
+      "freq": 1
+    },
+    {
+      "word": "undergone",
+      "freq": 1
+    },
+    {
+      "word": "announced",
+      "freq": 1
+    },
+    {
+      "word": "patan",
+      "freq": 1
+    },
+    {
+      "word": "finest",
+      "freq": 1
+    },
+    {
+      "word": "udayamati",
+      "freq": 1
+    },
+    {
+      "word": "silted",
+      "freq": 1
+    },
+    {
+      "word": "restoring",
+      "freq": 1
+    },
+    {
+      "word": "niches",
+      "freq": 1
+    },
+    {
+      "word": "depictin",
+      "freq": 1
+    },
+    {
+      "word": "gods",
+      "freq": 1
+    },
+    {
+      "word": "vishnu",
+      "freq": 1
+    },
+    {
+      "word": "parvati",
+      "freq": 1
+    },
+    {
+      "word": "incarnations",
+      "freq": 1
+    },
+    {
+      "word": "incredibly",
+      "freq": 1
+    },
+    {
+      "word": "january",
+      "freq": 1
+    },
+    {
+      "word": "survived",
+      "freq": 1
+    },
+    {
+      "word": "measured",
+      "freq": 1
+    },
+    {
+      "word": "richter",
+      "freq": 1
+    },
+    {
+      "word": "scale",
+      "freq": 1
+    },
+    {
+      "word": "modhera",
+      "freq": 1
+    },
+    {
+      "word": "northern",
+      "freq": 1
+    },
+    {
+      "word": "bhima",
+      "freq": 1
+    },
+    {
+      "word": "god",
+      "freq": 1
+    },
+    {
+      "word": "pond",
+      "freq": 1
+    },
+    {
+      "word": "displays",
+      "freq": 1
+    },
+    {
+      "word": "hallmarks",
+      "freq": 1
+    },
+    {
+      "word": "terraces",
+      "freq": 1
+    },
+    {
+      "word": "abhaneri",
+      "freq": 1
+    },
+    {
+      "word": "oldest",
+      "freq": 1
+    },
+    {
+      "word": "harshat",
+      "freq": 1
+    },
+    {
+      "word": "mata",
+      "freq": 1
+    },
+    {
+      "word": "comprises",
+      "freq": 1
+    },
+    {
+      "word": "zigzagging",
+      "freq": 1
+    },
+    {
+      "word": "steeply",
+      "freq": 1
+    },
+    {
+      "word": "descendi",
+      "freq": 1
+    },
+    {
+      "word": "resulting",
+      "freq": 1
+    },
+    {
+      "word": "striking",
+      "freq": 1
+    },
+    {
+      "word": "afar",
+      "freq": 1
+    },
+    {
+      "word": "fourth",
+      "freq": 1
+    },
+    {
+      "word": "verandas",
+      "freq": 1
+    },
+    {
+      "word": "dehli",
+      "freq": 1
+    },
+    {
+      "word": "highway",
+      "freq": 1
+    },
+    {
+      "word": "underwater",
+      "freq": 1
+    },
+    {
+      "word": "openings",
+      "freq": 1
+    },
+    {
+      "word": "descends",
+      "freq": 1
+    },
+    {
+      "word": "neglect",
+      "freq": 1
+    },
+    {
+      "word": "monuments",
+      "freq": 1
+    },
+    {
+      "word": "engineering",
+      "freq": 1
+    },
+    {
+      "word": "saved",
+      "freq": 1
+    },
+    {
+      "word": "recognised",
+      "freq": 1
+    },
+    {
+      "word": "preserving",
+      "freq": 1
+    },
+    {
+      "word": "rich",
+      "freq": 1
+    },
+    {
+      "word": "tourists",
+      "freq": 1
+    },
+    {
+      "word": "corners",
+      "freq": 1
+    },
+    {
+      "word": "marvels",
+      "freq": 1
+    },
+    {
+      "word": "reminder",
+      "freq": 1
+    },
+    {
+      "word": "civilisations",
+      "freq": 1
+    },
+    {
+      "word": "bestselling",
+      "freq": 1
+    },
+    {
+      "word": "functions",
+      "freq": 1
+    },
+    {
+      "word": "collection",
+      "freq": 1
+    },
+    {
+      "word": "attractive",
+      "freq": 1
+    },
+    {
+      "word": "elsewhere",
+      "freq": 1
+    },
+    {
+      "word": "characteristic",
+      "freq": 1
+    },
+    {
+      "word": "altered",
+      "freq": 1
+    },
+    {
+      "word": "shade",
+      "freq": 1
+    },
+    {
+      "word": "climatic",
+      "freq": 1
+    },
+    {
+      "word": "article",
+      "freq": 1
+    },
+    {
+      "word": "despite",
+      "freq": 1
+    },
+    {
+      "word": "spare",
+      "freq": 1
+    },
+    {
+      "word": "tha",
+      "freq": 1
+    },
+    {
+      "word": "authority",
+      "freq": 1
+    },
+    {
+      "word": "hairdresser",
+      "freq": 1
+    },
+    {
+      "word": "barber",
+      "freq": 1
+    },
+    {
+      "word": "stylist",
+      "freq": 1
+    },
+    {
+      "word": "arrangement",
+      "freq": 1
+    },
+    {
+      "word": "preparation",
+      "freq": 1
+    },
+    {
+      "word": "lighting",
+      "freq": 1
+    },
+    {
+      "word": "illumination",
+      "freq": 1
+    },
+    {
+      "word": "light",
+      "freq": 1
+    },
+    {
+      "word": "pity",
+      "freq": 1
+    },
+    {
+      "word": "embarrassment",
+      "freq": 1
+    },
+    {
+      "word": "footpath",
+      "freq": 1
+    },
+    {
+      "word": "walkway",
+      "freq": 1
+    },
+    {
+      "word": "pavement",
+      "freq": 1
+    },
+    {
+      "word": "boss",
+      "freq": 1
+    },
+    {
+      "word": "motivate",
+      "freq": 1
+    },
+    {
+      "word": "inspire",
+      "freq": 1
+    },
+    {
+      "word": "wet",
+      "freq": 1
+    },
+    {
+      "word": "damp",
+      "freq": 1
+    },
+    {
+      "word": "rising",
+      "freq": 1
+    },
+    {
+      "word": "upward",
+      "freq": 1
+    },
+    {
+      "word": "bicycles",
+      "freq": 1
+    },
+    {
+      "word": "excuse",
+      "freq": 1
+    },
+    {
+      "word": "student",
+      "freq": 1
+    },
+    {
+      "word": "employers",
+      "freq": 1
+    },
+    {
+      "word": "yep",
+      "freq": 1
+    },
+    {
+      "word": "bikes",
+      "freq": 1
+    },
+    {
+      "word": "arrive",
+      "freq": 1
+    },
+    {
+      "word": "offering",
+      "freq": 1
+    },
+    {
+      "word": "feel",
+      "freq": 1
+    },
+    {
+      "word": "helpful",
+      "freq": 1
+    },
+    {
+      "word": "initiative",
+      "freq": 1
+    },
+    {
+      "word": "agency",
+      "freq": 1
+    },
+    {
+      "word": "spectators",
+      "freq": 1
+    },
+    {
+      "word": "viewers",
+      "freq": 1
+    },
+    {
+      "word": "judge",
+      "freq": 1
+    },
+    {
+      "word": "assess",
+      "freq": 1
+    },
+    {
+      "word": "obtain",
+      "freq": 1
+    },
+    {
+      "word": "talent",
+      "freq": 1
+    },
+    {
+      "word": "globally",
+      "freq": 1
+    },
+    {
+      "word": "worldwide",
+      "freq": 1
+    },
+    {
+      "word": "planner",
+      "freq": 1
+    },
+    {
+      "word": "enable",
+      "freq": 1
+    },
+    {
+      "word": "saltwater",
+      "freq": 1
+    },
+    {
+      "word": "pres",
+      "freq": 1
+    },
+    {
+      "word": "media",
+      "freq": 1
+    },
+    {
+      "word": "khe",
+      "freq": 1
+    },
+    {
+      "word": "strict",
+      "freq": 1
+    },
+    {
+      "word": "thorough",
+      "freq": 1
+    },
+    {
+      "word": "capacity",
+      "freq": 1
+    },
+    {
+      "word": "financial",
+      "freq": 1
+    },
+    {
+      "word": "funding",
+      "freq": 1
+    },
+    {
+      "word": "engage",
+      "freq": 1
+    },
+    {
+      "word": "carving",
+      "freq": 1
+    },
+    {
+      "word": "gate",
+      "freq": 1
+    },
+    {
+      "word": "inform",
+      "freq": 1
+    },
+    {
+      "word": "distinctive",
+      "freq": 1
+    },
+    {
+      "word": "symbolize",
+      "freq": 1
+    },
+    {
+      "word": "stand",
+      "freq": 1
+    },
+    {
+      "word": "fauna",
+      "freq": 1
+    },
+    {
+      "word": "block",
+      "freq": 1
+    },
+    {
+      "word": "leo",
+      "freq": 1
+    },
+    {
+      "word": "chute",
+      "freq": 1
+    },
+    {
+      "word": "glacier",
+      "freq": 1
+    },
+    {
+      "word": "replicate",
+      "freq": 1
+    },
+    {
+      "word": "sao",
+      "freq": 1
+    },
+    {
+      "word": "copy",
+      "freq": 1
+    },
+    {
+      "word": "reproduce",
+      "freq": 1
+    },
+    {
+      "word": "fashioned",
+      "freq": 1
+    },
+    {
+      "word": "fortification",
+      "freq": 1
+    },
+    {
+      "word": "stronghold",
+      "freq": 1
+    },
+    {
+      "word": "tile",
+      "freq": 1
+    },
+    {
+      "word": "trail",
+      "freq": 1
+    },
+    {
+      "word": "landmass",
+      "freq": 1
+    },
+    {
+      "word": "facility",
+      "freq": 1
+    },
+    {
+      "word": "heating",
+      "freq": 1
+    },
+    {
+      "word": "raised",
+      "freq": 1
+    },
+    {
+      "word": "worries",
+      "freq": 1
+    },
+    {
+      "word": "feature",
+      "freq": 1
+    },
+    {
+      "word": "antarctica",
+      "freq": 1
+    },
+    {
+      "word": "forts",
+      "freq": 1
+    },
+    {
+      "word": "waterways",
+      "freq": 1
+    },
+    {
+      "word": "snow",
+      "freq": 1
+    },
+    {
+      "word": "jewels",
+      "freq": 1
+    },
+    {
+      "word": "mountains",
+      "freq": 1
+    },
+    {
+      "word": "exciting",
+      "freq": 1
+    },
+    {
+      "word": "adventure",
+      "freq": 1
+    },
+    {
+      "word": "hese",
+      "freq": 1
+    },
+    {
+      "word": "conducted",
+      "freq": 1
+    },
+    {
+      "word": "judged",
+      "freq": 1
+    },
+    {
+      "word": "unsafe",
+      "freq": 1
+    },
+    {
+      "word": "talents",
+      "freq": 1
+    },
+    {
+      "word": "ellen",
+      "freq": 1
+    },
+    {
+      "word": "wendon",
+      "freq": 1
+    },
+    {
+      "word": "managed",
+      "freq": 1
+    },
+    {
+      "word": "combine",
+      "freq": 1
+    },
+    {
+      "word": "charming",
+      "freq": 1
+    },
+    {
+      "word": "enables",
+      "freq": 1
+    },
+    {
+      "word": "attract",
+      "freq": 1
+    },
+    {
+      "word": "checks",
+      "freq": 1
+    },
+    {
+      "word": "wondering",
+      "freq": 1
+    },
+    {
+      "word": "testimony",
+      "freq": 1
+    },
+    {
+      "word": "contractors",
+      "freq": 1
+    },
+    {
+      "word": "hickman",
+      "freq": 1
+    },
+    {
+      "word": "engaged",
+      "freq": 1
+    },
+    {
+      "word": "winning",
+      "freq": 1
+    },
+    {
+      "word": "actress",
+      "freq": 1
+    },
+    {
+      "word": "coral",
+      "freq": 1
+    },
+    {
+      "word": "nce",
+      "freq": 1
+    },
+    {
+      "word": "douglas",
+      "freq": 1
+    },
+    {
+      "word": "rides",
+      "freq": 1
+    },
+    {
+      "word": "snakes",
+      "freq": 1
+    },
+    {
+      "word": "orang",
+      "freq": 1
+    },
+    {
+      "word": "utans",
+      "freq": 1
+    },
+    {
+      "word": "tigers",
+      "freq": 1
+    },
+    {
+      "word": "antarctic",
+      "freq": 1
+    },
+    {
+      "word": "blocks",
+      "freq": 1
+    },
+    {
+      "word": "glaciers",
+      "freq": 1
+    },
+    {
+      "word": "literal",
+      "freq": 1
+    },
+    {
+      "word": "dorado",
+      "freq": 1
+    },
+    {
+      "word": "replicating",
+      "freq": 1
+    },
+    {
+      "word": "considerable",
+      "freq": 1
+    },
+    {
+      "word": "cinema",
+      "freq": 1
+    },
+    {
+      "word": "jazz",
+      "freq": 1
+    },
+    {
+      "word": "rockets",
+      "freq": 1
+    },
+    {
+      "word": "eastwards",
+      "freq": 1
+    },
+    {
+      "word": "castles",
+      "freq": 1
+    },
+    {
+      "word": "varied",
+      "freq": 1
+    },
+    {
+      "word": "july",
+      "freq": 1
+    },
+    {
+      "word": "magnificent",
+      "freq": 1
+    },
+    {
+      "word": "decade",
+      "freq": 1
+    },
+    {
+      "word": "wrestle",
+      "freq": 1
+    },
+    {
+      "word": "duy",
+      "freq": 1
+    },
+    {
+      "word": "stra",
+      "freq": 1
+    },
+    {
+      "word": "dra",
+      "freq": 1
+    },
+    {
+      "word": "sung",
+      "freq": 1
+    },
+    {
+      "word": "mong",
+      "freq": 1
+    },
+    {
+      "word": "industrialize",
+      "freq": 1
+    },
+    {
+      "word": "convince",
+      "freq": 1
+    },
+    {
+      "word": "property",
+      "freq": 1
+    },
+    {
+      "word": "hop",
+      "freq": 1
+    },
+    {
+      "word": "bia",
+      "freq": 1
+    },
+    {
+      "word": "quarter",
+      "freq": 1
+    },
+    {
+      "word": "succumb",
+      "freq": 1
+    },
+    {
+      "word": "mang",
+      "freq": 1
+    },
+    {
+      "word": "truy",
+      "freq": 1
+    },
+    {
+      "word": "alight",
+      "freq": 1
+    },
+    {
+      "word": "vong",
+      "freq": 1
+    },
+    {
+      "word": "halve",
+      "freq": 1
+    },
+    {
+      "word": "wipe",
+      "freq": 1
+    },
+    {
+      "word": "malaria",
+      "freq": 1
+    },
+    {
+      "word": "lan",
+      "freq": 1
+    },
+    {
+      "word": "statistic",
+      "freq": 1
+    },
+    {
+      "word": "idiom",
+      "freq": 1
+    },
+    {
+      "word": "reveal",
+      "freq": 1
+    },
+    {
+      "word": "regulate",
+      "freq": 1
+    },
+    {
+      "word": "nha",
+      "freq": 1
+    },
+    {
+      "word": "phi",
+      "freq": 1
+    },
+    {
+      "word": "brest",
+      "freq": 1
+    },
+    {
+      "word": "dip",
+      "freq": 1
+    },
+    {
+      "word": "abandon",
+      "freq": 1
+    },
+    {
+      "word": "latinh",
+      "freq": 1
+    },
+    {
+      "word": "chung",
+      "freq": 1
+    },
+    {
+      "word": "anjana",
+      "freq": 1
+    },
+    {
+      "word": "abuja",
+      "freq": 1
+    },
+    {
+      "word": "reports",
+      "freq": 1
+    },
+    {
+      "word": "alan",
+      "freq": 1
+    },
+    {
+      "word": "college",
+      "freq": 1
+    },
+    {
+      "word": "wrestling",
+      "freq": 1
+    },
+    {
+      "word": "bang",
+      "freq": 1
+    },
+    {
+      "word": "compares",
+      "freq": 1
+    },
+    {
+      "word": "puzzle",
+      "freq": 1
+    },
+    {
+      "word": "factori",
+      "freq": 1
+    },
+    {
+      "word": "cheap",
+      "freq": 1
+    },
+    {
+      "word": "objects",
+      "freq": 1
+    },
+    {
+      "word": "political",
+      "freq": 1
+    },
+    {
+      "word": "allows",
+      "freq": 1
+    },
+    {
+      "word": "netherlands",
+      "freq": 1
+    },
+    {
+      "word": "industrialising",
+      "freq": 1
+    },
+    {
+      "word": "convinced",
+      "freq": 1
+    },
+    {
+      "word": "proposes",
+      "freq": 1
+    },
+    {
+      "word": "favourite",
+      "freq": 1
+    },
+    {
+      "word": "fuelled",
+      "freq": 1
+    },
+    {
+      "word": "active",
+      "freq": 1
+    },
+    {
+      "word": "plus",
+      "freq": 1
+    },
+    {
+      "word": "succumbing",
+      "freq": 1
+    },
+    {
+      "word": "wary",
+      "freq": 1
+    },
+    {
+      "word": "notable",
+      "freq": 1
+    },
+    {
+      "word": "distinguished",
+      "freq": 1
+    },
+    {
+      "word": "historian",
+      "freq": 1
+    },
+    {
+      "word": "favourable",
+      "freq": 1
+    },
+    {
+      "word": "appraisal",
+      "freq": 1
+    },
+    {
+      "word": "wondered",
+      "freq": 1
+    },
+    {
+      "word": "alighted",
+      "freq": 1
+    },
+    {
+      "word": "explanation",
+      "freq": 1
+    },
+    {
+      "word": "halved",
+      "freq": 1
+    },
+    {
+      "word": "rural",
+      "freq": 1
+    },
+    {
+      "word": "classes",
+      "freq": 1
+    },
+    {
+      "word": "viruses",
+      "freq": 1
+    },
+    {
+      "word": "unlikely",
+      "freq": 1
+    },
+    {
+      "word": "wiped",
+      "freq": 1
+    },
+    {
+      "word": "malari",
+      "freq": 1
+    },
+    {
+      "word": "gains",
+      "freq": 1
+    },
+    {
+      "word": "height",
+      "freq": 1
+    },
+    {
+      "word": "statistics",
+      "freq": 1
+    },
+    {
+      "word": "worse",
+      "freq": 1
+    },
+    {
+      "word": "deaths",
+      "freq": 1
+    },
+    {
+      "word": "appeared",
+      "freq": 1
+    },
+    {
+      "word": "economically",
+      "freq": 1
+    },
+    {
+      "word": "efficient",
+      "freq": 1
+    },
+    {
+      "word": "digging",
+      "freq": 1
+    },
+    {
+      "word": "records",
+      "freq": 1
+    },
+    {
+      "word": "revealed",
+      "freq": 1
+    },
+    {
+      "word": "deduced",
+      "freq": 1
+    },
+    {
+      "word": "regulating",
+      "freq": 1
+    },
+    {
+      "word": "drank",
+      "freq": 1
+    },
+    {
+      "word": "protected",
+      "freq": 1
+    },
+    {
+      "word": "strong",
+      "freq": 1
+    },
+    {
+      "word": "antibacterial",
+      "freq": 1
+    },
+    {
+      "word": "preserve",
+      "freq": 1
+    },
+    {
+      "word": "int",
+      "freq": 1
+    },
+    {
+      "word": "roduced",
+      "freq": 1
+    },
+    {
+      "word": "gin",
+      "freq": 1
+    },
+    {
+      "word": "suddenly",
+      "freq": 1
+    },
+    {
+      "word": "looser",
+      "freq": 1
+    },
+    {
+      "word": "grip",
+      "freq": 1
+    },
+    {
+      "word": "japanese",
+      "freq": 1
+    },
+    {
+      "word": "cul",
+      "freq": 1
+    },
+    {
+      "word": "ture",
+      "freq": 1
+    },
+    {
+      "word": "noted",
+      "freq": 1
+    },
+    {
+      "word": "coincidence",
+      "freq": 1
+    },
+    {
+      "word": "dipping",
+      "freq": 1
+    },
+    {
+      "word": "guessed",
+      "freq": 1
+    },
+    {
+      "word": "stomach",
+      "freq": 1
+    },
+    {
+      "word": "purifying",
+      "freq": 1
+    },
+    {
+      "word": "mothers",
+      "freq": 1
+    },
+    {
+      "word": "healthier",
+      "freq": 1
+    },
+    {
+      "word": "european",
+      "freq": 1
+    },
+    {
+      "word": "sipped",
+      "freq": 1
+    },
+    {
+      "word": "pushed",
+      "freq": 1
+    },
+    {
+      "word": "contention",
+      "freq": 1
+    },
+    {
+      "word": "forge",
+      "freq": 1
+    },
+    {
+      "word": "soaked",
+      "freq": 1
+    },
+    {
+      "word": "futures",
+      "freq": 1
+    },
+    {
+      "word": "devices",
+      "freq": 1
+    },
+    {
+      "word": "technologically",
+      "freq": 1
+    },
+    {
+      "word": "advanced",
+      "freq": 1
+    },
+    {
+      "word": "entered",
+      "freq": 1
+    },
+    {
+      "word": "centur",
+      "freq": 1
+    },
+    {
+      "word": "abandoned",
+      "freq": 1
+    },
+    {
+      "word": "surgical",
+      "freq": 1
+    },
+    {
+      "word": "operations",
+      "freq": 1
+    },
+    {
+      "word": "infections",
+      "freq": 1
+    },
+    {
+      "word": "fear",
+      "freq": 1
+    },
+    {
+      "word": "unemployment",
+      "freq": 1
+    },
+    {
+      "word": "comparisons",
+      "freq": 1
+    },
+    {
+      "word": "disagrees",
+      "freq": 1
+    },
+    {
+      "word": "findings",
+      "freq": 1
+    },
+    {
+      "word": "indirectly",
+      "freq": 1
+    },
+    {
+      "word": "death",
+      "freq": 1
+    },
+    {
+      "word": "traverse",
+      "freq": 1
+    },
+    {
+      "word": "ngang",
+      "freq": 1
+    },
+    {
+      "word": "motivation",
+      "freq": 1
+    },
+    {
+      "word": "aristocrat",
+      "freq": 1
+    },
+    {
+      "word": "ven",
+      "freq": 1
+    },
+    {
+      "word": "citizen",
+      "freq": 1
+    },
+    {
+      "word": "vai",
+      "freq": 1
+    },
+    {
+      "word": "vent",
+      "freq": 1
+    },
+    {
+      "word": "signal",
+      "freq": 1
+    },
+    {
+      "word": "enterprise",
+      "freq": 1
+    },
+    {
+      "word": "doanh",
+      "freq": 1
+    },
+    {
+      "word": "promote",
+      "freq": 1
+    },
+    {
+      "word": "ending",
+      "freq": 1
+    },
+    {
+      "word": "outrageous",
+      "freq": 1
+    },
+    {
+      "word": "jokes",
+      "freq": 1
+    },
+    {
+      "word": "disputing",
+      "freq": 1
+    },
+    {
+      "word": "traversing",
+      "freq": 1
+    },
+    {
+      "word": "distances",
+      "freq": 1
+    },
+    {
+      "word": "game",
+      "freq": 1
+    },
+    {
+      "word": "survival",
+      "freq": 1
+    },
+    {
+      "word": "pur",
+      "freq": 1
+    },
+    {
+      "word": "poses",
+      "freq": 1
+    },
+    {
+      "word": "motivations",
+      "freq": 1
+    },
+    {
+      "word": "roman",
+      "freq": 1
+    },
+    {
+      "word": "aristocrats",
+      "freq": 1
+    },
+    {
+      "word": "pleasure",
+      "freq": 1
+    },
+    {
+      "word": "resorts",
+      "freq": 1
+    },
+    {
+      "word": "pompeii",
+      "freq": 1
+    },
+    {
+      "word": "herculaneu",
+      "freq": 1
+    },
+    {
+      "word": "afforded",
+      "freq": 1
+    },
+    {
+      "word": "citizens",
+      "freq": 1
+    },
+    {
+      "word": "escape",
+      "freq": 1
+    },
+    {
+      "word": "vacation",
+      "freq": 1
+    },
+    {
+      "word": "villas",
+      "freq": 1
+    },
+    {
+      "word": "rome",
+      "freq": 1
+    },
+    {
+      "word": "continued",
+      "freq": 1
+    },
+    {
+      "word": "recorded",
+      "freq": 1
+    },
+    {
+      "word": "civ",
+      "freq": 1
+    },
+    {
+      "word": "ilisations",
+      "freq": 1
+    },
+    {
+      "word": "distinctly",
+      "freq": 1
+    },
+    {
+      "word": "availability",
+      "freq": 1
+    },
+    {
+      "word": "relati",
+      "freq": 1
+    },
+    {
+      "word": "vely",
+      "freq": 1
+    },
+    {
+      "word": "inexpensive",
+      "freq": 1
+    },
+    {
+      "word": "commercial",
+      "freq": 1
+    },
+    {
+      "word": "airline",
+      "freq": 1
+    },
+    {
+      "word": "signalled",
+      "freq": 1
+    },
+    {
+      "word": "rapid",
+      "freq": 1
+    },
+    {
+      "word": "governments",
+      "freq": 1
+    },
+    {
+      "word": "significantly",
+      "freq": 1
+    },
+    {
+      "word": "segments",
+      "freq": 1
+    },
+    {
+      "word": "argely",
+      "freq": 1
+    },
+    {
+      "word": "unrecognised",
+      "freq": 1
+    },
+    {
+      "word": "pital",
+      "freq": 1
+    },
+    {
+      "word": "trillion",
+      "freq": 1
+    },
+    {
+      "word": "employees",
+      "freq": 1
+    },
+    {
+      "word": "contributor",
+      "freq": 1
+    },
+    {
+      "word": "accounting",
+      "freq": 1
+    },
+    {
+      "word": "billion",
+      "freq": 1
+    },
+    {
+      "word": "indirect",
+      "freq": 1
+    },
+    {
+      "word": "persona",
+      "freq": 1
+    },
+    {
+      "word": "educative",
+      "freq": 1
+    },
+    {
+      "word": "motels",
+      "freq": 1
+    },
+    {
+      "word": "res",
+      "freq": 1
+    },
+    {
+      "word": "taurants",
+      "freq": 1
+    },
+    {
+      "word": "amusements",
+      "freq": 1
+    },
+    {
+      "word": "gift",
+      "freq": 1
+    },
+    {
+      "word": "shops",
+      "freq": 1
+    },
+    {
+      "word": "enterprises",
+      "freq": 1
+    },
+    {
+      "word": "businesses",
+      "freq": 1
+    },
+    {
+      "word": "nding",
+      "freq": 1
+    },
+    {
+      "word": "easily",
+      "freq": 1
+    },
+    {
+      "word": "overlooked",
+      "freq": 1
+    },
+    {
+      "word": "underestimated",
+      "freq": 1
+    },
+    {
+      "word": "meis",
+      "freq": 1
+    },
+    {
+      "word": "involves",
+      "freq": 1
+    },
+    {
+      "word": "concepts",
+      "freq": 1
+    },
+    {
+      "word": "remained",
+      "freq": 1
+    },
+    {
+      "word": "analysts",
+      "freq": 1
+    },
+    {
+      "word": "makers",
+      "freq": 1
+    },
+    {
+      "word": "moreover",
+      "freq": 1
+    },
+    {
+      "word": "credible",
+      "freq": 1
+    },
+    {
+      "word": "base",
+      "freq": 1
+    },
+    {
+      "word": "touris",
+      "freq": 1
+    },
+    {
+      "word": "vehicles",
+      "freq": 1
+    },
+    {
+      "word": "variety",
+      "freq": 1
+    },
+    {
+      "word": "regions",
+      "freq": 1
+    },
+    {
+      "word": "exclusive",
+      "freq": 1
+    },
+    {
+      "word": "province",
+      "freq": 1
+    },
+    {
+      "word": "mcintosh",
+      "freq": 1
+    },
+    {
+      "word": "goeldner",
+      "freq": 1
+    },
+    {
+      "word": "commodity",
+      "freq": 1
+    },
+    {
+      "word": "ranks",
+      "freq": 1
+    },
+    {
+      "word": "income",
+      "freq": 1
+    },
+    {
+      "word": "bermuda",
+      "freq": 1
+    },
+    {
+      "word": "switzerland",
+      "freq": 1
+    },
+    {
+      "word": "caribbean",
+      "freq": 1
+    },
+    {
+      "word": "hawkins",
+      "freq": 1
+    },
+    {
+      "word": "ritchie",
+      "freq": 1
+    },
+    {
+      "word": "quoting",
+      "freq": 1
+    },
+    {
+      "word": "express",
+      "freq": 1
+    },
+    {
+      "word": "ranked",
+      "freq": 1
+    },
+    {
+      "word": "bahamas",
+      "freq": 1
+    },
+    {
+      "word": "brazil",
+      "freq": 1
+    },
+    {
+      "word": "canada",
+      "freq": 1
+    },
+    {
+      "word": "germany",
+      "freq": 1
+    },
+    {
+      "word": "hong",
+      "freq": 1
+    },
+    {
+      "word": "kong",
+      "freq": 1
+    },
+    {
+      "word": "singapore",
+      "freq": 1
+    },
+    {
+      "word": "kingdom",
+      "freq": 1
+    },
+    {
+      "word": "valid",
+      "freq": 1
+    },
+    {
+      "word": "icipation",
+      "freq": 1
+    },
+    {
+      "word": "difficulties",
+      "freq": 1
+    },
+    {
+      "word": "arise",
+      "freq": 1
+    },
+    {
+      "word": "attempts",
+      "freq": 1
+    },
+    {
+      "word": "difficulty",
+      "freq": 1
+    },
+    {
+      "word": "recognising",
+      "freq": 1
+    },
+    {
+      "word": "figures",
+      "freq": 1
+    },
+    {
+      "word": "contributes",
+      "freq": 1
+    },
+    {
+      "word": "australian",
+      "freq": 1
+    },
+    {
+      "word": "promotes",
+      "freq": 1
+    },
+    {
+      "word": "affects",
+      "freq": 1
+    },
+    {
+      "word": "associated",
+      "freq": 1
+    },
+    {
+      "word": "reflected",
+      "freq": 1
+    },
+    {
+      "word": "learning",
+      "freq": 1
+    },
+    {
+      "word": "childcare",
+      "freq": 1
+    },
+    {
+      "word": "spoke",
+      "freq": 1
+    },
+    {
+      "word": "enrolling",
+      "freq": 1
+    },
+    {
+      "word": "kate",
+      "freq": 1
+    },
+    {
+      "word": "turns",
+      "freq": 1
+    },
+    {
+      "word": "excited",
+      "freq": 1
+    },
+    {
+      "word": "birthday",
+      "freq": 1
+    },
+    {
+      "word": "woodside",
+      "freq": 1
+    },
+    {
+      "word": "prefer",
+      "freq": 1
+    },
+    {
+      "word": "erm",
+      "freq": 1
+    },
+    {
+      "word": "dear",
+      "freq": 1
+    },
+    {
+      "word": "finish",
+      "freq": 1
+    },
+    {
+      "word": "night",
+      "freq": 1
+    },
+    {
+      "word": "drop",
+      "freq": 1
+    },
+    {
+      "word": "red",
+      "freq": 1
+    },
+    {
+      "word": "finishing",
+      "freq": 1
+    },
+    {
+      "word": "asthma",
+      "freq": 1
+    },
+    {
+      "word": "hearing",
+      "freq": 1
+    },
+    {
+      "word": "emergency",
+      "freq": 1
+    },
+    {
+      "word": "sister",
+      "freq": 1
+    },
+    {
+      "word": "jenny",
+      "freq": 1
+    },
+    {
+      "word": "ball",
+      "freq": 1
+    },
+    {
+      "word": "discounted",
+      "freq": 1
+    },
+    {
+      "word": "simpler",
+      "freq": 1
+    },
+    {
+      "word": "helps",
+      "freq": 1
+    },
+    {
+      "word": "finance",
+      "freq": 1
+    },
+    {
+      "word": "fishing",
+      "freq": 1
+    },
+    {
+      "word": "practices",
+      "freq": 1
+    },
+    {
+      "word": "employs",
+      "freq": 1
+    },
+    {
+      "word": "experts",
+      "freq": 1
+    },
+    {
+      "word": "ways",
+      "freq": 1
+    },
+    {
+      "word": "attracted",
+      "freq": 1
+    },
+    {
+      "word": "leaks",
+      "freq": 1
+    },
+    {
+      "word": "movement",
+      "freq": 1
+    },
+    {
+      "word": "comments",
+      "freq": 1
+    },
+    {
+      "word": "bussell",
+      "freq": 1
+    },
+    {
+      "word": "purpose",
+      "freq": 1
+    },
+    {
+      "word": "seas",
+      "freq": 1
+    },
+    {
+      "word": "tries",
+      "freq": 1
+    },
+    {
+      "word": "marine",
+      "freq": 1
+    },
+    {
+      "word": "creatures",
+      "freq": 1
+    },
+    {
+      "word": "suffering",
+      "freq": 1
+    },
+    {
+      "word": "threats",
+      "freq": 1
+    },
+    {
+      "word": "charities",
+      "freq": 1
+    },
+    {
+      "word": "fairly",
+      "freq": 1
+    },
+    {
+      "word": "compared",
+      "freq": 1
+    },
+    {
+      "word": "players",
+      "freq": 1
+    },
+    {
+      "word": "protection",
+      "freq": 1
+    },
+    {
+      "word": "proud",
+      "freq": 1
+    },
+    {
+      "word": "schools",
+      "freq": 1
+    },
+    {
+      "word": "aged",
+      "freq": 1
+    },
+    {
+      "word": "eighteen",
+      "freq": 1
+    },
+    {
+      "word": "thirty",
+      "freq": 1
+    },
+    {
+      "word": "uses",
+      "freq": 1
+    },
+    {
+      "word": "forth",
+      "freq": 1
+    },
+    {
+      "word": "hopes",
+      "freq": 1
+    },
+    {
+      "word": "expertise",
+      "freq": 1
+    },
+    {
+      "word": "monitor",
+      "freq": 1
+    },
+    {
+      "word": "voluntary",
+      "freq": 1
+    },
+    {
+      "word": "observation",
+      "freq": 1
+    },
+    {
+      "word": "office",
+      "freq": 1
+    },
+    {
+      "word": "publicised",
+      "freq": 1
+    },
+    {
+      "word": "waters",
+      "freq": 1
+    },
+    {
+      "word": "scotland",
+      "freq": 1
+    },
+    {
+      "word": "shipping",
+      "freq": 1
+    },
+    {
+      "word": "campaigning",
+      "freq": 1
+    },
+    {
+      "word": "creates",
+      "freq": 1
+    },
+    {
+      "word": "socialise",
+      "freq": 1
+    },
+    {
+      "word": "moray",
+      "freq": 1
+    },
+    {
+      "word": "firth",
+      "freq": 1
+    },
+    {
+      "word": "campaigned",
+      "freq": 1
+    },
+    {
+      "word": "save",
+      "freq": 1
+    },
+    {
+      "word": "listeners",
+      "freq": 1
+    },
+    {
+      "word": "adopt",
+      "freq": 1
+    },
+    {
+      "word": "receive",
+      "freq": 1
+    },
+    {
+      "word": "updates",
+      "freq": 1
+    },
+    {
+      "word": "currently",
+      "freq": 1
+    },
+    {
+      "word": "adopted",
+      "freq": 1
+    },
+    {
+      "word": "sighted",
+      "freq": 1
+    },
+    {
+      "word": "observers",
+      "freq": 1
+    },
+    {
+      "word": "remain",
+      "freq": 1
+    },
+    {
+      "word": "optimistic",
+      "freq": 1
+    },
+    {
+      "word": "force",
+      "freq": 1
+    },
+    {
+      "word": "photographed",
+      "freq": 1
+    },
+    {
+      "word": "cameras",
+      "freq": 1
+    },
+    {
+      "word": "captured",
+      "freq": 1
+    },
+    {
+      "word": "elegant",
+      "freq": 1
+    },
+    {
+      "word": "curves",
+      "freq": 1
+    },
+    {
+      "word": "smoothly",
+      "freq": 1
+    },
+    {
+      "word": "whereas",
+      "freq": 1
+    },
+    {
+      "word": "leaping",
+      "freq": 1
+    },
+    {
+      "word": "vigour",
+      "freq": 1
+    },
+    {
+      "word": "youngest",
+      "freq": 1
+    },
+    {
+      "word": "noisy",
+      "freq": 1
+    },
+    {
+      "word": "modal",
+      "freq": 1
+    },
+    {
+      "word": "record",
+      "freq": 1
+    },
+    {
+      "word": "ring",
+      "freq": 1
+    },
+    {
+      "word": "mailbox",
+      "freq": 1
+    },
+    {
+      "word": "doorway",
+      "freq": 1
+    },
+    {
+      "word": "adverb",
+      "freq": 1
+    },
+    {
+      "word": "individually",
+      "freq": 1
+    },
+    {
+      "word": "breakage",
+      "freq": 1
+    },
+    {
+      "word": "defect",
+      "freq": 1
+    },
+    {
+      "word": "crack",
+      "freq": 1
+    },
+    {
+      "word": "split",
+      "freq": 1
+    },
+    {
+      "word": "fracture",
+      "freq": 1
+    },
+    {
+      "word": "substitute",
+      "freq": 1
+    },
+    {
+      "word": "oily",
+      "freq": 1
+    },
+    {
+      "word": "slippery",
+      "freq": 1
+    },
+    {
+      "word": "peel",
+      "freq": 1
+    },
+    {
+      "word": "cement",
+      "freq": 1
+    },
+    {
+      "word": "coat",
+      "freq": 1
+    },
+    {
+      "word": "fence",
+      "freq": 1
+    },
+    {
+      "word": "fens",
+      "freq": 1
+    },
+    {
+      "word": "barrier",
+      "freq": 1
+    },
+    {
+      "word": "enclosure",
+      "freq": 1
+    },
+    {
+      "word": "chu",
+      "freq": 1
+    },
+    {
+      "word": "inspect",
+      "freq": 1
+    },
+    {
+      "word": "builders",
+      "freq": 1
+    },
+    {
+      "word": "behind",
+      "freq": 1
+    },
+    {
+      "word": "opposite",
+      "freq": 1
+    },
+    {
+      "word": "fix",
+      "freq": 1
+    },
+    {
+      "word": "replacing",
+      "freq": 1
+    },
+    {
+      "word": "hampton",
+      "freq": 1
+    },
+    {
+      "word": "lady",
+      "freq": 1
+    },
+    {
+      "word": "surname",
+      "freq": 1
+    },
+    {
+      "word": "afternoons",
+      "freq": 1
+    },
+    {
+      "word": "evenings",
+      "freq": 1
+    },
+    {
+      "word": "itemised",
+      "freq": 1
+    },
+    {
+      "word": "weather",
+      "freq": 1
+    },
+    {
+      "word": "urgent",
+      "freq": 1
+    },
+    {
+      "word": "walls",
+      "freq": 1
+    },
+    {
+      "word": "tend",
+      "freq": 1
+    },
+    {
+      "word": "tells",
+      "freq": 1
+    },
+    {
+      "word": "harbour",
+      "freq": 1
+    },
+    {
+      "word": "dock",
+      "freq": 1
+    },
+    {
+      "word": "pit",
+      "freq": 1
+    },
+    {
+      "word": "outfit",
+      "freq": 1
+    },
+    {
+      "word": "phase",
+      "freq": 1
+    },
+    {
+      "word": "cong",
+      "freq": 1
+    },
+    {
+      "word": "curve",
+      "freq": 1
+    },
+    {
+      "word": "passable",
+      "freq": 1
+    },
+    {
+      "word": "handy",
+      "freq": 1
+    },
+    {
+      "word": "pack",
+      "freq": 1
+    },
+    {
+      "word": "empty",
+      "freq": 1
+    },
+    {
+      "word": "shipment",
+      "freq": 1
+    },
+    {
+      "word": "transformation",
+      "freq": 1
+    },
+    {
+      "word": "tremendous",
+      "freq": 1
+    },
+    {
+      "word": "enormous",
+      "freq": 1
+    },
+    {
+      "word": "prospector",
+      "freq": 1
+    },
+    {
+      "word": "miner",
+      "freq": 1
+    },
+    {
+      "word": "explorer",
+      "freq": 1
+    },
+    {
+      "word": "element",
+      "freq": 1
+    },
+    {
+      "word": "mangan",
+      "freq": 1
+    },
+    {
+      "word": "asen",
+      "freq": 1
+    },
+    {
+      "word": "poison",
+      "freq": 1
+    },
+    {
+      "word": "extract",
+      "freq": 1
+    },
+    {
+      "word": "furnace",
+      "freq": 1
+    },
+    {
+      "word": "luy",
+      "freq": 1
+    },
+    {
+      "word": "kiln",
+      "freq": 1
+    },
+    {
+      "word": "heater",
+      "freq": 1
+    },
+    {
+      "word": "nung",
+      "freq": 1
+    },
+    {
+      "word": "tan",
+      "freq": 1
+    },
+    {
+      "word": "liquefy",
+      "freq": 1
+    },
+    {
+      "word": "decrease",
+      "freq": 1
+    },
+    {
+      "word": "emigrate",
+      "freq": 1
+    },
+    {
+      "word": "abroad",
+      "freq": 1
+    },
+    {
+      "word": "relocate",
+      "freq": 1
+    },
+    {
+      "word": "disrepair",
+      "freq": 1
+    },
+    {
+      "word": "bad",
+      "freq": 1
+    },
+    {
+      "word": "initial",
+      "freq": 1
+    },
+    {
+      "word": "outline",
+      "freq": 1
+    },
+    {
+      "word": "installation",
+      "freq": 1
+    },
+    {
+      "word": "setup",
+      "freq": 1
+    },
+    {
+      "word": "reconstruct",
+      "freq": 1
+    },
+    {
+      "word": "convert",
+      "freq": 1
+    },
+    {
+      "word": "transform",
+      "freq": 1
+    },
+    {
+      "word": "seam",
+      "freq": 1
+    },
+    {
+      "word": "vein",
+      "freq": 1
+    },
+    {
+      "word": "display",
+      "freq": 1
+    },
+    {
+      "word": "dredge",
+      "freq": 1
+    },
+    {
+      "word": "dred",
+      "freq": 1
+    },
+    {
+      "word": "scoop",
+      "freq": 1
+    },
+    {
+      "word": "mud",
+      "freq": 1
+    },
+    {
+      "word": "sediment",
+      "freq": 1
+    },
+    {
+      "word": "fisherman",
+      "freq": 1
+    },
+    {
+      "word": "angler",
+      "freq": 1
+    },
+    {
+      "word": "sailor",
+      "freq": 1
+    },
+    {
+      "word": "ladder",
+      "freq": 1
+    },
+    {
+      "word": "staircase",
+      "freq": 1
+    },
+    {
+      "word": "dek",
+      "freq": 1
+    },
+    {
+      "word": "boong",
+      "freq": 1
+    },
+    {
+      "word": "platform",
+      "freq": 1
+    },
+    {
+      "word": "floor",
+      "freq": 1
+    },
+    {
+      "word": "enemy",
+      "freq": 1
+    },
+    {
+      "word": "attack",
+      "freq": 1
+    },
+    {
+      "word": "coast",
+      "freq": 1
+    },
+    {
+      "word": "mining",
+      "freq": 1
+    },
+    {
+      "word": "discovery",
+      "freq": 1
+    },
+    {
+      "word": "shortage",
+      "freq": 1
+    },
+    {
+      "word": "systems",
+      "freq": 1
+    },
+    {
+      "word": "purposes",
+      "freq": 1
+    },
+    {
+      "word": "discover",
+      "freq": 1
+    },
+    {
+      "word": "unemployed",
+      "freq": 1
+    },
+    {
+      "word": "enclosed",
+      "freq": 1
+    },
+    {
+      "word": "unsuitable",
+      "freq": 1
+    },
+    {
+      "word": "thousand",
+      "freq": 1
+    },
+    {
+      "word": "models",
+      "freq": 1
+    },
+    {
+      "word": "machinery",
+      "freq": 1
+    },
+    {
+      "word": "photo",
+      "freq": 1
+    },
+    {
+      "word": "firs",
+      "freq": 1
+    },
+    {
+      "word": "stages",
+      "freq": 1
+    },
+    {
+      "word": "studied",
+      "freq": 1
+    },
+    {
+      "word": "peaceful",
+      "freq": 1
+    },
+    {
+      "word": "countryside",
+      "freq": 1
+    },
+    {
+      "word": "highest",
+      "freq": 1
+    },
+    {
+      "word": "boats",
+      "freq": 1
+    },
+    {
+      "word": "miles",
+      "freq": 1
+    },
+    {
+      "word": "nearby",
+      "freq": 1
+    },
+    {
+      "word": "inds",
+      "freq": 1
+    },
+    {
+      "word": "ports",
+      "freq": 1
+    },
+    {
+      "word": "prospectors",
+      "freq": 1
+    },
+    {
+      "word": "cargos",
+      "freq": 1
+    },
+    {
+      "word": "ores",
+      "freq": 1
+    },
+    {
+      "word": "smelted",
+      "freq": 1
+    },
+    {
+      "word": "mined",
+      "freq": 1
+    },
+    {
+      "word": "smelting",
+      "freq": 1
+    },
+    {
+      "word": "furnaces",
+      "freq": 1
+    },
+    {
+      "word": "fires",
+      "freq": 1
+    },
+    {
+      "word": "shipped",
+      "freq": 1
+    },
+    {
+      "word": "forced",
+      "freq": 1
+    },
+    {
+      "word": "fell",
+      "freq": 1
+    },
+    {
+      "word": "forgotten",
+      "freq": 1
+    },
+    {
+      "word": "conserve",
+      "freq": 1
+    },
+    {
+      "word": "organised",
+      "freq": 1
+    },
+    {
+      "word": "scores",
+      "freq": 1
+    },
+    {
+      "word": "undergrowth",
+      "freq": 1
+    },
+    {
+      "word": "outlines",
+      "freq": 1
+    },
+    {
+      "word": "broug",
+      "freq": 1
+    },
+    {
+      "word": "professionals",
+      "freq": 1
+    },
+    {
+      "word": "maps",
+      "freq": 1
+    },
+    {
+      "word": "results",
+      "freq": 1
+    },
+    {
+      "word": "reached",
+      "freq": 1
+    },
+    {
+      "word": "highlights",
+      "freq": 1
+    },
+    {
+      "word": "depths",
+      "freq": 1
+    },
+    {
+      "word": "seams",
+      "freq": 1
+    },
+    {
+      "word": "pumping",
+      "freq": 1
+    },
+    {
+      "word": "rid",
+      "freq": 1
+    },
+    {
+      "word": "warned",
+      "freq": 1
+    },
+    {
+      "word": "ours",
+      "freq": 1
+    },
+    {
+      "word": "closed",
+      "freq": 1
+    },
+    {
+      "word": "ketch",
+      "freq": 1
+    },
+    {
+      "word": "cabins",
+      "freq": 1
+    },
+    {
+      "word": "ntil",
+      "freq": 1
+    },
+    {
+      "word": "dredged",
+      "freq": 1
+    },
+    {
+      "word": "polished",
+      "freq": 1
+    },
+    {
+      "word": "proudly",
+      "freq": 1
+    },
+    {
+      "word": "lower",
+      "freq": 1
+    },
+    {
+      "word": "memorable",
+      "freq": 1
+    },
+    {
+      "word": "licence",
+      "freq": 1
+    },
+    {
+      "word": "controls",
+      "freq": 1
+    },
+    {
+      "word": "washed",
+      "freq": 1
+    },
+    {
+      "word": "piled",
+      "freq": 1
+    },
+    {
+      "word": "enquire",
+      "freq": 1
+    },
+    {
+      "word": "charlton",
+      "freq": 1
+    },
+    {
+      "word": "midnight",
+      "freq": 1
+    },
+    {
+      "word": "weekdays",
+      "freq": 1
+    },
+    {
+      "word": "returnable",
+      "freq": 1
+    },
+    {
+      "word": "insist",
+      "freq": 1
+    },
+    {
+      "word": "card",
+      "freq": 1
+    },
+    {
+      "word": "cheque",
+      "freq": 1
+    },
+    {
+      "word": "cookers",
+      "freq": 1
+    },
+    {
+      "word": "fridges",
+      "freq": 1
+    },
+    {
+      "word": "meal",
+      "freq": 1
+    },
+    {
+      "word": "happens",
+      "freq": 1
+    },
+    {
+      "word": "bands",
+      "freq": 1
+    },
+    {
+      "word": "fire",
+      "freq": 1
+    },
+    {
+      "word": "cuts",
+      "freq": 1
+    },
+    {
+      "word": "reaches",
+      "freq": 1
+    },
+    {
+      "word": "requirement",
+      "freq": 1
+    },
+    {
+      "word": "loud",
+      "freq": 1
+    },
+    {
+      "word": "reminds",
+      "freq": 1
+    },
+    {
+      "word": "speeches",
+      "freq": 1
+    },
+    {
+      "word": "premises",
+      "freq": 1
+    },
+    {
+      "word": "locked",
+      "freq": 1
+    },
+    {
+      "word": "informed",
+      "freq": 1
+    },
+    {
+      "word": "brushes",
+      "freq": 1
+    },
+    {
+      "word": "detergent",
+      "freq": 1
+    },
+    {
+      "word": "floors",
+      "freq": 1
+    },
+    {
+      "word": "swept",
+      "freq": 1
+    },
+    {
+      "word": "collected",
+      "freq": 1
+    },
+    {
+      "word": "tidy",
+      "freq": 1
+    },
+    {
+      "word": "forgot",
+      "freq": 1
+    },
+    {
+      "word": "stacked",
+      "freq": 1
+    },
+    {
+      "word": "neatly",
+      "freq": 1
+    },
+    {
+      "word": "heritage",
+      "freq": 1
+    },
+    {
+      "word": "exceptions",
+      "freq": 1
+    },
+    {
+      "word": "scarecrow",
+      "freq": 1
+    },
+    {
+      "word": "maze",
+      "freq": 1
+    },
+    {
+      "word": "barn",
+      "freq": 1
+    },
+    {
+      "word": "picnic",
+      "freq": 1
+    },
+    {
+      "word": "ceramics",
+      "freq": 1
+    },
+    {
+      "word": "teams",
+      "freq": 1
+    },
+    {
+      "word": "competitions",
+      "freq": 1
+    },
+    {
+      "word": "rare",
+      "freq": 1
+    },
+    {
+      "word": "collect",
+      "freq": 1
+    },
+    {
+      "word": "poster",
+      "freq": 1
+    },
+    {
+      "word": "holding",
+      "freq": 1
+    },
+    {
+      "word": "opens",
+      "freq": 1
+    },
+    {
+      "word": "runs",
+      "freq": 1
+    },
+    {
+      "word": "stays",
+      "freq": 1
+    },
+    {
+      "word": "demonstrates",
+      "freq": 1
+    },
+    {
+      "word": "pop",
+      "freq": 1
+    },
+    {
+      "word": "fun",
+      "freq": 1
+    },
+    {
+      "word": "repeated",
+      "freq": 1
+    },
+    {
+      "word": "standard",
+      "freq": 1
+    },
+    {
+      "word": "championship",
+      "freq": 1
+    },
+    {
+      "word": "birds",
+      "freq": 1
+    },
+    {
+      "word": "binoculars",
+      "freq": 1
+    },
+    {
+      "word": "moment",
+      "freq": 1
+    },
+    {
+      "word": "flowers",
+      "freq": 1
+    },
+    {
+      "word": "soil",
+      "freq": 1
+    },
+    {
+      "word": "varieties",
+      "freq": 1
+    },
+    {
+      "word": "uhuh",
+      "freq": 1
+    },
+    {
+      "word": "shallow",
+      "freq": 1
+    },
+    {
+      "word": "lifeguard",
+      "freq": 1
+    },
+    {
+      "word": "takes",
+      "freq": 1
+    },
+    {
+      "word": "takers",
+      "freq": 1
+    },
+    {
+      "word": "choosing",
+      "freq": 1
+    },
+    {
+      "word": "grasp",
+      "freq": 1
+    },
+    {
+      "word": "overall",
+      "freq": 1
+    },
+    {
+      "word": "consistent",
+      "freq": 1
+    },
+    {
+      "word": "therefore",
+      "freq": 1
+    },
+    {
+      "word": "requirements",
+      "freq": 1
+    },
+    {
+      "word": "biomedical",
+      "freq": 1
+    },
+    {
+      "word": "untangle",
+      "freq": 1
+    },
+    {
+      "word": "fertilized",
+      "freq": 1
+    },
+    {
+      "word": "egg",
+      "freq": 1
+    },
+    {
+      "word": "splits",
+      "freq": 1
+    },
+    {
+      "word": "alternatively",
+      "freq": 1
+    },
+    {
+      "word": "average",
+      "freq": 1
+    },
+    {
+      "word": "quantify",
+      "freq": 1
+    },
+    {
+      "word": "ailment",
+      "freq": 1
+    },
+    {
+      "word": "rooted",
+      "freq": 1
+    },
+    {
+      "word": "lines",
+      "freq": 1
+    },
+    {
+      "word": "studying",
+      "freq": 1
+    },
+    {
+      "word": "pinpoint",
+      "freq": 1
+    },
+    {
+      "word": "ones",
+      "freq": 1
+    },
+    {
+      "word": "inheritance",
+      "freq": 1
+    },
+    {
+      "word": "crucial",
+      "freq": 1
+    },
+    {
+      "word": "interplay",
+      "freq": 1
+    },
+    {
+      "word": "determining",
+      "freq": 1
+    },
+    {
+      "word": "scientist",
+      "freq": 1
+    },
+    {
+      "word": "coined",
+      "freq": 1
+    },
+    {
+      "word": "surprising",
+      "freq": 1
+    },
+    {
+      "word": "twist",
+      "freq": 1
+    },
+    {
+      "word": "reunited",
+      "freq": 1
+    },
+    {
+      "word": "lab",
+      "freq": 1
+    },
+    {
+      "word": "minnesota",
+      "freq": 1
+    },
+    {
+      "word": "reared",
+      "freq": 1
+    },
+    {
+      "word": "makeup",
+      "freq": 1
+    },
+    {
+      "word": "wherever",
+      "freq": 1
+    },
+    {
+      "word": "invisible",
+      "freq": 1
+    },
+    {
+      "word": "lately",
+      "freq": 1
+    },
+    {
+      "word": "radical",
+      "freq": 1
+    },
+    {
+      "word": "conclusion",
+      "freq": 1
+    },
+    {
+      "word": "elemental",
+      "freq": 1
+    },
+    {
+      "word": "forces",
+      "freq": 1
+    },
+    {
+      "word": "field",
+      "freq": 1
+    },
+    {
+      "word": "serves",
+      "freq": 1
+    },
+    {
+      "word": "operates",
+      "freq": 1
+    },
+    {
+      "word": "tied",
+      "freq": 1
+    },
+    {
+      "word": "neither",
+      "freq": 1
+    },
+    {
+      "word": "nor",
+      "freq": 1
+    },
+    {
+      "word": "component",
+      "freq": 1
+    },
+    {
+      "word": "gene",
+      "freq": 1
+    },
+    {
+      "word": "weakened",
+      "freq": 1
+    },
+    {
+      "word": "bones",
+      "freq": 1
+    },
+    {
+      "word": "brains",
+      "freq": 1
+    },
+    {
+      "word": "immense",
+      "freq": 1
+    },
+    {
+      "word": "piano",
+      "freq": 1
+    },
+    {
+      "word": "keyboard",
+      "freq": 1
+    },
+    {
+      "word": "symbolizing",
+      "freq": 1
+    },
+    {
+      "word": "responsible",
+      "freq": 1
+    },
+    {
+      "word": "combining",
+      "freq": 1
+    },
+    {
+      "word": "struck",
+      "freq": 1
+    },
+    {
+      "word": "tune",
+      "freq": 1
+    },
+    {
+      "word": "revolutionizing",
+      "freq": 1
+    },
+    {
+      "word": "biology",
+      "freq": 1
+    },
+    {
+      "word": "revealing",
+      "freq": 1
+    },
+    {
+      "word": "mechanism",
+      "freq": 1
+    },
+    {
+      "word": "impacts",
+      "freq": 1
+    },
+    {
+      "word": "pregnancy",
+      "freq": 1
+    },
+    {
+      "word": "fetus",
+      "freq": 1
+    },
+    {
+      "word": "behavioral",
+      "freq": 1
+    },
+    {
+      "word": "rodent",
+      "freq": 1
+    },
+    {
+      "word": "grows",
+      "freq": 1
+    },
+    {
+      "word": "occur",
+      "freq": 1
+    },
+    {
+      "word": "randomly",
+      "freq": 1
+    },
+    {
+      "word": "embryonic",
+      "freq": 1
+    },
+    {
+      "word": "brain",
+      "freq": 1
+    },
+    {
+      "word": "liver",
+      "freq": 1
+    },
+    {
+      "word": "geneticist",
+      "freq": 1
+    },
+    {
+      "word": "danielle",
+      "freq": 1
+    },
+    {
+      "word": "deeply",
+      "freq": 1
+    },
+    {
+      "word": "hardwired",
+      "freq": 1
+    },
+    {
+      "word": "absolutely",
+      "freq": 1
+    },
+    {
+      "word": "unalterable",
+      "freq": 1
+    },
+    {
+      "word": "credits",
+      "freq": 1
+    },
+    {
+      "word": "surge",
+      "freq": 1
+    },
+    {
+      "word": "trailblazer",
+      "freq": 1
+    },
+    {
+      "word": "entirely",
+      "freq": 1
+    },
+    {
+      "word": "lifestyle",
+      "freq": 1
+    },
+    {
+      "word": "schizophrenia",
+      "freq": 1
+    },
+    {
+      "word": "mothering",
+      "freq": 1
+    },
+    {
+      "word": "reflective",
+      "freq": 1
+    },
+    {
+      "word": "adds",
+      "freq": 1
+    },
+    {
+      "word": "promises",
+      "freq": 1
+    },
+    {
+      "word": "further",
+      "freq": 1
+    },
+    {
+      "word": "writes",
+      "freq": 1
+    },
+    {
+      "word": "writings",
+      "freq": 1
+    },
+    {
+      "word": "bestsellers",
+      "freq": 1
+    },
+    {
+      "word": "illnesses",
+      "freq": 1
+    },
+    {
+      "word": "advertised",
+      "freq": 1
+    },
+    {
+      "word": "danielie",
+      "freq": 1
+    },
+    {
+      "word": "invented",
+      "freq": 1
+    },
+    {
+      "word": "distinguish",
+      "freq": 1
+    },
+    {
+      "word": "affecting",
+      "freq": 1
+    },
+    {
+      "word": "characteristics",
+      "freq": 1
+    },
+    {
+      "word": "mathematical",
+      "freq": 1
+    },
+    {
+      "word": "influences",
+      "freq": 1
+    },
+    {
+      "word": "pioneered",
+      "freq": 1
+    },
+    {
+      "word": "activity",
+      "freq": 1
+    },
+    {
+      "word": "uncovering",
+      "freq": 1
+    },
+    {
+      "word": "pregnant",
+      "freq": 1
+    },
+    {
+      "word": "suffers",
+      "freq": 1
+    },
+    {
+      "word": "organs",
+      "freq": 1
+    },
+    {
+      "word": "chemicals",
+      "freq": 1
+    },
+    {
+      "word": "behaviour",
+      "freq": 1
+    },
+    {
+      "word": "skirt",
+      "freq": 1
+    },
+    {
+      "word": "colonised",
+      "freq": 1
+    },
+    {
+      "word": "agreed",
+      "freq": 1
+    },
+    {
+      "word": "evii",
+      "freq": 1
+    },
+    {
+      "word": "gai",
+      "freq": 1
+    },
+    {
+      "word": "thorny",
+      "freq": 1
+    },
+    {
+      "word": "cactus",
+      "freq": 1
+    },
+    {
+      "word": "rough",
+      "freq": 1
+    },
+    {
+      "word": "irregular",
+      "freq": 1
+    },
+    {
+      "word": "nham",
+      "freq": 1
+    },
+    {
+      "word": "volcanic",
+      "freq": 1
+    },
+    {
+      "word": "infertile",
+      "freq": 1
+    },
+    {
+      "word": "harsh",
+      "freq": 1
+    },
+    {
+      "word": "hostile",
+      "freq": 1
+    },
+    {
+      "word": "colonise",
+      "freq": 1
+    },
+    {
+      "word": "settle",
+      "freq": 1
+    },
+    {
+      "word": "occupy",
+      "freq": 1
+    },
+    {
+      "word": "adapt",
+      "freq": 1
+    },
+    {
+      "word": "adjust",
+      "freq": 1
+    },
+    {
+      "word": "subtype",
+      "freq": 1
+    },
+    {
+      "word": "predator",
+      "freq": 1
+    },
+    {
+      "word": "hunter",
+      "freq": 1
+    },
+    {
+      "word": "chain",
+      "freq": 1
+    },
+    {
+      "word": "aboard",
+      "freq": 1
+    },
+    {
+      "word": "whaler",
+      "freq": 1
+    },
+    {
+      "word": "overuse",
+      "freq": 1
+    },
+    {
+      "word": "abuse",
+      "freq": 1
+    },
+    {
+      "word": "dramatically",
+      "freq": 1
+    },
+    {
+      "word": "motionless",
+      "freq": 1
+    },
+    {
+      "word": "exacerbate",
+      "freq": 1
+    },
+    {
+      "word": "worsen",
+      "freq": 1
+    },
+    {
+      "word": "intensify",
+      "freq": 1
+    },
+    {
+      "word": "ngo",
+      "freq": 1
+    },
+    {
+      "word": "lai",
+      "freq": 1
+    },
+    {
+      "word": "invasive",
+      "freq": 1
+    },
+    {
+      "word": "livestock",
+      "freq": 1
+    },
+    {
+      "word": "pre",
+      "freq": 1
+    },
+    {
+      "word": "hunt",
+      "freq": 1
+    },
+    {
+      "word": "feed",
+      "freq": 1
+    },
+    {
+      "word": "reproduction",
+      "freq": 1
+    },
+    {
+      "word": "dedicate",
+      "freq": 1
+    },
+    {
+      "word": "devote",
+      "freq": 1
+    },
+    {
+      "word": "harden",
+      "freq": 1
+    },
+    {
+      "word": "mai",
+      "freq": 1
+    },
+    {
+      "word": "tough",
+      "freq": 1
+    },
+    {
+      "word": "hike",
+      "freq": 1
+    },
+    {
+      "word": "dangerous",
+      "freq": 1
+    },
+    {
+      "word": "staff",
+      "freq": 1
+    },
+    {
+      "word": "warden",
+      "freq": 1
+    },
+    {
+      "word": "ranger",
+      "freq": 1
+    },
+    {
+      "word": "plant",
+      "freq": 1
+    },
+    {
+      "word": "inhabit",
+      "freq": 1
+    },
+    {
+      "word": "implement",
+      "freq": 1
+    },
+    {
+      "word": "mission",
+      "freq": 1
+    },
+    {
+      "word": "preservation",
+      "freq": 1
+    },
+    {
+      "word": "ruin",
+      "freq": 1
+    },
+    {
+      "word": "foundation",
+      "freq": 1
+    },
+    {
+      "word": "regenerate",
+      "freq": 1
+    },
+    {
+      "word": "revive",
+      "freq": 1
+    },
+    {
+      "word": "ski",
+      "freq": 1
+    },
+    {
+      "word": "olonised",
+      "freq": 1
+    },
+    {
+      "word": "agre",
+      "freq": 1
+    },
+    {
+      "word": "thei",
+      "freq": 1
+    },
+    {
+      "word": "pro",
+      "freq": 1
+    },
+    {
+      "word": "tect",
+      "freq": 1
+    },
+    {
+      "word": "offi",
+      "freq": 1
+    },
+    {
+      "word": "cer",
+      "freq": 1
+    },
+    {
+      "word": "eding",
+      "freq": 1
+    },
+    {
+      "word": "enjoying",
+      "freq": 1
+    },
+    {
+      "word": "sorts",
+      "freq": 1
+    },
+    {
+      "word": "borrow",
+      "freq": 1
+    },
+    {
+      "word": "instance",
+      "freq": 1
+    },
+    {
+      "word": "comfortable",
+      "freq": 1
+    },
+    {
+      "word": "magazines",
+      "freq": 1
+    },
+    {
+      "word": "specifically",
+      "freq": 1
+    },
+    {
+      "word": "teaches",
+      "freq": 1
+    },
+    {
+      "word": "surrounding",
+      "freq": 1
+    },
+    {
+      "word": "meetings",
+      "freq": 1
+    },
+    {
+      "word": "hard",
+      "freq": 1
+    },
+    {
+      "word": "anywhere",
+      "freq": 1
+    },
+    {
+      "word": "son",
+      "freq": 1
+    },
+    {
+      "word": "fiction",
+      "freq": 1
+    },
+    {
+      "word": "experiments",
+      "freq": 1
+    },
+    {
+      "word": "flour",
+      "freq": 1
+    },
+    {
+      "word": "challenge",
+      "freq": 1
+    },
+    {
+      "word": "begin",
+      "freq": 1
+    },
+    {
+      "word": "certificate",
+      "freq": 1
+    },
+    {
+      "word": "manage",
+      "freq": 1
+    },
+    {
+      "word": "bored",
+      "freq": 1
+    },
+    {
+      "word": "tanya",
+      "freq": 1
+    },
+    {
+      "word": "streep",
+      "freq": 1
+    },
+    {
+      "word": "novel",
+      "freq": 1
+    },
+    {
+      "word": "catch",
+      "freq": 1
+    },
+    {
+      "word": "mouse",
+      "freq": 1
+    },
+    {
+      "word": "story",
+      "freq": 1
+    },
+    {
+      "word": "wanting",
+      "freq": 1
+    },
+    {
+      "word": "speed",
+      "freq": 1
+    },
+    {
+      "word": "computer",
+      "freq": 1
+    },
+    {
+      "word": "mornings",
+      "freq": 1
+    },
+    {
+      "word": "hospital",
+      "freq": 1
+    },
+    {
+      "word": "arranges",
+      "freq": 1
+    },
+    {
+      "word": "blood",
+      "freq": 1
+    },
+    {
+      "word": "cholesterol",
+      "freq": 1
+    },
+    {
+      "word": "qualify",
+      "freq": 1
+    },
+    {
+      "word": "greetings",
+      "freq": 1
+    },
+    {
+      "word": "stamps",
+      "freq": 1
+    },
+    {
+      "word": "perfect",
+      "freq": 1
+    },
+    {
+      "word": "earliest",
+      "freq": 1
+    },
+    {
+      "word": "origins",
+      "freq": 1
+    },
+    {
+      "word": "obsidian",
+      "freq": 1
+    },
+    {
+      "word": "volcano",
+      "freq": 1
+    },
+    {
+      "word": "result",
+      "freq": 1
+    },
+    {
+      "word": "intense",
+      "freq": 1
+    },
+    {
+      "word": "eruption",
+      "freq": 1
+    },
+    {
+      "word": "melting",
+      "freq": 1
+    },
+    {
+      "word": "spears",
+      "freq": 1
+    },
+    {
+      "word": "archaeologists",
+      "freq": 1
+    },
+    {
+      "word": "evidence",
+      "freq": 1
+    },
+    {
+      "word": "glazes",
+      "freq": 1
+    },
+    {
+      "word": "beads",
+      "freq": 1
+    },
+    {
+      "word": "hollow",
+      "freq": 1
+    },
+    {
+      "word": "container",
+      "freq": 1
+    },
+    {
+      "word": "covering",
+      "freq": 1
+    },
+    {
+      "word": "core",
+      "freq": 1
+    },
+    {
+      "word": "molten",
+      "freq": 1
+    },
+    {
+      "word": "impurities",
+      "freq": 1
+    },
+    {
+      "word": "methods",
+      "freq": 1
+    },
+    {
+      "word": "colourless",
+      "freq": 1
+    },
+    {
+      "word": "tinted",
+      "freq": 1
+    },
+    {
+      "word": "colouring",
+      "freq": 1
+    },
+    {
+      "word": "secret",
+      "freq": 1
+    },
+    {
+      "word": "romans",
+      "freq": 1
+    },
+    {
+      "word": "guarded",
+      "freq": 1
+    },
+    {
+      "word": "closely",
+      "freq": 1
+    },
+    {
+      "word": "empire",
+      "freq": 1
+    },
+    {
+      "word": "collapsed",
+      "freq": 1
+    },
+    {
+      "word": "gained",
+      "freq": 1
+    },
+    {
+      "word": "reputation",
+      "freq": 1
+    },
+    {
+      "word": "technical",
+      "freq": 1
+    },
+    {
+      "word": "artistic",
+      "freq": 1
+    },
+    {
+      "word": "craftsmen",
+      "freq": 1
+    },
+    {
+      "word": "glassworks",
+      "freq": 1
+    },
+    {
+      "word": "milestone",
+      "freq": 1
+    },
+    {
+      "word": "manufacturer",
+      "freq": 1
+    },
+    {
+      "word": "attempted",
+      "freq": 1
+    },
+    {
+      "word": "counter",
+      "freq": 1
+    },
+    {
+      "word": "clouding",
+      "freq": 1
+    },
+    {
+      "word": "introducing",
+      "freq": 1
+    },
+    {
+      "word": "softer",
+      "freq": 1
+    },
+    {
+      "word": "refractive",
+      "freq": 1
+    },
+    {
+      "word": "index",
+      "freq": 1
+    },
+    {
+      "word": "adding",
+      "freq": 1
+    },
+    {
+      "word": "brilliance",
+      "freq": 1
+    },
+    {
+      "word": "beauty",
+      "freq": 1
+    },
+    {
+      "word": "invaluable",
+      "freq": 1
+    },
+    {
+      "word": "lenses",
+      "freq": 1
+    },
+    {
+      "word": "astronomical",
+      "freq": 1
+    },
+    {
+      "word": "telescopes",
+      "freq": 1
+    },
+    {
+      "word": "microscopes",
+      "freq": 1
+    },
+    {
+      "word": "repeal",
+      "freq": 1
+    },
+    {
+      "word": "excise",
+      "freq": 1
+    },
+    {
+      "word": "heavy",
+      "freq": 1
+    },
+    {
+      "word": "melted",
+      "freq": 1
+    },
+    {
+      "word": "glasshouse",
+      "freq": 1
+    },
+    {
+      "word": "levied",
+      "freq": 1
+    },
+    {
+      "word": "continuously",
+      "freq": 1
+    },
+    {
+      "word": "london",
+      "freq": 1
+    },
+    {
+      "word": "marked",
+      "freq": 1
+    },
+    {
+      "word": "revolutionary",
+      "freq": 1
+    },
+    {
+      "word": "horticultural",
+      "freq": 1
+    },
+    {
+      "word": "advancement",
+      "freq": 1
+    },
+    {
+      "word": "semi",
+      "freq": 1
+    },
+    {
+      "word": "automatic",
+      "freq": 1
+    },
+    {
+      "word": "owner",
+      "freq": 1
+    },
+    {
+      "word": "castleford",
+      "freq": 1
+    },
+    {
+      "word": "yorkshire",
+      "freq": 1
+    },
+    {
+      "word": "quicker",
+      "freq": 1
+    },
+    {
+      "word": "prmevious",
+      "freq": 1
+    },
+    {
+      "word": "founder",
+      "freq": 1
+    },
+    {
+      "word": "illinois",
+      "freq": 1
+    },
+    {
+      "word": "installed",
+      "freq": 1
+    },
+    {
+      "word": "followed",
+      "freq": 1
+    },
+    {
+      "word": "essential",
+      "freq": 1
+    },
+    {
+      "word": "suppliers",
+      "freq": 1
+    },
+    {
+      "word": "sector",
+      "freq": 1
+    },
+    {
+      "word": "craft",
+      "freq": 1
+    },
+    {
+      "word": "tech",
+      "freq": 1
+    },
+    {
+      "word": "operating",
+      "freq": 1
+    },
+    {
+      "word": "fiercely",
+      "freq": 1
+    },
+    {
+      "word": "competitive",
+      "freq": 1
+    },
+    {
+      "word": "critical",
+      "freq": 1
+    },
+    {
+      "word": "maintaining",
+      "freq": 1
+    },
+    {
+      "word": "millions",
+      "freq": 1
+    },
+    {
+      "word": "colours",
+      "freq": 1
+    },
+    {
+      "word": "remaining",
+      "freq": 1
+    },
+    {
+      "word": "imagine",
+      "freq": 1
+    },
+    {
+      "word": "aspect",
+      "freq": 1
+    },
+    {
+      "word": "homes",
+      "freq": 1
+    },
+    {
+      "word": "cars",
+      "freq": 1
+    },
+    {
+      "word": "packaging",
+      "freq": 1
+    },
+    {
+      "word": "products",
+      "freq": 1
+    },
+    {
+      "word": "beverages",
+      "freq": 1
+    },
+    {
+      "word": "sold",
+      "freq": 1
+    },
+    {
+      "word": "foodstuffs",
+      "freq": 1
+    },
+    {
+      "word": "medicines",
+      "freq": 1
+    },
+    {
+      "word": "cosmetics",
+      "freq": 1
+    },
+    {
+      "word": "jars",
+      "freq": 1
+    },
+    {
+      "word": "becoming",
+      "freq": 1
+    },
+    {
+      "word": "landfill",
+      "freq": 1
+    },
+    {
+      "word": "energy",
+      "freq": 1
+    },
+    {
+      "word": "reduces",
+      "freq": 1
+    },
+    {
+      "word": "quarried",
+      "freq": 1
+    },
+    {
+      "word": "humans",
+      "freq": 1
+    },
+    {
+      "word": "sharp",
+      "freq": 1
+    },
+    {
+      "word": "knew",
+      "freq": 1
+    },
+    {
+      "word": "occurrence",
+      "freq": 1
+    },
+    {
+      "word": "laws",
+      "freq": 1
+    },
+    {
+      "word": "concerning",
+      "freq": 1
+    },
+    {
+      "word": "manufacture",
+      "freq": 1
+    },
+    {
+      "word": "pembroke",
+      "freq": 1
+    },
+    {
+      "word": "temporary",
+      "freq": 1
+    },
+    {
+      "word": "crazy",
+      "freq": 1
+    },
+    {
+      "word": "lawyer",
+      "freq": 1
+    },
+    {
+      "word": "bike",
+      "freq": 1
+    },
+    {
+      "word": "arranged",
+      "freq": 1
+    },
+    {
+      "word": "cancelled",
+      "freq": 1
+    },
+    {
+      "word": "advertising",
+      "freq": 1
+    },
+    {
+      "word": "depending",
+      "freq": 1
+    },
+    {
+      "word": "cyclists",
+      "freq": 1
+    },
+    {
+      "word": "proving",
+      "freq": 1
+    },
+    {
+      "word": "leader",
+      "freq": 1
+    },
+    {
+      "word": "families",
+      "freq": 1
+    },
+    {
+      "word": "certainly",
+      "freq": 1
+    },
+    {
+      "word": "probable",
+      "freq": 1
+    },
+    {
+      "word": "teenagers",
+      "freq": 1
+    },
+    {
+      "word": "volunteer",
+      "freq": 1
+    },
+    {
+      "word": "worker",
+      "freq": 1
+    },
+    {
+      "word": "youth",
+      "freq": 1
+    },
+    {
+      "word": "beginners",
+      "freq": 1
+    },
+    {
+      "word": "fortnight",
+      "freq": 1
+    },
+    {
+      "word": "october",
+      "freq": 1
+    },
+    {
+      "word": "meat",
+      "freq": 1
+    },
+    {
+      "word": "allergy",
+      "freq": 1
+    },
+    {
+      "word": "careful",
+      "freq": 1
+    },
+    {
+      "word": "allergic",
+      "freq": 1
+    },
+    {
+      "word": "cheese",
+      "freq": 1
+    },
+    {
+      "word": "arbuthnot",
+      "freq": 1
+    },
+    {
+      "word": "dumfries",
+      "freq": 1
+    },
+    {
+      "word": "bravo",
+      "freq": 1
+    },
+    {
+      "word": "certificates",
+      "freq": 1
+    },
+    {
+      "word": "aid",
+      "freq": 1
+    },
+    {
+      "word": "complicated",
+      "freq": 1
+    },
+    {
+      "word": "receiving",
+      "freq": 1
+    },
+    {
+      "word": "confirm",
+      "freq": 1
+    },
+    {
+      "word": "nationality",
+      "freq": 1
+    },
+    {
+      "word": "antique",
+      "freq": 1
+    },
+    {
+      "word": "items",
+      "freq": 1
+    },
+    {
+      "word": "suspect",
+      "freq": 1
+    },
+    {
+      "word": "slim",
+      "freq": 1
+    },
+    {
+      "word": "allocated",
+      "freq": 1
+    },
+    {
+      "word": "canadian",
+      "freq": 1
+    },
+    {
+      "word": "summers",
+      "freq": 1
+    },
+    {
+      "word": "antiques",
+      "freq": 1
+    },
+    {
+      "word": "riverside",
+      "freq": 1
+    },
+    {
+      "word": "fifteen",
+      "freq": 1
+    },
+    {
+      "word": "supermarket",
+      "freq": 1
+    },
+    {
+      "word": "opened",
+      "freq": 1
+    },
+    {
+      "word": "fortunately",
+      "freq": 1
+    },
+    {
+      "word": "passport",
+      "freq": 1
+    },
+    {
+      "word": "compartment",
+      "freq": 1
+    },
+    {
+      "word": "sterling",
+      "freq": 1
+    },
+    {
+      "word": "withdrew",
+      "freq": 1
+    },
+    {
+      "word": "tenth",
+      "freq": 1
+    },
+    {
+      "word": "travelling",
+      "freq": 1
+    },
+    {
+      "word": "safer",
+      "freq": 1
+    },
+    {
+      "word": "thin",
+      "freq": 1
+    },
+    {
+      "word": "colour",
+      "freq": 1
+    },
+    {
+      "word": "haired",
+      "freq": 1
+    },
+    {
+      "word": "insurance",
+      "freq": 1
+    },
+    {
+      "word": "digits",
+      "freq": 1
+    },
+    {
+      "word": "induction",
+      "freq": 1
+    },
+    {
+      "word": "pieces",
+      "freq": 1
+    },
+    {
+      "word": "mistakes",
+      "freq": 1
+    },
+    {
+      "word": "react",
+      "freq": 1
+    },
+    {
+      "word": "positively",
+      "freq": 1
+    },
+    {
+      "word": "feedback",
+      "freq": 1
+    },
+    {
+      "word": "challenges",
+      "freq": 1
+    },
+    {
+      "word": "mentors",
+      "freq": 1
+    },
+    {
+      "word": "confidence",
+      "freq": 1
+    },
+    {
+      "word": "completing",
+      "freq": 1
+    },
+    {
+      "word": "weekly",
+      "freq": 1
+    },
+    {
+      "word": "timetable",
+      "freq": 1
+    },
+    {
+      "word": "reviewing",
+      "freq": 1
+    },
+    {
+      "word": "restrictions",
+      "freq": 1
+    },
+    {
+      "word": "rules",
+      "freq": 1
+    },
+    {
+      "word": "janet",
+      "freq": 1
+    },
+    {
+      "word": "parker",
+      "freq": 1
+    },
+    {
+      "word": "positive",
+      "freq": 1
+    },
+    {
+      "word": "enjoyable",
+      "freq": 1
+    },
+    {
+      "word": "apprentice",
+      "freq": 1
+    },
+    {
+      "word": "trying",
+      "freq": 1
+    },
+    {
+      "word": "approachable",
+      "freq": 1
+    },
+    {
+      "word": "mind",
+      "freq": 1
+    },
+    {
+      "word": "explaining",
+      "freq": 1
+    },
+    {
+      "word": "departments",
+      "freq": 1
+    },
+    {
+      "word": "mentor",
+      "freq": 1
+    },
+    {
+      "word": "meet",
+      "freq": 1
+    },
+    {
+      "word": "achieved",
+      "freq": 1
+    },
+    {
+      "word": "policies",
+      "freq": 1
+    },
+    {
+      "word": "importantly",
+      "freq": 1
+    },
+    {
+      "word": "unlimited",
+      "freq": 1
+    },
+    {
+      "word": "phones",
+      "freq": 1
+    },
+    {
+      "word": "probationary",
+      "freq": 1
+    },
+    {
+      "word": "eligible",
+      "freq": 1
+    },
+    {
+      "word": "depend",
+      "freq": 1
+    },
+    {
+      "word": "department",
+      "freq": 1
+    },
+    {
+      "word": "automatically",
+      "freq": 1
+    },
+    {
+      "word": "umlimited",
+      "freq": 1
+    },
+    {
+      "word": "circumstance",
+      "freq": 1
+    },
+    {
+      "word": "confusion",
+      "freq": 1
+    },
+    {
+      "word": "statutory",
+      "freq": 1
+    },
+    {
+      "word": "unwell",
+      "freq": 1
+    },
+    {
+      "word": "expected",
+      "freq": 1
+    },
+    {
+      "word": "periods",
+      "freq": 1
+    },
+    {
+      "word": "formal",
+      "freq": 1
+    },
+    {
+      "word": "casual",
+      "freq": 1
+    },
+    {
+      "word": "practical",
+      "freq": 1
+    },
+    {
+      "word": "restriction",
+      "freq": 1
+    },
+    {
+      "word": "shoes",
+      "freq": 1
+    },
+    {
+      "word": "heels",
+      "freq": 1
+    },
+    {
+      "word": "preferable",
+      "freq": 1
+    },
+    {
+      "word": "heavily",
+      "freq": 1
+    },
+    {
+      "word": "subsidised",
+      "freq": 1
+    },
+    {
+      "word": "canteen",
+      "freq": 1
+    },
+    {
+      "word": "salads",
+      "freq": 1
+    },
+    {
+      "word": "cheaply",
+      "freq": 1
+    },
+    {
+      "word": "introduce",
+      "freq": 1
+    },
+    {
+      "word": "healthy",
+      "freq": 1
+    },
+    {
+      "word": "workstation",
+      "freq": 1
+    },
+    {
+      "word": "unhygienic",
+      "freq": 1
+    },
+    {
+      "word": "unconscious",
+      "freq": 1
+    },
+    {
+      "word": "notions",
+      "freq": 1
+    },
+    {
+      "word": "chapter",
+      "freq": 1
+    },
+    {
+      "word": "addresses",
+      "freq": 1
+    },
+    {
+      "word": "conceptualize",
+      "freq": 1
+    },
+    {
+      "word": "opposed",
+      "freq": 1
+    },
+    {
+      "word": "valuing",
+      "freq": 1
+    },
+    {
+      "word": "conceptions",
+      "freq": 1
+    },
+    {
+      "word": "matter",
+      "freq": 1
+    },
+    {
+      "word": "perceive",
+      "freq": 1
+    },
+    {
+      "word": "corrections",
+      "freq": 1
+    },
+    {
+      "word": "speech",
+      "freq": 1
+    },
+    {
+      "word": "ready",
+      "freq": 1
+    },
+    {
+      "word": "perform",
+      "freq": 1
+    },
+    {
+      "word": "interviewers",
+      "freq": 1
+    },
+    {
+      "word": "decisions",
+      "freq": 1
+    },
+    {
+      "word": "sum",
+      "freq": 1
+    },
+    {
+      "word": "investigators",
+      "freq": 1
+    },
+    {
+      "word": "ultimately",
+      "freq": 1
+    },
+    {
+      "word": "framework",
+      "freq": 1
+    },
+    {
+      "word": "defining",
+      "freq": 1
+    },
+    {
+      "word": "attended",
+      "freq": 1
+    },
+    {
+      "word": "investigations",
+      "freq": 1
+    },
+    {
+      "word": "investigator",
+      "freq": 1
+    },
+    {
+      "word": "suspects",
+      "freq": 1
+    },
+    {
+      "word": "investigation",
+      "freq": 1
+    },
+    {
+      "word": "reveals",
+      "freq": 1
+    },
+    {
+      "word": "correspondence",
+      "freq": 1
+    },
+    {
+      "word": "extant",
+      "freq": 1
+    },
+    {
+      "word": "correction",
+      "freq": 1
+    },
+    {
+      "word": "supplementation",
+      "freq": 1
+    },
+    {
+      "word": "construct",
+      "freq": 1
+    },
+    {
+      "word": "elucidate",
+      "freq": 1
+    },
+    {
+      "word": "developmental",
+      "freq": 1
+    },
+    {
+      "word": "cross",
+      "freq": 1
+    },
+    {
+      "word": "cultural",
+      "freq": 1
+    },
+    {
+      "word": "intellectual",
+      "freq": 1
+    },
+    {
+      "word": "performances",
+      "freq": 1
+    },
+    {
+      "word": "culture",
+      "freq": 1
+    },
+    {
+      "word": "relates",
+      "freq": 1
+    },
+    {
+      "word": "strictly",
+      "freq": 1
+    },
+    {
+      "word": "loosely",
+      "freq": 1
+    },
+    {
+      "word": "philosophies",
+      "freq": 1
+    },
+    {
+      "word": "alexander",
+      "freq": 1
+    },
+    {
+      "word": "hamilton",
+      "freq": 1
+    },
+    {
+      "word": "jefferson",
+      "freq": 1
+    },
+    {
+      "word": "andrew",
+      "freq": 1
+    },
+    {
+      "word": "jackson",
+      "freq": 1
+    },
+    {
+      "word": "statesmen",
+      "freq": 1
+    },
+    {
+      "word": "platonic",
+      "freq": 1
+    },
+    {
+      "word": "offices",
+      "freq": 1
+    },
+    {
+      "word": "line",
+      "freq": 1
+    },
+    {
+      "word": "plato",
+      "freq": 1
+    },
+    {
+      "word": "philosopher",
+      "freq": 1
+    },
+    {
+      "word": "kings",
+      "freq": 1
+    },
+    {
+      "word": "herrnstein",
+      "freq": 1
+    },
+    {
+      "word": "murray",
+      "freq": 1
+    },
+    {
+      "word": "belief",
+      "freq": 1
+    },
+    {
+      "word": "emergence",
+      "freq": 1
+    },
+    {
+      "word": "largely",
+      "freq": 1
+    },
+    {
+      "word": "irresponsible",
+      "freq": 1
+    },
+    {
+      "word": "masses",
+      "freq": 1
+    },
+    {
+      "word": "cannot",
+      "freq": 1
+    },
+    {
+      "word": "unintelligent",
+      "freq": 1
+    },
+    {
+      "word": "create",
+      "freq": 1
+    },
+    {
+      "word": "chaos",
+      "freq": 1
+    },
+    {
+      "word": "avail",
+      "freq": 1
+    },
+    {
+      "word": "accomplishments",
+      "freq": 1
+    },
+    {
+      "word": "accomplish",
+      "freq": 1
+    },
+    {
+      "word": "goal",
+      "freq": 1
+    },
+    {
+      "word": "favor",
+      "freq": 1
+    },
+    {
+      "word": "foster",
+      "freq": 1
+    },
+    {
+      "word": "tradition",
+      "freq": 1
+    },
+    {
+      "word": "beings",
+      "freq": 1
+    },
+    {
+      "word": "competencies",
+      "freq": 1
+    },
+    {
+      "word": "jury",
+      "freq": 1
+    },
+    {
+      "word": "democracy",
+      "freq": 1
+    },
+    {
+      "word": "essentially",
+      "freq": 1
+    },
+    {
+      "word": "intersubstitutable",
+      "freq": 1
+    },
+    {
+      "word": "specialized",
+      "freq": 1
+    },
+    {
+      "word": "learned",
+      "freq": 1
+    },
+    {
+      "word": "institutions",
+      "freq": 1
+    },
+    {
+      "word": "favoring",
+      "freq": 1
+    },
+    {
+      "word": "relationship",
+      "freq": 1
+    },
+    {
+      "word": "underlying",
+      "freq": 1
+    },
+    {
+      "word": "presuppositions",
+      "freq": 1
+    },
+    {
+      "word": "experimental",
+      "freq": 1
+    },
+    {
+      "word": "designs",
+      "freq": 1
+    },
+    {
+      "word": "miss",
+      "freq": 1
+    },
+    {
+      "word": "saying",
+      "freq": 1
+    },
+    {
+      "word": "discussing",
+      "freq": 1
+    },
+    {
+      "word": "sections",
+      "freq": 1
+    },
+    {
+      "word": "clarity",
+      "freq": 1
+    },
+    {
+      "word": "impossible",
+      "freq": 1
+    },
+    {
+      "word": "thinks",
+      "freq": 1
+    },
+    {
+      "word": "slow",
+      "freq": 1
+    },
+    {
+      "word": "prove",
+      "freq": 1
+    },
+    {
+      "word": "disappointing",
+      "freq": 1
+    },
+    {
+      "word": "universal",
+      "freq": 1
+    },
+    {
+      "word": "desirable",
+      "freq": 1
+    },
+    {
+      "word": "possibilities",
+      "freq": 1
+    },
+    {
+      "word": "preferential",
+      "freq": 1
+    },
+    {
+      "word": "expense",
+      "freq": 1
+    },
+    {
+      "word": "benefits",
+      "freq": 1
+    },
+    {
+      "word": "variation",
+      "freq": 1
+    },
+    {
+      "word": "positions",
+      "freq": 1
+    },
+    {
+      "word": "uncontrolled",
+      "freq": 1
+    }
+  ]
+}
