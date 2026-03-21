@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Luyện từ vựng IELTS Band 4.0 - 1000+ từ vựng cơ bản với flashcard, bài kiểm tra gõ từ và theo dõi tiến độ">
+    <title>IELTS Vocab Master - Luyện Từ Vựng Band 4.0</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header id="main-header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">📚</span>
+                <h1>IELTS <span class="accent">Vocab</span></h1>
+            </div>
+            <nav id="main-nav">
+                <button class="nav-btn active" data-section="home" id="nav-home">
+                    <span class="nav-icon">🏠</span><span class="nav-text">Trang chủ</span>
+                </button>
+                <button class="nav-btn" data-section="flashcard" id="nav-flashcard">
+                    <span class="nav-icon">🃏</span><span class="nav-text">Flashcard</span>
+                </button>
+                <button class="nav-btn" data-section="typing" id="nav-typing">
+                    <span class="nav-icon">⌨️</span><span class="nav-text">Gõ từ</span>
+                </button>
+                <button class="nav-btn" data-section="progress" id="nav-progress">
+                    <span class="nav-icon">📊</span><span class="nav-text">Tiến độ</span>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home" class="section active">
+        <div class="hero">
+            <div class="hero-content">
+                <h2>Luyện <span class="gradient-text">1000 Từ Vựng</span> IELTS</h2>
+                <p>Band 4.0 &amp; dưới — Học từ vựng cơ bản qua Flashcard và Gõ từ</p>
+                <div class="stats-row" id="hero-stats">
+                    <div class="stat-card">
+                        <span class="stat-num" id="stat-total">0</span>
+                        <span class="stat-label">Tổng từ</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-num" id="stat-learned">0</span>
+                        <span class="stat-label">Đã thuộc</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-num" id="stat-streak">0</span>
+                        <span class="stat-label">Chuỗi ngày</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Search -->
+        <div class="search-wrap">
+            <input type="text" id="search-input" placeholder="🔍 Tìm kiếm từ vựng..." autocomplete="off">
+            <div id="search-results" class="search-results hidden"></div>
+        </div>
+
+        <!-- Topic Grid -->
+        <h3 class="section-title">Chọn chủ đề để học</h3>
+        <div class="topic-grid" id="topic-grid"></div>
+    </section>
+
+    <!-- Flashcard Section -->
+    <section id="flashcard" class="section">
+        <div class="section-header">
+            <button class="back-btn" id="flash-back">← Quay lại</button>
+            <h3 id="flash-topic-title">Flashcard</h3>
+            <span class="counter" id="flash-counter">0/0</span>
+        </div>
+        <div class="flashcard-container">
+            <div class="flashcard" id="flashcard-el">
+                <div class="flashcard-front">
+                    <span class="fc-word" id="fc-word"></span>
+                    <span class="fc-phonetic" id="fc-phonetic"></span>
+                    <button class="speak-btn" id="fc-speak">🔊</button>
+                    <p class="fc-hint">Nhấn để lật thẻ</p>
+                </div>
+                <div class="flashcard-back">
+                    <span class="fc-meaning" id="fc-meaning"></span>
+                    <span class="fc-example" id="fc-example"></span>
+                    <p class="fc-hint">Nhấn để lật lại</p>
+                </div>
+            </div>
+        </div>
+        <div class="fc-actions">
+            <button class="fc-btn unknown" id="fc-unknown">❌ Chưa thuộc</button>
+            <button class="fc-btn known" id="fc-known">✅ Đã thuộc</button>
+        </div>
+    </section>
+
+    <!-- Typing Section -->
+    <section id="typing" class="section">
+        <div class="section-header">
+            <button class="back-btn" id="type-back">← Quay lại</button>
+            <h3 id="type-topic-title">Gõ từ</h3>
+            <span class="counter" id="type-counter">0/0</span>
+        </div>
+        <div class="typing-card" id="typing-card">
+            <div class="typing-prompt">
+                <span class="type-meaning" id="type-meaning"></span>
+                <span class="type-phonetic" id="type-phonetic"></span>
+            </div>
+            <div class="typing-input-wrap">
+                <input type="text" id="type-input" placeholder="Gõ từ tiếng Anh..." autocomplete="off"
+                    spellcheck="false">
+                <button class="check-btn" id="type-check">Kiểm tra</button>
+            </div>
+            <div class="typing-feedback hidden" id="type-feedback"></div>
+            <div class="typing-hint hidden" id="type-hint"></div>
+        </div>
+        <div class="typing-score">
+            <span>✅ Đúng: <strong id="type-correct">0</strong></span>
+            <span>❌ Sai: <strong id="type-wrong">0</strong></span>
+        </div>
+        <button class="fc-btn known next-btn hidden" id="type-next">Từ tiếp theo →</button>
+    </section>
+
+    <!-- Progress Section -->
+    <section id="progress" class="section">
+        <h3 class="section-title">Tiến độ học tập</h3>
+        <div class="progress-overview" id="progress-overview"></div>
+        <div class="progress-grid" id="progress-grid"></div>
+        <button class="reset-btn" id="reset-progress">🗑️ Xóa toàn bộ tiến độ</button>
+    </section>
+
+    <script src="vocab-data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
