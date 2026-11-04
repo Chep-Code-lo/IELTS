@@ -1,0 +1,45 @@
+/* Use the existing palette, surfaces, typography and spacing. */
+.v-heading{padding:28px 0 20px;max-width:760px}
+.v-heading h2{font-size:clamp(1.7rem,4vw,2.5rem);margin:10px 0 14px}
+.v-heading p,.v-guide,.v-progress-box{line-height:1.7}
+.v-eyebrow{color:var(--accent);font-size:.8rem;letter-spacing:.12em;font-weight:700}
+.v-muted{color:var(--text2);font-size:.88rem;line-height:1.6}
+.v-guide,.v-progress-box{padding:18px 20px;border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);margin-bottom:20px}
+.v-guide summary{cursor:pointer;color:var(--accent)}
+.v-guide p,.v-guide ul{margin-top:12px}
+.v-guide ul{padding-left:22px}
+#vocabulary a,.v-dialog a{color:var(--accent);text-underline-offset:3px}
+#v-meter{width:100%;height:10px;accent-color:var(--accent);margin:12px 0}
+.v-filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.v-filters label,.v-status-label{display:flex;flex-direction:column;gap:8px;color:var(--text2);font-size:.85rem}
+.v-search-label{grid-column:1/-1}
+.v-filters input,.v-filters select,.v-status-label select{width:100%;min-width:0;border:1px solid var(--border);border-radius:10px;background:var(--bg2);color:var(--text);padding:12px;font:inherit;font-size:1rem}
+.v-button{font:inherit;line-height:1.4;min-height:44px;padding:10px 16px;border:1px solid var(--border);border-radius:10px;background:var(--surface);color:var(--text);cursor:pointer}
+.v-button:hover:not(:disabled){border-color:var(--accent);background:rgba(0,212,255,.08)}
+.v-button:disabled{opacity:.45;cursor:not-allowed}
+.v-primary{color:var(--accent);background:linear-gradient(135deg,rgba(0,212,255,.12),rgba(124,58,237,.15))}
+.v-toolbar,.v-actions{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0 12px}
+.v-result-count{margin:24px 0 16px;color:var(--text2)}
+.v-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.v-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:22px;overflow-wrap:anywhere;display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.v-card h3{font-size:1.4rem}
+.v-badge{font-size:.75rem;font-weight:700;border-radius:6px;padding:4px 8px;background:rgba(0,212,255,.1);color:var(--accent)}
+.v-a2{background:rgba(124,58,237,.2);color:#c4b5fd}.v-b1{background:rgba(244,114,182,.12);color:#f9a8d4}
+.v-details{line-height:1.65;margin:10px 0;font-size:.92rem}
+.v-details p{margin-bottom:10px}.v-details a{font-size:.8rem}
+.v-meaning{font-weight:600}.v-example{font-style:italic}
+.v-status-label{margin-top:auto;width:100%;padding-top:8px}
+.v-pagination{display:flex;align-items:center;justify-content:center;gap:16px;margin:24px 0}
+.v-empty{grid-column:1/-1;padding:32px;text-align:center;border:1px dashed var(--border);border-radius:var(--radius)}
+.v-dialog{margin:auto;padding:24px;width:min(600px,calc(100% - 24px));max-height:88dvh;overflow:auto;color:var(--text);background:var(--bg2);border:1px solid var(--border);border-radius:20px;line-height:1.6}
+.v-dialog::backdrop{background:rgba(0,0,0,.75);backdrop-filter:blur(6px)}
+.v-dialog-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:20px}
+.v-dialog h2{font-size:1.2rem}.v-prompt{font-size:2rem;margin:12px 0;overflow-wrap:anywhere}
+.v-dialog .v-muted{margin-bottom:16px}.v-answers{display:grid;gap:10px;margin:18px 0}.v-answers button{text-align:left}
+.v-answers .v-correct{border-color:var(--green);opacity:1}.v-answers .v-incorrect{border-color:var(--red);opacity:1}
+.v-feedback{margin:12px 0}#legacy-completion form{margin-top:20px}
+:is(button,input,select,summary,a):focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+#open-vocabulary{margin-bottom:24px}
+@media(max-width:900px){.v-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.v-grid{grid-template-columns:1fr}.v-filters{grid-template-columns:1fr 1fr}.v-toolbar .v-button{flex:1 1 130px}.v-pagination{gap:8px;font-size:.8rem}.v-pagination .v-button{padding:10px}.v-dialog{padding:18px}.v-dialog-heading{gap:8px}.header-inner{height:auto;min-height:64px;flex-wrap:wrap;padding:10px 0;gap:10px}#main-nav{width:100%;justify-content:space-between}.nav-btn{padding:8px}.v-card{padding:20px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

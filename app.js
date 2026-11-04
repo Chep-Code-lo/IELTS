@@ -8,9 +8,18 @@
   let typeIndex = 0;
   let typeCorrect = 0;
   let typeWrong = 0;
-  let progress = JSON.parse(localStorage.getItem('ielts_progress') || '{}');
-  let streak = parseInt(localStorage.getItem('ielts_streak') || '0');
-  let lastDate = localStorage.getItem('ielts_last_date') || '';
+  const storage = {
+    getItem(key) { try { return localStorage.getItem(key); } catch { return null; } },
+    setItem(key, value) { try { localStorage.setItem(key, value); } catch { /* Session remains usable. */ } },
+    removeItem(key) { try { localStorage.removeItem(key); } catch { /* Session remains usable. */ } }
+  };
+  let progress = {};
+  try {
+    const saved = JSON.parse(storage.getItem('ielts_progress') || '{}');
+    if (saved && typeof saved === 'object' && !Array.isArray(saved)) progress = saved;
+  } catch { /* Ignore invalid saved JSON. */ }
+  let streak = parseInt(storage.getItem('ielts_streak') || '0') || 0;
+  let lastDate = storage.getItem('ielts_last_date') || '';
 
   // Check streak
   const today = new Date().toDateString();
@@ -41,11 +50,14 @@
     btn.addEventListener('click', () => {
       const sec = btn.dataset.section;
       if (sec === 'flashcard' || sec === 'typing') {
-        if (!currentTopic) { showSection('home'); return; }
+        if (currentTopic === null) { showSection('home'); return; }
+        if (sec === 'flashcard') { startFlashcard(); return; }
+        if (sec === 'typing') { startTyping(); return; }
       }
       showSection(sec);
     });
   });
+  $('open-vocabulary').addEventListener('click', () => showSection('vocabulary'));
 
   // === Home Stats ===
   function getLearnedCount() {
@@ -190,6 +202,7 @@
   }
 
   function checkTyping() {
+    if ($('type-input').disabled || typeIndex >= currentWords.length) return;
     const w = currentWords[typeIndex];
     const input = $('type-input').value.trim().toLowerCase();
     const correct = w.word.toLowerCase();
@@ -245,23 +258,12 @@
     const learned = progress[currentTopic] ? Object.keys(progress[currentTopic]).length : 0;
     const pct = Math.round((learned / topic.words.length) * 100);
 
-    const section = $(mode === 'flashcard' ? 'flashcard' : 'typing');
-    const msg = mode === 'typing'
-      ? `<p style="margin-bottom:8px">✅ Đúng: <strong>${typeCorrect}</strong> · ❌ Sai: <strong>${typeWrong}</strong></p>`
-      : '';
-
-    section.innerHTML = `
-      <div style="text-align:center;padding:60px 20px">
-        <div style="font-size:4rem;margin-bottom:16px">🎉</div>
-        <h2 style="margin-bottom:12px">Hoàn thành!</h2>
-        <p style="color:var(--text2);margin-bottom:8px">${topic.name}</p>
-        ${msg}
-        <p style="margin-bottom:24px">Tiến độ: <strong style="color:var(--accent)">${pct}%</strong> (${learned}/${topic.words.length} từ)</p>
-        <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
-          <button onclick="location.reload()" style="padding:14px 28px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-weight:600;cursor:pointer;font-family:inherit;font-size:1rem">🏠 Trang chủ</button>
-        </div>
-      </div>
-    `;
+    const summary = mode === 'typing'
+      ? `${topic.name} — Đúng: ${typeCorrect}, sai: ${typeWrong}. Đã thuộc: ${learned}/${topic.words.length} (${pct}%)`
+      : `${topic.name} — Đã thuộc: ${learned}/${topic.words.length} (${pct}%)`;
+    $('legacy-completion-summary').textContent = summary;
+    showSection('home');
+    $('legacy-completion').showModal();
   }
 
   // === Progress ===
@@ -295,12 +297,13 @@
   }
 
   $('reset-progress').addEventListener('click', () => {
-    if (confirm('Bạn có chắc muốn xóa toàn bộ tiến độ?')) {
+    if (confirm('Bạn có chắc muốn xóa tiến độ bộ từ cũ? Tiến độ A1–B1 được giữ nguyên.')) {
       progress = {};
       streak = 0;
-      localStorage.removeItem('ielts_progress');
-      localStorage.removeItem('ielts_streak');
-      localStorage.removeItem('ielts_last_date');
+      lastDate = '';
+      storage.removeItem('ielts_progress');
+      storage.removeItem('ielts_streak');
+      storage.removeItem('ielts_last_date');
       renderProgress();
     }
   });
@@ -334,7 +337,7 @@
   function markLearned(topicIdx, word) {
     if (!progress[topicIdx]) progress[topicIdx] = {};
     progress[topicIdx][word] = true;
-    localStorage.setItem('ielts_progress', JSON.stringify(progress));
+    storage.setItem('ielts_progress', JSON.stringify(progress));
   }
 
   function updateStreak() {
@@ -343,8 +346,8 @@
       const diff = lastDate ? (new Date(t) - new Date(lastDate)) / 86400000 : 0;
       streak = diff <= 1 ? streak + 1 : 1;
       lastDate = t;
-      localStorage.setItem('ielts_streak', streak);
-      localStorage.setItem('ielts_last_date', t);
+      storage.setItem('ielts_streak', streak);
+      storage.setItem('ielts_last_date', t);
     }
   }
 

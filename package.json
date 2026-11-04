@@ -1,0 +1,18 @@
+{
+  "name": "ielts-vocab-master",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "lint": "eslint . && node scripts/build.cjs --check",
+    "test": "node --test tests/core.test.cjs",
+    "test:browser": "playwright test",
+    "start": "node scripts/serve.cjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@playwright/test": "^1.64.1",
+    "eslint": "^9.39.5",
+    "globals": "^17.14.0"
+  }
+}
