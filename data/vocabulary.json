@@ -1,0 +1,2310 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "oxford3000",
+      "title": "Oxford 3000 by CEFR level (British English)",
+      "url": "https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf",
+      "checkedOn": "2026-11-05",
+      "note": "CEFR refers to the Oxford headword and part of speech. Examples, Vietnamese translations, collocations and skill tags are editorial. This is not an official IELTS list or a band-score guarantee."
+    }
+  ],
+  "topics": [
+    {
+      "id": "education",
+      "name": "Education",
+      "nameVi": "Giáo dục"
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "nameVi": "Gia đình"
+    },
+    {
+      "id": "work",
+      "name": "Work",
+      "nameVi": "Công việc"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "nameVi": "Sức khỏe"
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "nameVi": "Môi trường"
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "nameVi": "Công nghệ"
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "nameVi": "Du lịch"
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "nameVi": "Ẩm thực"
+    },
+    {
+      "id": "daily-life",
+      "name": "Daily Life",
+      "nameVi": "Đời sống hằng ngày"
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "nameVi": "Mua sắm"
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "nameVi": "Giao thông"
+    },
+    {
+      "id": "society",
+      "name": "Society",
+      "nameVi": "Xã hội"
+    },
+    {
+      "id": "culture",
+      "name": "Culture",
+      "nameVi": "Văn hóa"
+    },
+    {
+      "id": "housing",
+      "name": "Housing",
+      "nameVi": "Nhà ở"
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "nameVi": "Thời tiết"
+    },
+    {
+      "id": "sport",
+      "name": "Sport",
+      "nameVi": "Thể thao"
+    },
+    {
+      "id": "media",
+      "name": "Media",
+      "nameVi": "Truyền thông"
+    },
+    {
+      "id": "money",
+      "name": "Money",
+      "nameVi": "Tiền bạc"
+    },
+    {
+      "id": "cities",
+      "name": "Cities",
+      "nameVi": "Đô thị"
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "nameVi": "Thiên nhiên"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "nameVi": "Khoa học"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "nameVi": "Giao tiếp"
+    },
+    {
+      "id": "arts",
+      "name": "Arts",
+      "nameVi": "Nghệ thuật"
+    },
+    {
+      "id": "clothing",
+      "name": "Clothing",
+      "nameVi": "Trang phục"
+    },
+    {
+      "id": "time",
+      "name": "Time",
+      "nameVi": "Thời gian và lịch trình"
+    },
+    {
+      "id": "data-and-trends",
+      "name": "Data and Trends",
+      "nameVi": "Số liệu và xu hướng"
+    }
+  ],
+  "entries": [
+    {
+      "id": "student-n",
+      "word": "student",
+      "ipa": "/ˈstjuːdənt/",
+      "pos": "n.",
+      "meaningVi": "học sinh; sinh viên",
+      "cefr": "A1",
+      "exampleEn": "Each student has a library card.",
+      "exampleVi": "Mỗi sinh viên có một thẻ thư viện.",
+      "collocations": [
+        "university student",
+        "full-time student"
+      ],
+      "topics": [
+        "education"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "student",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "degree-n",
+      "word": "degree",
+      "ipa": "/dɪˈɡriː/",
+      "pos": "n.",
+      "meaningVi": "bằng đại học",
+      "cefr": "A2",
+      "exampleEn": "She is studying for a degree in biology.",
+      "exampleVi": "Cô ấy đang học để lấy bằng đại học ngành sinh học.",
+      "collocations": [
+        "university degree",
+        "degree in biology"
+      ],
+      "topics": [
+        "education"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 5,
+        "headword": "degree",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "assignment-n",
+      "word": "assignment",
+      "ipa": "/əˈsaɪnmənt/",
+      "pos": "n.",
+      "meaningVi": "bài tập được giao",
+      "cefr": "B1",
+      "exampleEn": "Our next assignment is about local transport.",
+      "exampleVi": "Bài tập tiếp theo của chúng tôi nói về giao thông địa phương.",
+      "collocations": [
+        "complete an assignment",
+        "written assignment"
+      ],
+      "topics": [
+        "education"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "assignment",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "parent-n",
+      "word": "parent",
+      "ipa": "/ˈpeərənt/",
+      "pos": "n.",
+      "meaningVi": "cha hoặc mẹ",
+      "cefr": "A1",
+      "exampleEn": "A parent can help a child learn to read.",
+      "exampleVi": "Cha hoặc mẹ có thể giúp con học đọc.",
+      "collocations": [
+        "single parent",
+        "working parent"
+      ],
+      "topics": [
+        "family"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "parent",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "relationship-n",
+      "word": "relationship",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "pos": "n.",
+      "meaningVi": "mối quan hệ",
+      "cefr": "A2",
+      "exampleEn": "I have a good relationship with my sister.",
+      "exampleVi": "Tôi có mối quan hệ tốt với chị gái.",
+      "collocations": [
+        "close relationship",
+        "family relationship"
+      ],
+      "topics": [
+        "family"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "relationship",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "childhood-n",
+      "word": "childhood",
+      "ipa": "/ˈtʃaɪldhʊd/",
+      "pos": "n.",
+      "meaningVi": "thời thơ ấu",
+      "cefr": "B1",
+      "exampleEn": "I spent my childhood in a small village.",
+      "exampleVi": "Tôi đã trải qua thời thơ ấu ở một ngôi làng nhỏ.",
+      "collocations": [
+        "happy childhood",
+        "childhood memories"
+      ],
+      "topics": [
+        "family"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "childhood",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "job-n",
+      "word": "job",
+      "ipa": "/dʒɒb/",
+      "pos": "n.",
+      "meaningVi": "công việc; việc làm",
+      "cefr": "A1",
+      "exampleEn": "My first job was in a bookshop.",
+      "exampleVi": "Công việc đầu tiên của tôi là ở một hiệu sách.",
+      "collocations": [
+        "full-time job",
+        "apply for a job"
+      ],
+      "topics": [
+        "work"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "job",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "colleague-n",
+      "word": "colleague",
+      "ipa": "/ˈkɒliːɡ/",
+      "pos": "n.",
+      "meaningVi": "đồng nghiệp",
+      "cefr": "A2",
+      "exampleEn": "My colleague helped me prepare the report.",
+      "exampleVi": "Đồng nghiệp đã giúp tôi chuẩn bị báo cáo.",
+      "collocations": [
+        "work colleague",
+        "close colleague"
+      ],
+      "topics": [
+        "work"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "colleague",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "candidate-n",
+      "word": "candidate",
+      "ipa": "/ˈkændɪdət/",
+      "pos": "n.",
+      "meaningVi": "ứng viên",
+      "cefr": "B1",
+      "exampleEn": "Each candidate will have a short interview.",
+      "exampleVi": "Mỗi ứng viên sẽ có một cuộc phỏng vấn ngắn.",
+      "collocations": [
+        "successful candidate",
+        "job candidate"
+      ],
+      "topics": [
+        "work"
+      ],
+      "skills": [
+        "Listening",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "candidate",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "healthy-adj",
+      "word": "healthy",
+      "ipa": "/ˈhelθi/",
+      "pos": "adj.",
+      "meaningVi": "khỏe mạnh; có lợi cho sức khỏe",
+      "cefr": "A1",
+      "exampleEn": "A healthy diet includes different vegetables.",
+      "exampleVi": "Một chế độ ăn lành mạnh bao gồm nhiều loại rau.",
+      "collocations": [
+        "healthy diet",
+        "healthy lifestyle"
+      ],
+      "topics": [
+        "health"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "healthy",
+        "pos": "adj."
+      }
+    },
+    {
+      "id": "stress-n",
+      "word": "stress",
+      "ipa": "/stres/",
+      "pos": "n.",
+      "meaningVi": "sự căng thẳng",
+      "cefr": "A2",
+      "exampleEn": "Regular exercise helps me deal with stress.",
+      "exampleVi": "Tập thể dục đều đặn giúp tôi đối phó với căng thẳng.",
+      "collocations": [
+        "reduce stress",
+        "work-related stress"
+      ],
+      "topics": [
+        "health"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "stress",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "appointment-n",
+      "word": "appointment",
+      "ipa": "/əˈpɔɪntmənt/",
+      "pos": "n.",
+      "meaningVi": "cuộc hẹn",
+      "cefr": "B1",
+      "exampleEn": "I have an appointment with the doctor at ten.",
+      "exampleVi": "Tôi có hẹn với bác sĩ lúc mười giờ.",
+      "collocations": [
+        "make an appointment",
+        "doctor's appointment"
+      ],
+      "topics": [
+        "health"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "appointment",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "recycle-v",
+      "word": "recycle",
+      "ipa": "/ˌriːˈsaɪkl/",
+      "pos": "v.",
+      "meaningVi": "tái chế",
+      "cefr": "A2",
+      "exampleEn": "We recycle paper at school.",
+      "exampleVi": "Chúng tôi tái chế giấy ở trường.",
+      "collocations": [
+        "recycle paper",
+        "recycle waste"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "recycle",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "reduce-v",
+      "word": "reduce",
+      "ipa": "/rɪˈdjuːs/",
+      "pos": "v.",
+      "meaningVi": "giảm; làm giảm",
+      "cefr": "A2",
+      "exampleEn": "Taking the bus can reduce air pollution.",
+      "exampleVi": "Đi xe buýt có thể làm giảm ô nhiễm không khí.",
+      "collocations": [
+        "reduce pollution",
+        "reduce waste"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "reduce",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "campaign-n",
+      "word": "campaign",
+      "ipa": "/kæmˈpeɪn/",
+      "pos": "n.",
+      "meaningVi": "chiến dịch",
+      "cefr": "B1",
+      "exampleEn": "Students started a campaign to clean the beach.",
+      "exampleVi": "Sinh viên đã bắt đầu một chiến dịch làm sạch bãi biển.",
+      "collocations": [
+        "public campaign",
+        "environmental campaign"
+      ],
+      "topics": [
+        "environment"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "campaign",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "computer-n",
+      "word": "computer",
+      "ipa": "/kəmˈpjuːtə/",
+      "pos": "n.",
+      "meaningVi": "máy tính",
+      "cefr": "A1",
+      "exampleEn": "I use a computer to do my homework.",
+      "exampleVi": "Tôi dùng máy tính để làm bài tập về nhà.",
+      "collocations": [
+        "computer skills",
+        "computer screen"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 1,
+        "headword": "computer",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "device-n",
+      "word": "device",
+      "ipa": "/dɪˈvaɪs/",
+      "pos": "n.",
+      "meaningVi": "thiết bị",
+      "cefr": "A2",
+      "exampleEn": "This device measures the temperature in the room.",
+      "exampleVi": "Thiết bị này đo nhiệt độ trong phòng.",
+      "collocations": [
+        "electronic device",
+        "mobile device"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 5,
+        "headword": "device",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "access-n",
+      "word": "access",
+      "ipa": "/ˈækses/",
+      "pos": "n.",
+      "meaningVi": "quyền hoặc khả năng tiếp cận",
+      "cefr": "B1",
+      "exampleEn": "All students have access to the internet.",
+      "exampleVi": "Tất cả sinh viên đều có thể truy cập internet.",
+      "collocations": [
+        "internet access",
+        "access to information"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "access",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "journey-n",
+      "word": "journey",
+      "ipa": "/ˈdʒɜːni/",
+      "pos": "n.",
+      "meaningVi": "hành trình; chuyến đi",
+      "cefr": "A1",
+      "exampleEn": "The journey from my home to the airport takes an hour.",
+      "exampleVi": "Chuyến đi từ nhà tôi đến sân bay mất một giờ.",
+      "collocations": [
+        "long journey",
+        "train journey"
+      ],
+      "topics": [
+        "travel"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "journey",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "tourism-n",
+      "word": "tourism",
+      "ipa": "/ˈtʊərɪzəm/",
+      "pos": "n.",
+      "meaningVi": "ngành du lịch; hoạt động du lịch",
+      "cefr": "A2",
+      "exampleEn": "Tourism provides jobs for local people.",
+      "exampleVi": "Du lịch tạo việc làm cho người dân địa phương.",
+      "collocations": [
+        "local tourism",
+        "international tourism"
+      ],
+      "topics": [
+        "travel"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "tourism",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "accommodation-n",
+      "word": "accommodation",
+      "ipa": "/əˌkɒməˈdeɪʃn/",
+      "pos": "n.",
+      "meaningVi": "chỗ ở",
+      "cefr": "B1",
+      "exampleEn": "We need accommodation near the station.",
+      "exampleVi": "Chúng tôi cần chỗ ở gần nhà ga.",
+      "collocations": [
+        "student accommodation",
+        "book accommodation"
+      ],
+      "topics": [
+        "travel"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "accommodation",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "meal-n",
+      "word": "meal",
+      "ipa": "/miːl/",
+      "pos": "n.",
+      "meaningVi": "bữa ăn",
+      "cefr": "A1",
+      "exampleEn": "We usually share a meal in the evening.",
+      "exampleVi": "Chúng tôi thường ăn cùng nhau vào buổi tối.",
+      "collocations": [
+        "main meal",
+        "home-cooked meal"
+      ],
+      "topics": [
+        "food"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "meal",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "recipe-n",
+      "word": "recipe",
+      "ipa": "/ˈresəpi/",
+      "pos": "n.",
+      "meaningVi": "công thức nấu ăn",
+      "cefr": "A2",
+      "exampleEn": "This recipe uses fresh tomatoes.",
+      "exampleVi": "Công thức này sử dụng cà chua tươi.",
+      "collocations": [
+        "follow a recipe",
+        "simple recipe"
+      ],
+      "topics": [
+        "food"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "recipe",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "bake-v",
+      "word": "bake",
+      "ipa": "/beɪk/",
+      "pos": "v.",
+      "meaningVi": "nướng bằng lò",
+      "cefr": "B1",
+      "exampleEn": "I bake bread for my family on Sundays.",
+      "exampleVi": "Tôi nướng bánh mì cho gia đình vào Chủ nhật.",
+      "collocations": [
+        "bake bread",
+        "bake a cake"
+      ],
+      "topics": [
+        "food"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "bake",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "routine-n",
+      "word": "routine",
+      "ipa": "/ruːˈtiːn/",
+      "pos": "n.",
+      "meaningVi": "thói quen; nếp sinh hoạt",
+      "cefr": "A1",
+      "exampleEn": "A short walk is part of my morning routine.",
+      "exampleVi": "Đi bộ một lát là một phần trong nếp sinh hoạt buổi sáng của tôi.",
+      "collocations": [
+        "daily routine",
+        "morning routine"
+      ],
+      "topics": [
+        "daily-life"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "routine",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "relax-v",
+      "word": "relax",
+      "ipa": "/rɪˈlæks/",
+      "pos": "v.",
+      "meaningVi": "thư giãn",
+      "cefr": "A1",
+      "exampleEn": "I relax by listening to music after work.",
+      "exampleVi": "Tôi thư giãn bằng cách nghe nhạc sau giờ làm.",
+      "collocations": [
+        "relax at home",
+        "relax after work"
+      ],
+      "topics": [
+        "daily-life"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "relax",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "tidy-v",
+      "word": "tidy",
+      "ipa": "/ˈtaɪdi/",
+      "pos": "v.",
+      "meaningVi": "dọn dẹp cho ngăn nắp",
+      "cefr": "A2",
+      "exampleEn": "I tidy my room every weekend.",
+      "exampleVi": "Tôi dọn phòng cho ngăn nắp mỗi cuối tuần.",
+      "collocations": [
+        "tidy a room",
+        "tidy the kitchen"
+      ],
+      "topics": [
+        "daily-life"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "tidy",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "price-n",
+      "word": "price",
+      "ipa": "/praɪs/",
+      "pos": "n.",
+      "meaningVi": "giá cả",
+      "cefr": "A1",
+      "exampleEn": "The price includes delivery to your home.",
+      "exampleVi": "Giá đã bao gồm giao hàng đến nhà.",
+      "collocations": [
+        "high price",
+        "reasonable price"
+      ],
+      "topics": [
+        "shopping"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "price",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "sale-n",
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "pos": "n.",
+      "meaningVi": "đợt bán giảm giá",
+      "cefr": "A2",
+      "exampleEn": "I bought this coat in the sale.",
+      "exampleVi": "Tôi đã mua chiếc áo khoác này trong đợt giảm giá.",
+      "collocations": [
+        "summer sale",
+        "in the sale"
+      ],
+      "topics": [
+        "shopping"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "sale",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "brand-n",
+      "word": "brand",
+      "ipa": "/brænd/",
+      "pos": "n.",
+      "meaningVi": "thương hiệu",
+      "cefr": "B1",
+      "exampleEn": "I often compare brands before buying a phone.",
+      "exampleVi": "Tôi thường so sánh các thương hiệu trước khi mua điện thoại.",
+      "collocations": [
+        "popular brand",
+        "local brand"
+      ],
+      "topics": [
+        "shopping"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "brand",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "ticket-n",
+      "word": "ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "pos": "n.",
+      "meaningVi": "vé",
+      "cefr": "A1",
+      "exampleEn": "A return ticket costs ten pounds.",
+      "exampleVi": "Một vé khứ hồi có giá mười bảng Anh.",
+      "collocations": [
+        "return ticket",
+        "bus ticket"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "ticket",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "route-n",
+      "word": "route",
+      "ipa": "/ruːt/",
+      "pos": "n.",
+      "meaningVi": "tuyến đường; lộ trình",
+      "cefr": "A2",
+      "exampleEn": "This bus route goes past the hospital.",
+      "exampleVi": "Tuyến xe buýt này đi ngang qua bệnh viện.",
+      "collocations": [
+        "bus route",
+        "shortest route"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "route",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "arrival-n",
+      "word": "arrival",
+      "ipa": "/əˈraɪvl/",
+      "pos": "n.",
+      "meaningVi": "sự đến nơi",
+      "cefr": "B1",
+      "exampleEn": "The screen shows the arrival time of each train.",
+      "exampleVi": "Màn hình hiển thị giờ đến của từng chuyến tàu.",
+      "collocations": [
+        "arrival time",
+        "on arrival"
+      ],
+      "topics": [
+        "transport"
+      ],
+      "skills": [
+        "Listening",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "arrival",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "community-n",
+      "word": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "pos": "n.",
+      "meaningVi": "cộng đồng",
+      "cefr": "A2",
+      "exampleEn": "The new library serves the local community.",
+      "exampleVi": "Thư viện mới phục vụ cộng đồng địa phương.",
+      "collocations": [
+        "local community",
+        "community centre"
+      ],
+      "topics": [
+        "society"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "community",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "charity-n",
+      "word": "charity",
+      "ipa": "/ˈtʃærəti/",
+      "pos": "n.",
+      "meaningVi": "tổ chức từ thiện; hoạt động từ thiện",
+      "cefr": "A2",
+      "exampleEn": "Our school raises money for a local charity.",
+      "exampleVi": "Trường chúng tôi quyên tiền cho một tổ chức từ thiện địa phương.",
+      "collocations": [
+        "local charity",
+        "charity event"
+      ],
+      "topics": [
+        "society"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "charity",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "ban-n",
+      "word": "ban",
+      "ipa": "/bæn/",
+      "pos": "n.",
+      "meaningVi": "lệnh cấm",
+      "cefr": "B1",
+      "exampleEn": "The city introduced a ban on smoking in parks.",
+      "exampleVi": "Thành phố đã ban hành lệnh cấm hút thuốc trong công viên.",
+      "collocations": [
+        "smoking ban",
+        "ban on smoking"
+      ],
+      "topics": [
+        "society"
+      ],
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "ban",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "festival-n",
+      "word": "festival",
+      "ipa": "/ˈfestɪvl/",
+      "pos": "n.",
+      "meaningVi": "lễ hội",
+      "cefr": "A1",
+      "exampleEn": "The village holds a festival every spring.",
+      "exampleVi": "Ngôi làng tổ chức một lễ hội vào mỗi mùa xuân.",
+      "collocations": [
+        "local festival",
+        "music festival"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "festival",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "tradition-n",
+      "word": "tradition",
+      "ipa": "/trəˈdɪʃn/",
+      "pos": "n.",
+      "meaningVi": "truyền thống",
+      "cefr": "A2",
+      "exampleEn": "Cooking together is an important family tradition.",
+      "exampleVi": "Nấu ăn cùng nhau là một truyền thống quan trọng của gia đình.",
+      "collocations": [
+        "family tradition",
+        "local tradition"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "tradition",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "ceremony-n",
+      "word": "ceremony",
+      "ipa": "/ˈserəməni/",
+      "pos": "n.",
+      "meaningVi": "buổi lễ; nghi lễ",
+      "cefr": "B1",
+      "exampleEn": "The opening ceremony begins at nine.",
+      "exampleVi": "Lễ khai mạc bắt đầu lúc chín giờ.",
+      "collocations": [
+        "opening ceremony",
+        "wedding ceremony"
+      ],
+      "topics": [
+        "culture"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "ceremony",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "apartment-n",
+      "word": "apartment",
+      "ipa": "/əˈpɑːtmənt/",
+      "pos": "n.",
+      "meaningVi": "căn hộ",
+      "cefr": "A1",
+      "exampleEn": "They live in a small apartment near the river.",
+      "exampleVi": "Họ sống trong một căn hộ nhỏ gần sông.",
+      "collocations": [
+        "rent an apartment",
+        "small apartment"
+      ],
+      "topics": [
+        "housing"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 1,
+        "headword": "apartment",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "comfortable-adj",
+      "word": "comfortable",
+      "ipa": "/ˈkʌmftəbl/",
+      "pos": "adj.",
+      "meaningVi": "thoải mái; dễ chịu",
+      "cefr": "A2",
+      "exampleEn": "The room is small but comfortable.",
+      "exampleVi": "Căn phòng nhỏ nhưng thoải mái.",
+      "collocations": [
+        "comfortable room",
+        "comfortable chair"
+      ],
+      "topics": [
+        "housing"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "comfortable",
+        "pos": "adj."
+      }
+    },
+    {
+      "id": "ceiling-n",
+      "word": "ceiling",
+      "ipa": "/ˈsiːlɪŋ/",
+      "pos": "n.",
+      "meaningVi": "trần nhà",
+      "cefr": "B1",
+      "exampleEn": "The bedroom has a high ceiling.",
+      "exampleVi": "Phòng ngủ có trần cao.",
+      "collocations": [
+        "high ceiling",
+        "low ceiling"
+      ],
+      "topics": [
+        "housing"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "ceiling",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "weather-n",
+      "word": "weather",
+      "ipa": "/ˈweðə/",
+      "pos": "n.",
+      "meaningVi": "thời tiết",
+      "cefr": "A1",
+      "exampleEn": "The weather was warm during our trip.",
+      "exampleVi": "Thời tiết ấm áp trong chuyến đi của chúng tôi.",
+      "collocations": [
+        "warm weather",
+        "weather forecast"
+      ],
+      "topics": [
+        "weather"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "weather",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "climate-n",
+      "word": "climate",
+      "ipa": "/ˈklaɪmət/",
+      "pos": "n.",
+      "meaningVi": "khí hậu",
+      "cefr": "A2",
+      "exampleEn": "This region has a dry climate.",
+      "exampleVi": "Vùng này có khí hậu khô.",
+      "collocations": [
+        "dry climate",
+        "climate change"
+      ],
+      "topics": [
+        "weather"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "climate",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "storm-n",
+      "word": "storm",
+      "ipa": "/stɔːm/",
+      "pos": "n.",
+      "meaningVi": "cơn bão",
+      "cefr": "A2",
+      "exampleEn": "A storm delayed several flights last night.",
+      "exampleVi": "Một cơn bão đã làm chậm nhiều chuyến bay tối qua.",
+      "collocations": [
+        "heavy storm",
+        "winter storm"
+      ],
+      "topics": [
+        "weather"
+      ],
+      "skills": [
+        "Listening",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "storm",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "team-n",
+      "word": "team",
+      "ipa": "/tiːm/",
+      "pos": "n.",
+      "meaningVi": "đội; nhóm",
+      "cefr": "A1",
+      "exampleEn": "I joined the school football team last year.",
+      "exampleVi": "Tôi đã gia nhập đội bóng đá của trường năm ngoái.",
+      "collocations": [
+        "football team",
+        "team member"
+      ],
+      "topics": [
+        "sport"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "team",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "competition-n",
+      "word": "competition",
+      "ipa": "/ˌkɒmpəˈtɪʃn/",
+      "pos": "n.",
+      "meaningVi": "cuộc thi; sự cạnh tranh",
+      "cefr": "A2",
+      "exampleEn": "Our town hosts a swimming competition in July.",
+      "exampleVi": "Thị trấn của chúng tôi tổ chức một cuộc thi bơi vào tháng Bảy.",
+      "collocations": [
+        "sports competition",
+        "enter a competition"
+      ],
+      "topics": [
+        "sport"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "competition",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "champion-n",
+      "word": "champion",
+      "ipa": "/ˈtʃæmpiən/",
+      "pos": "n.",
+      "meaningVi": "nhà vô địch",
+      "cefr": "B1",
+      "exampleEn": "She became the national champion at eighteen.",
+      "exampleVi": "Cô ấy trở thành nhà vô địch quốc gia ở tuổi mười tám.",
+      "collocations": [
+        "national champion",
+        "world champion"
+      ],
+      "topics": [
+        "sport"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "champion",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "news-n",
+      "word": "news",
+      "ipa": "/njuːz/",
+      "pos": "n.",
+      "meaningVi": "tin tức",
+      "cefr": "A1",
+      "exampleEn": "I read the news on my phone every morning.",
+      "exampleVi": "Tôi đọc tin tức trên điện thoại mỗi sáng.",
+      "collocations": [
+        "local news",
+        "news report"
+      ],
+      "topics": [
+        "media"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "news",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "advertisement-n",
+      "word": "advertisement",
+      "ipa": "/ədˈvɜːtɪsmənt/",
+      "pos": "n.",
+      "meaningVi": "quảng cáo; mẩu quảng cáo",
+      "cefr": "A2",
+      "exampleEn": "I saw an advertisement for a language course.",
+      "exampleVi": "Tôi đã thấy một quảng cáo về khóa học ngôn ngữ.",
+      "collocations": [
+        "online advertisement",
+        "newspaper advertisement"
+      ],
+      "topics": [
+        "media"
+      ],
+      "skills": [
+        "Listening",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "advertisement",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "channel-n",
+      "word": "channel",
+      "ipa": "/ˈtʃænl/",
+      "pos": "n.",
+      "meaningVi": "kênh truyền hình hoặc truyền thông",
+      "cefr": "B1",
+      "exampleEn": "This channel shows programmes about science.",
+      "exampleVi": "Kênh này chiếu các chương trình về khoa học.",
+      "collocations": [
+        "television channel",
+        "news channel"
+      ],
+      "topics": [
+        "media"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "channel",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "money-n",
+      "word": "money",
+      "ipa": "/ˈmʌni/",
+      "pos": "n.",
+      "meaningVi": "tiền",
+      "cefr": "A1",
+      "exampleEn": "I save money by cooking at home.",
+      "exampleVi": "Tôi tiết kiệm tiền bằng cách nấu ăn ở nhà.",
+      "collocations": [
+        "save money",
+        "spend money"
+      ],
+      "topics": [
+        "money"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "money",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "salary-n",
+      "word": "salary",
+      "ipa": "/ˈsæləri/",
+      "pos": "n.",
+      "meaningVi": "tiền lương",
+      "cefr": "A2",
+      "exampleEn": "The company pays a monthly salary.",
+      "exampleVi": "Công ty trả lương hằng tháng.",
+      "collocations": [
+        "monthly salary",
+        "annual salary"
+      ],
+      "topics": [
+        "money"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "salary",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "afford-v",
+      "word": "afford",
+      "ipa": "/əˈfɔːd/",
+      "pos": "v.",
+      "meaningVi": "có đủ khả năng chi trả",
+      "cefr": "B1",
+      "exampleEn": "Many students cannot afford a car.",
+      "exampleVi": "Nhiều sinh viên không đủ tiền mua ô tô.",
+      "collocations": [
+        "can afford",
+        "afford to buy"
+      ],
+      "topics": [
+        "money"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "afford",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "library-n",
+      "word": "library",
+      "ipa": "/ˈlaɪbrəri/",
+      "pos": "n.",
+      "meaningVi": "thư viện",
+      "cefr": "A1",
+      "exampleEn": "The library is opposite the station.",
+      "exampleVi": "Thư viện nằm đối diện nhà ga.",
+      "collocations": [
+        "public library",
+        "local library"
+      ],
+      "topics": [
+        "cities"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "library",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "crowded-adj",
+      "word": "crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "pos": "adj.",
+      "meaningVi": "đông đúc",
+      "cefr": "A2",
+      "exampleEn": "The city centre is crowded at weekends.",
+      "exampleVi": "Trung tâm thành phố đông đúc vào cuối tuần.",
+      "collocations": [
+        "crowded street",
+        "crowded bus"
+      ],
+      "topics": [
+        "cities"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 5,
+        "headword": "crowded",
+        "pos": "adj."
+      }
+    },
+    {
+      "id": "central-adj",
+      "word": "central",
+      "ipa": "/ˈsentrəl/",
+      "pos": "adj.",
+      "meaningVi": "ở trung tâm",
+      "cefr": "B1",
+      "exampleEn": "The hotel is in a central location.",
+      "exampleVi": "Khách sạn nằm ở vị trí trung tâm.",
+      "collocations": [
+        "central location",
+        "central area"
+      ],
+      "topics": [
+        "cities"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "central",
+        "pos": "adj."
+      }
+    },
+    {
+      "id": "river-n",
+      "word": "river",
+      "ipa": "/ˈrɪvə/",
+      "pos": "n.",
+      "meaningVi": "sông",
+      "cefr": "A1",
+      "exampleEn": "A wide river runs through the city.",
+      "exampleVi": "Một con sông rộng chảy qua thành phố.",
+      "collocations": [
+        "cross a river",
+        "river bank"
+      ],
+      "topics": [
+        "nature"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "river",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "wild-adj",
+      "word": "wild",
+      "ipa": "/waɪld/",
+      "pos": "adj.",
+      "meaningVi": "hoang dã",
+      "cefr": "A2",
+      "exampleEn": "Visitors must not feed wild animals.",
+      "exampleVi": "Du khách không được cho động vật hoang dã ăn.",
+      "collocations": [
+        "wild animals",
+        "wild plants"
+      ],
+      "topics": [
+        "nature"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "wild",
+        "pos": "adj."
+      }
+    },
+    {
+      "id": "bee-n",
+      "word": "bee",
+      "ipa": "/biː/",
+      "pos": "n.",
+      "meaningVi": "con ong",
+      "cefr": "B1",
+      "exampleEn": "A bee landed on a flower in our garden.",
+      "exampleVi": "Một con ong đậu lên bông hoa trong vườn chúng tôi.",
+      "collocations": [
+        "honey bee",
+        "bee population"
+      ],
+      "topics": [
+        "nature"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "bee",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "science-n",
+      "word": "science",
+      "ipa": "/ˈsaɪəns/",
+      "pos": "n.",
+      "meaningVi": "khoa học",
+      "cefr": "A1",
+      "exampleEn": "Science helps us understand the natural world.",
+      "exampleVi": "Khoa học giúp chúng ta hiểu thế giới tự nhiên.",
+      "collocations": [
+        "science lesson",
+        "science teacher"
+      ],
+      "topics": [
+        "science"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 3,
+        "headword": "science",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "research-n",
+      "word": "research",
+      "ipa": "/rɪˈsɜːtʃ/",
+      "pos": "n.",
+      "meaningVi": "nghiên cứu",
+      "cefr": "A2",
+      "exampleEn": "The team is doing research on water quality.",
+      "exampleVi": "Nhóm đang nghiên cứu chất lượng nước.",
+      "collocations": [
+        "do research",
+        "scientific research"
+      ],
+      "topics": [
+        "science"
+      ],
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "research",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "analyse-v",
+      "word": "analyse",
+      "ipa": "/ˈænəlaɪz/",
+      "pos": "v.",
+      "meaningVi": "phân tích",
+      "cefr": "B1",
+      "exampleEn": "Students analyse the results of the experiment.",
+      "exampleVi": "Sinh viên phân tích kết quả thí nghiệm.",
+      "collocations": [
+        "analyse data",
+        "analyse results"
+      ],
+      "topics": [
+        "science"
+      ],
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "analyse",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "message-n",
+      "word": "message",
+      "ipa": "/ˈmesɪdʒ/",
+      "pos": "n.",
+      "meaningVi": "tin nhắn; lời nhắn",
+      "cefr": "A1",
+      "exampleEn": "Please leave a message after the tone.",
+      "exampleVi": "Vui lòng để lại lời nhắn sau tiếng bíp.",
+      "collocations": [
+        "leave a message",
+        "send a message"
+      ],
+      "topics": [
+        "communication"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "message",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "communicate-v",
+      "word": "communicate",
+      "ipa": "/kəˈmjuːnɪkeɪt/",
+      "pos": "v.",
+      "meaningVi": "giao tiếp; truyền đạt",
+      "cefr": "A2",
+      "exampleEn": "We communicate with our teachers by email.",
+      "exampleVi": "Chúng tôi trao đổi với giáo viên qua email.",
+      "collocations": [
+        "communicate clearly",
+        "communicate with others"
+      ],
+      "topics": [
+        "communication"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "communicate",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "announcement-n",
+      "word": "announcement",
+      "ipa": "/əˈnaʊnsmənt/",
+      "pos": "n.",
+      "meaningVi": "thông báo",
+      "cefr": "B1",
+      "exampleEn": "Listen to the announcement about the next train.",
+      "exampleVi": "Hãy nghe thông báo về chuyến tàu tiếp theo.",
+      "collocations": [
+        "public announcement",
+        "make an announcement"
+      ],
+      "topics": [
+        "communication"
+      ],
+      "skills": [
+        "Listening",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "announcement",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "museum-n",
+      "word": "museum",
+      "ipa": "/mjuˈziːəm/",
+      "pos": "n.",
+      "meaningVi": "bảo tàng",
+      "cefr": "A1",
+      "exampleEn": "The museum is closed on Mondays.",
+      "exampleVi": "Bảo tàng đóng cửa vào thứ Hai.",
+      "collocations": [
+        "history museum",
+        "visit a museum"
+      ],
+      "topics": [
+        "arts"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 2,
+        "headword": "museum",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "audience-n",
+      "word": "audience",
+      "ipa": "/ˈɔːdiəns/",
+      "pos": "n.",
+      "meaningVi": "khán giả",
+      "cefr": "A2",
+      "exampleEn": "The audience enjoyed the school concert.",
+      "exampleVi": "Khán giả đã thích buổi hòa nhạc của trường.",
+      "collocations": [
+        "large audience",
+        "young audience"
+      ],
+      "topics": [
+        "arts"
+      ],
+      "skills": [
+        "Speaking",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "audience",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "collection-n",
+      "word": "collection",
+      "ipa": "/kəˈlekʃn/",
+      "pos": "n.",
+      "meaningVi": "bộ sưu tập",
+      "cefr": "B1",
+      "exampleEn": "The museum has a collection of old photographs.",
+      "exampleVi": "Bảo tàng có một bộ sưu tập ảnh cũ.",
+      "collocations": [
+        "art collection",
+        "collection of paintings"
+      ],
+      "topics": [
+        "arts"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "collection",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "clothes-n",
+      "word": "clothes",
+      "ipa": "/kləʊðz/",
+      "pos": "n.",
+      "meaningVi": "quần áo",
+      "cefr": "A1",
+      "exampleEn": "I wear comfortable clothes when I travel.",
+      "exampleVi": "Tôi mặc quần áo thoải mái khi đi du lịch.",
+      "collocations": [
+        "casual clothes",
+        "warm clothes"
+      ],
+      "topics": [
+        "clothing"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 1,
+        "headword": "clothes",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "size-n",
+      "word": "size",
+      "ipa": "/saɪz/",
+      "pos": "n.",
+      "meaningVi": "kích cỡ",
+      "cefr": "A2",
+      "exampleEn": "Do you have this shirt in a larger size?",
+      "exampleVi": "Bạn có chiếc áo này cỡ lớn hơn không?",
+      "collocations": [
+        "shoe size",
+        "larger size"
+      ],
+      "topics": [
+        "clothing"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "size",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "cloth-n",
+      "word": "cloth",
+      "ipa": "/klɒθ/",
+      "pos": "n.",
+      "meaningVi": "vải",
+      "cefr": "B1",
+      "exampleEn": "This bag is made from a single piece of cloth.",
+      "exampleVi": "Chiếc túi này được làm từ một mảnh vải.",
+      "collocations": [
+        "cotton cloth",
+        "piece of cloth"
+      ],
+      "topics": [
+        "clothing"
+      ],
+      "skills": [
+        "Listening",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "cloth",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "weekend-n",
+      "word": "weekend",
+      "ipa": "/ˌwiːkˈend/",
+      "pos": "n.",
+      "meaningVi": "cuối tuần",
+      "cefr": "A1",
+      "exampleEn": "I visit my grandparents at the weekend.",
+      "exampleVi": "Tôi thăm ông bà vào cuối tuần.",
+      "collocations": [
+        "at the weekend",
+        "long weekend"
+      ],
+      "topics": [
+        "time"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 4,
+        "headword": "weekend",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "schedule-n",
+      "word": "schedule",
+      "ipa": "/ˈʃedjuːl/",
+      "pos": "n.",
+      "meaningVi": "lịch trình",
+      "cefr": "A2",
+      "exampleEn": "Check the schedule before booking your trip.",
+      "exampleVi": "Hãy kiểm tra lịch trình trước khi đặt chuyến đi.",
+      "collocations": [
+        "busy schedule",
+        "daily schedule"
+      ],
+      "topics": [
+        "time"
+      ],
+      "skills": [
+        "Listening",
+        "Speaking",
+        "Reading"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "schedule",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "approximately-adv",
+      "word": "approximately",
+      "ipa": "/əˈprɒksɪmətli/",
+      "pos": "adv.",
+      "meaningVi": "xấp xỉ; khoảng",
+      "cefr": "B1",
+      "exampleEn": "The journey takes approximately forty minutes.",
+      "exampleVi": "Chuyến đi mất khoảng bốn mươi phút.",
+      "collocations": [
+        "approximately half",
+        "approximately ten minutes"
+      ],
+      "topics": [
+        "time"
+      ],
+      "skills": [
+        "Listening",
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "approximately",
+        "pos": "adv."
+      }
+    },
+    {
+      "id": "chart-n",
+      "word": "chart",
+      "ipa": "/tʃɑːt/",
+      "pos": "n.",
+      "meaningVi": "biểu đồ",
+      "cefr": "A1",
+      "exampleEn": "The chart shows the number of visitors each month.",
+      "exampleVi": "Biểu đồ cho thấy số lượng khách mỗi tháng.",
+      "collocations": [
+        "bar chart",
+        "pie chart"
+      ],
+      "topics": [
+        "data-and-trends"
+      ],
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 1,
+        "headword": "chart",
+        "pos": "n."
+      }
+    },
+    {
+      "id": "rise-v",
+      "word": "rise",
+      "ipa": "/raɪz/",
+      "pos": "v.",
+      "meaningVi": "tăng; tăng lên",
+      "cefr": "A2",
+      "exampleEn": "Prices usually rise during the holiday season.",
+      "exampleVi": "Giá cả thường tăng trong mùa nghỉ lễ.",
+      "collocations": [
+        "rise steadily",
+        "rise sharply"
+      ],
+      "topics": [
+        "data-and-trends"
+      ],
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 6,
+        "headword": "rise",
+        "pos": "v."
+      }
+    },
+    {
+      "id": "comparison-n",
+      "word": "comparison",
+      "ipa": "/kəmˈpærɪsn/",
+      "pos": "n.",
+      "meaningVi": "sự so sánh",
+      "cefr": "B1",
+      "exampleEn": "The report includes a comparison of the two cities.",
+      "exampleVi": "Báo cáo bao gồm sự so sánh giữa hai thành phố.",
+      "collocations": [
+        "make a comparison",
+        "comparison between"
+      ],
+      "topics": [
+        "data-and-trends"
+      ],
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "cefrSource": {
+        "id": "oxford3000",
+        "page": 7,
+        "headword": "comparison",
+        "pos": "n."
+      }
+    }
+  ]
+}

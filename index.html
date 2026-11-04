@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Luyện từ vựng IELTS Band 4.0 - 1000+ từ vựng cơ bản với flashcard, bài kiểm tra gõ từ và theo dõi tiến độ">
-    <title>IELTS Vocab Master - Luyện Từ Vựng Band 4.0</title>
+        content="Học từ vựng IELTS nền tảng A1–B1 với ví dụ Anh–Việt, flashcards, quiz và theo dõi tiến độ.">
+    <title>IELTS Vocab Master - Từ vựng A1–B1</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="vocabulary.css">
 </head>
 
 <body>
@@ -22,16 +23,19 @@
                 <h1>IELTS <span class="accent">Vocab</span></h1>
             </div>
             <nav id="main-nav">
-                <button class="nav-btn active" data-section="home" id="nav-home">
+                <button class="nav-btn" data-section="vocabulary" id="nav-vocabulary">
+                    <span class="nav-icon">📖</span><span>A1–B1</span>
+                </button>
+                <button class="nav-btn active" data-section="home" id="nav-home" aria-label="Trang chủ">
                     <span class="nav-icon">🏠</span><span class="nav-text">Trang chủ</span>
                 </button>
-                <button class="nav-btn" data-section="flashcard" id="nav-flashcard">
+                <button class="nav-btn" data-section="flashcard" id="nav-flashcard" aria-label="Flashcard bộ từ cũ">
                     <span class="nav-icon">🃏</span><span class="nav-text">Flashcard</span>
                 </button>
-                <button class="nav-btn" data-section="typing" id="nav-typing">
+                <button class="nav-btn" data-section="typing" id="nav-typing" aria-label="Gõ từ">
                     <span class="nav-icon">⌨️</span><span class="nav-text">Gõ từ</span>
                 </button>
-                <button class="nav-btn" data-section="progress" id="nav-progress">
+                <button class="nav-btn" data-section="progress" id="nav-progress" aria-label="Tiến độ bộ từ cũ">
                     <span class="nav-icon">📊</span><span class="nav-text">Tiến độ</span>
                 </button>
             </nav>
@@ -44,6 +48,7 @@
             <div class="hero-content">
                 <h2>Luyện <span class="gradient-text">Từ Vựng</span> IELTS</h2>
                 <p>Học từ vựng cơ bản qua Flashcard và Gõ từ</p>
+                <button class="v-button" id="open-vocabulary">Khám phá thư viện A1–B1 →</button>
                 <div class="stats-row" id="hero-stats">
                     <div class="stat-card">
                         <span class="stat-num" id="stat-total">0</span>
@@ -132,11 +137,65 @@
         <h3 class="section-title">Tiến độ học tập</h3>
         <div class="progress-overview" id="progress-overview"></div>
         <div class="progress-grid" id="progress-grid"></div>
-        <button class="reset-btn" id="reset-progress">🗑️ Xóa toàn bộ tiến độ</button>
+        <button class="reset-btn" id="reset-progress">🗑️ Xóa tiến độ bộ từ cũ</button>
     </section>
 
+    <section id="vocabulary" class="section" aria-labelledby="v-title">
+        <div class="v-heading">
+            <p class="v-eyebrow">IELTS FOUNDATION · A1 / A2 / B1</p>
+            <h2 id="v-title">Từ vựng nhỏ, bước tiến lớn</h2>
+            <p>78 mục từ · 26 chủ đề · Ví dụ Anh–Việt. Học theo nhu cầu của bạn.</p>
+        </div>
+        <details class="v-guide">
+            <summary>Nguồn dữ liệu và cách học theo 4 kỹ năng</summary>
+            <p>CEFR đối chiếu headword và từ loại trong <a href="https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/The_Oxford_3000_by_CEFR_level.pdf" target="_blank" rel="noopener noreferrer">Oxford 3000</a>; mỗi mục có liên kết đến trang nguồn. IPA theo cách phát âm Anh–Anh. Ví dụ, bản dịch, collocations và nhãn kỹ năng do dự án biên soạn.</p>
+            <ul>
+                <li>Listening: luyện nhận diện từ trong hội thoại, chỉ đường, lịch trình và thông báo.</li>
+                <li>Speaking: dùng từ trong Part 1 về bản thân, Part 2 kể trải nghiệm và Part 3 thảo luận.</li>
+                <li>Reading: nhận diện nghĩa trong văn bản và bài đọc.</li>
+                <li>Writing: luyện cụm từ cho Task 2; chọn “Data and Trends” để luyện mô tả Task 1.</li>
+            </ul>
+            <p>Đây là bộ nền tảng có chọn lọc, không phải danh sách IELTS chính thức hay cam kết band điểm. Mức CEFR của từ không tự động áp dụng cho mọi nghĩa hoặc cả câu ví dụ.</p>
+        </details>
+        <div class="v-progress-box">
+            <p id="v-progress" aria-live="polite"></p>
+            <progress id="v-meter" value="0" max="78" aria-label="Tiến độ học bộ A1–B1"></progress>
+            <p class="v-muted">Tiến độ A1–B1 lưu riêng trên trình duyệt này. Đúng quiz chưa tự động tính là đã học; trả lời sai sẽ chuyển từ sang cần ôn tập.</p>
+            <p id="v-storage" role="status" hidden></p>
+        </div>
+        <div class="v-filters">
+            <label class="v-search-label">Tìm từ Anh hoặc nghĩa Việt<input id="v-search" type="search" placeholder="Ví dụ: journey, hành trình, hanh trinh" autocomplete="off"></label>
+            <label>Chủ đề<select id="v-topic"><option value="">Tất cả chủ đề</option></select></label>
+            <label>Trình độ CEFR<select id="v-cefr"><option value="">A1–B1</option><option>A1</option><option>A2</option><option>B1</option></select></label>
+            <label>Kỹ năng<select id="v-skill"><option value="">Cả 4 kỹ năng</option><option>Listening</option><option>Speaking</option><option>Reading</option><option>Writing</option></select></label>
+            <label>Trạng thái<select id="v-status"><option value="">Tất cả trạng thái</option><option value="new">Chưa học</option><option value="learned">Đã học</option><option value="review">Cần ôn tập</option></select></label>
+        </div>
+        <div class="v-toolbar">
+            <button class="v-button" id="v-clear">Xóa bộ lọc</button>
+            <button class="v-button v-primary" id="v-flash-start">Học Flashcards</button>
+            <button class="v-button v-primary" id="v-quiz-start">Quiz · tối đa 10 câu</button>
+            <button class="v-button" id="v-csv">Tải CSV</button>
+            <button class="v-button" id="v-json">Tải JSON</button>
+        </div>
+        <p class="v-muted">Flashcards, quiz và tải dữ liệu sử dụng kết quả lọc hiện tại, gồm mọi trang.</p>
+        <p id="v-count" class="v-result-count" role="status"></p>
+        <div id="v-list" class="v-grid"></div>
+        <div class="v-pagination"><button class="v-button" id="v-prev">← Trang trước</button><span id="v-page"></span><button class="v-button" id="v-next">Trang sau →</button></div>
+    </section>
+    <dialog id="v-session" class="v-dialog" aria-labelledby="v-session-title">
+        <div class="v-dialog-heading"><h2 id="v-session-title">Học từ vựng</h2><button class="v-button" id="v-session-close" autofocus>Đóng</button></div>
+        <div id="v-session-content"></div>
+    </dialog>
+    <dialog id="legacy-completion" class="v-dialog" aria-labelledby="legacy-completion-title">
+        <h2 id="legacy-completion-title">Hoàn thành!</h2>
+        <p id="legacy-completion-summary"></p>
+        <form method="dialog"><button class="v-button">Về trang chủ</button></form>
+    </dialog>
     <script src="vocab-data.js"></script>
     <script src="app.js"></script>
+    <script src="vocab-a1-b1-data.js"></script>
+    <script src="vocab-core.js"></script>
+    <script src="vocabulary.js"></script>
 </body>
 
 </html>
